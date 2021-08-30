@@ -20,10 +20,9 @@ grab_projects(){
         cd $num
         echo -e "\033[32m ------>\033[0m Extracting: $num"
         jar xvf ../$num.zip # 乱码问题
-        for i in *.mlp # 空格问题
+        for nm in $(ls -A .)
         do
-          a=`echo ${i} | sed -s "s/.mlp//g"`
-          mv "${i}" "${a}.json"
+          mv $nm $(echo $nm | sed 's/mlp/json/')
         done
         echo -e "\033[32m ------>\033[0m Formatting: $num"
         prettier -w ./ # npm install --global prettier
