@@ -1,0 +1,316 @@
+{
+  "version": 2,
+  "tempo": 120,
+  "tracks": [
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.6551723480224609,
+      "pan": 0.4988862872123718,
+      "label": "总1",
+      "effectors": [
+        {
+          "index": 0,
+          "mix": 0.27733755111694336,
+          "paramX": 0.5,
+          "paramY": 0.5523883104324341
+        }
+      ],
+      "isExternal": false,
+      "soundPackName": "BasicSoundPack",
+      "fileName": "China-Erhu",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 5.000000237487257e-4,
+      "volEnvD": 2.0000000949949026e-4,
+      "volEnvS": 1,
+      "volEnvR": 0.06666667014360428,
+      "modEnvA": 5.000000237487257e-4,
+      "modEnvD": 2.0000000949949026e-4,
+      "modEnvS": 1,
+      "modEnvR": 6.666666740784422e-5,
+      "filterFC": 2.125,
+      "modToFilter": 0.5,
+      "portaMode": 2,
+      "portaTime": 0.07000000029802322,
+      "notes": [
+        { "startSlot": 256, "lengthSlot": 16, "note": 42, "volume": 1 },
+        { "startSlot": 272, "lengthSlot": 16, "note": 43, "volume": 1 },
+        { "startSlot": 288, "lengthSlot": 16, "note": 41, "volume": 1 },
+        { "startSlot": 400, "lengthSlot": 16, "note": 39, "volume": 1 },
+        { "startSlot": 416, "lengthSlot": 16, "note": 38, "volume": 1 },
+        { "startSlot": 432, "lengthSlot": 16, "note": 37, "volume": 1 }
+      ]
+    },
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.19435739517211914,
+      "pan": 0.5,
+      "effectors": [
+        {
+          "index": 0,
+          "mix": 0.30586373805999756,
+          "paramX": 0.49473685026168823,
+          "paramY": 0.5554699301719666
+        }
+      ],
+      "isExternal": false,
+      "soundPackName": "MelodicTrance",
+      "fileName": "Vocal Pad",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 0,
+      "volEnvD": 0,
+      "volEnvS": 1,
+      "volEnvR": 0.06666667014360428,
+      "modEnvA": 0,
+      "modEnvD": 0,
+      "modEnvS": 1,
+      "modEnvR": 0,
+      "filterFC": 2.125,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [
+        { "startSlot": 0, "lengthSlot": 128, "note": 106, "volume": 1 },
+        { "startSlot": 128, "lengthSlot": 128, "note": 105, "volume": 1 },
+        { "startSlot": 256, "lengthSlot": 128, "note": 102, "volume": 1 },
+        { "startSlot": 384, "lengthSlot": 128, "note": 101, "volume": 1 }
+      ]
+    },
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.5078369975090027,
+      "pan": 0.5,
+      "label": "总2",
+      "effectors": [
+        {
+          "index": 0,
+          "mix": 0.10618066787719727,
+          "paramX": 0.5,
+          "paramY": 0.5847457647323608
+        },
+        { "index": 2, "mix": 0.1111111119389534, "paramX": 0, "paramY": 0 }
+      ],
+      "isExternal": false,
+      "soundPackName": "BasicSoundPack",
+      "fileName": "Fade Pluck",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 5.000000237487257e-4,
+      "volEnvD": 2.0000000949949026e-4,
+      "volEnvS": 1,
+      "volEnvR": 0.6665458679199219,
+      "modEnvA": 5.000000237487257e-4,
+      "modEnvD": 2.0000000949949026e-4,
+      "modEnvS": 1,
+      "modEnvR": 6.666666740784422e-5,
+      "filterFC": 2.125,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [
+        { "startSlot": 128, "lengthSlot": 16, "note": 25, "volume": 1 },
+        { "startSlot": 320, "lengthSlot": 16, "note": 28, "volume": 1 }
+      ]
+    },
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.890282154083252,
+      "pan": 0.5,
+      "effectors": [
+        {
+          "index": 0,
+          "mix": 0.11251986026763916,
+          "paramX": 0.49157893657684326,
+          "paramY": 0.5416024923324585
+        },
+        {
+          "index": 1,
+          "mix": 0.44999998807907104,
+          "paramX": 0.6999999284744263,
+          "paramY": 0.699999988079071
+        },
+        { "index": 2, "mix": 0.1111111119389534, "paramX": 0, "paramY": 0 }
+      ],
+      "isExternal": false,
+      "soundPackName": "MelodicTrance",
+      "fileName": "Vocal Pad",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 0,
+      "volEnvD": 0,
+      "volEnvS": 1,
+      "volEnvR": 0.06666667014360428,
+      "modEnvA": 0,
+      "modEnvD": 0,
+      "modEnvS": 1,
+      "modEnvR": 0,
+      "filterFC": 2.125,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": []
+    },
+    {
+      "type": 1,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.13479620218276978,
+      "pan": 0.5,
+      "label": "鼓",
+      "effectors": [
+        {
+          "index": 0,
+          "mix": 1,
+          "paramX": 0.4000000059604645,
+          "paramY": 0.6000000238418579
+        },
+        {
+          "index": 1,
+          "mix": 0.44999998807907104,
+          "paramX": 0.6999999284744263,
+          "paramY": 0.699999988079071
+        }
+      ],
+      "slotScale": 1,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "BasicSoundPack",
+          "fileName": "Kick 7",
+          "category": 1,
+          "volume": 1,
+          "beats": []
+        },
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "EssentialTropicalHouse",
+          "fileName": "Clap 1",
+          "category": 2,
+          "volume": 1,
+          "beats": []
+        },
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "MartinGarrixUltimatePack",
+          "fileName": "Clap 2",
+          "category": 2,
+          "volume": 0.5450121760368347,
+          "beats": []
+        },
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "BasicSoundPack",
+          "fileName": "Impact 2",
+          "category": 0,
+          "volume": 0.46715328097343445,
+          "beats": [{ "positionSlot": 0, "volume": 1 }]
+        },
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "ProgressiveHouseElements",
+          "fileName": "HiHat 1",
+          "category": 5,
+          "volume": 0.406326025724411,
+          "beats": []
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 1,
+      "pan": 0.5,
+      "label": "滚",
+      "effectors": [
+        {
+          "index": 0,
+          "mix": 0.40253567695617676,
+          "paramX": 0.4989473819732666,
+          "paramY": 0.5647149682044983
+        },
+        {
+          "index": 1,
+          "mix": 0.6450079679489136,
+          "paramX": 0.7957848310470581,
+          "paramY": 0.8651772141456604
+        },
+        { "index": 2, "mix": 0.1111111119389534, "paramX": 0, "paramY": 0 }
+      ],
+      "isExternal": false,
+      "soundPackName": "MelodicTrance",
+      "fileName": "Kandi Pad",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 5.000000237487257e-4,
+      "volEnvD": 2.0000000949949026e-4,
+      "volEnvS": 1,
+      "volEnvR": 0.13325634598731995,
+      "modEnvA": 5.000000237487257e-4,
+      "modEnvD": 2.0000000949949026e-4,
+      "modEnvS": 1,
+      "modEnvR": 6.666666740784422e-5,
+      "filterFC": 2.125,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [
+        { "startSlot": 128, "lengthSlot": 128, "note": 50, "volume": 1 },
+        { "startSlot": 0, "lengthSlot": 128, "note": 49, "volume": 1 },
+        { "startSlot": 256, "lengthSlot": 128, "note": 51, "volume": 1 },
+        { "startSlot": 384, "lengthSlot": 128, "note": 49, "volume": 1 }
+      ]
+    },
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [
+        {
+          "index": 0,
+          "mix": 0.45007920265197754,
+          "paramX": 0.4000000059604645,
+          "paramY": 0.6000000238418579
+        }
+      ],
+      "isExternal": false,
+      "soundPackName": "MartinGarrixUltimatePack",
+      "fileName": "Pizza Lead",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 0,
+      "volEnvD": 0,
+      "volEnvS": 1,
+      "volEnvR": 0.5330253839492798,
+      "modEnvA": 0,
+      "modEnvD": 0,
+      "modEnvS": 1,
+      "modEnvR": 0,
+      "filterFC": 2.125,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [
+        { "startSlot": 0, "lengthSlot": 32, "note": 37, "volume": 1 },
+        { "startSlot": 128, "lengthSlot": 32, "note": 35, "volume": 1 },
+        { "startSlot": 256, "lengthSlot": 64, "note": 27, "volume": 1 }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "version": 2,
+  "tempo": 140,
+  "tracks": [
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "isExternal": false,
+      "soundPackName": "BasicSoundPack",
+      "fileName": "China-GuQin",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 5.000000237487257e-4,
+      "volEnvD": 2.0000000949949026e-4,
+      "volEnvS": 1,
+      "volEnvR": 0.13325634598731995,
+      "modEnvA": 5.000000237487257e-4,
+      "modEnvD": 2.0000000949949026e-4,
+      "modEnvS": 1,
+      "modEnvR": 6.666666740784422e-5,
+      "filterFC": 2.125,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [
+        { "startSlot": 48, "lengthSlot": 4, "note": 86, "volume": 1 },
+        { "startSlot": 36, "lengthSlot": 8, "note": 84, "volume": 1 },
+        { "startSlot": 32, "lengthSlot": 4, "note": 86, "volume": 1 },
+        { "startSlot": 24, "lengthSlot": 8, "note": 88, "volume": 1 }
+      ]
+    },
+    {
+      "type": 1,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "slotScale": 1,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "RockBandSounds",
+          "fileName": "Snare 1",
+          "category": 2,
+          "volume": 1,
+          "beats": [{ "positionSlot": 0, "volume": 1 }]
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "slotScale": 1,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "RockBandSounds",
+          "fileName": "Snare 4",
+          "category": 2,
+          "volume": 1,
+          "beats": [{ "positionSlot": 16, "volume": 1 }]
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "slotScale": 1,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "RockBandSounds",
+          "fileName": "Snare 2",
+          "category": 2,
+          "volume": 1,
+          "beats": [{ "positionSlot": 48, "volume": 1 }]
+        }
+      ]
+    },
+    {
+      "type": 2,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "isExternal": false,
+      "soundPackName": "ProgressiveHouseElements",
+      "fileName": "Snare 2",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 0,
+      "volEnvD": 0,
+      "volEnvS": 1,
+      "volEnvR": 0.3333333432674408,
+      "modEnvA": 0,
+      "modEnvD": 0,
+      "modEnvS": 1,
+      "modEnvR": 0,
+      "filterFC": 1,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [
+        { "startSlot": 36, "lengthSlot": 8, "note": 84, "volume": 1 },
+        { "startSlot": 48, "lengthSlot": 8, "note": 86, "volume": 1 },
+        { "startSlot": 56, "lengthSlot": 4, "note": 89, "volume": 1 },
+        { "startSlot": 60, "lengthSlot": 8, "note": 93, "volume": 1 },
+        { "startSlot": 72, "lengthSlot": 8, "note": 91, "volume": 1 },
+        { "startSlot": 0, "lengthSlot": 8, "note": 84, "volume": 1 },
+        { "startSlot": 12, "lengthSlot": 8, "note": 86, "volume": 1 }
+      ]
+    },
+    {
+      "type": 1,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "slotScale": 1,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "RockBandSounds",
+          "fileName": "Snare 5",
+          "category": 2,
+          "volume": 1,
+          "beats": [{ "positionSlot": 32, "volume": 1 }]
+        }
+      ]
+    }
+  ]
+}

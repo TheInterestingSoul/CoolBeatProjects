@@ -1,0 +1,246 @@
+{
+  "version": 2,
+  "tempo": 125,
+  "tracks": [
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.8181818127632141,
+      "pan": 0.5,
+      "effectors": [],
+      "isExternal": false,
+      "soundPackName": "BasicSoundPack",
+      "fileName": "Deep House Bass",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 5.000000237487257e-4,
+      "volEnvD": 2.0000000949949026e-4,
+      "volEnvS": 1,
+      "volEnvR": 0.13325634598731995,
+      "modEnvA": 5.000000237487257e-4,
+      "modEnvD": 2.0000000949949026e-4,
+      "modEnvS": 1,
+      "modEnvR": 6.666666740784422e-5,
+      "filterFC": 2.125,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [
+        { "startSlot": 0, "lengthSlot": 4, "note": 38, "volume": 1 },
+        { "startSlot": 16, "lengthSlot": 4, "note": 38, "volume": 1 },
+        { "startSlot": 32, "lengthSlot": 4, "note": 38, "volume": 1 },
+        { "startSlot": 40, "lengthSlot": 4, "note": 43, "volume": 1 },
+        { "startSlot": 44, "lengthSlot": 4, "note": 43, "volume": 1 },
+        { "startSlot": 52, "lengthSlot": 4, "note": 43, "volume": 1 },
+        { "startSlot": 60, "lengthSlot": 4, "note": 43, "volume": 1 }
+      ]
+    },
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.6394984126091003,
+      "pan": 0.5,
+      "effectors": [
+        {
+          "index": 1,
+          "mix": 0.39619654417037964,
+          "paramX": 0.16414885222911835,
+          "paramY": 0.23805855214595795
+        },
+        { "index": 3, "mix": 1, "paramX": 0.20000000298023224, "paramY": 0.5 },
+        {
+          "index": 4,
+          "mix": 1,
+          "paramX": 0.5431710481643677,
+          "paramY": 0.5183315277099609
+        }
+      ],
+      "isExternal": false,
+      "soundPackName": "BasicSoundPack",
+      "fileName": "Sweep Pad",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 0.003999864216893911,
+      "volEnvD": 1,
+      "volEnvS": 0.5623413324356079,
+      "volEnvR": 0.264060914516449,
+      "modEnvA": 5.000000237487257e-4,
+      "modEnvD": 2.0000000949949026e-4,
+      "modEnvS": 1,
+      "modEnvR": 6.666666740784422e-5,
+      "filterFC": 1.8566666841506958,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [
+        { "startSlot": 0, "lengthSlot": 16, "note": 60, "volume": 1 },
+        { "startSlot": 0, "lengthSlot": 16, "note": 64, "volume": 1 },
+        { "startSlot": 0, "lengthSlot": 16, "note": 67, "volume": 1 },
+        { "startSlot": 16, "lengthSlot": 16, "note": 55, "volume": 1 },
+        { "startSlot": 16, "lengthSlot": 16, "note": 59, "volume": 1 },
+        { "startSlot": 16, "lengthSlot": 16, "note": 62, "volume": 1 },
+        { "startSlot": 32, "lengthSlot": 16, "note": 57, "volume": 1 },
+        { "startSlot": 32, "lengthSlot": 16, "note": 60, "volume": 1 },
+        { "startSlot": 32, "lengthSlot": 16, "note": 64, "volume": 1 }
+      ]
+    },
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [
+        {
+          "index": 1,
+          "mix": 0.5103011131286621,
+          "paramX": 0.45769044756889343,
+          "paramY": 0.2180277407169342
+        }
+      ],
+      "isExternal": false,
+      "soundPackName": "BasicSoundPack",
+      "fileName": "Square Lead",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 0.3190000653266907,
+      "volEnvD": 0,
+      "volEnvS": 1,
+      "volEnvR": 0.020004145801067352,
+      "modEnvA": 0.31857916712760925,
+      "modEnvD": 0,
+      "modEnvS": 1,
+      "modEnvR": 0.04200000315904617,
+      "filterFC": 0.7854999899864197,
+      "modToFilter": 0.4000000059604645,
+      "portaMode": 0,
+      "portaTime": 0.47749999165534973,
+      "notes": [
+        { "startSlot": 0, "lengthSlot": 16, "note": 67, "volume": 1 },
+        { "startSlot": 0, "lengthSlot": 16, "note": 64, "volume": 1 },
+        { "startSlot": 0, "lengthSlot": 16, "note": 60, "volume": 1 },
+        { "startSlot": 16, "lengthSlot": 16, "note": 62, "volume": 1 },
+        { "startSlot": 16, "lengthSlot": 16, "note": 59, "volume": 1 },
+        { "startSlot": 16, "lengthSlot": 16, "note": 55, "volume": 1 },
+        { "startSlot": 32, "lengthSlot": 16, "note": 57, "volume": 1 },
+        { "startSlot": 32, "lengthSlot": 16, "note": 60, "volume": 1 },
+        { "startSlot": 32, "lengthSlot": 16, "note": 64, "volume": 1 },
+        { "startSlot": 48, "lengthSlot": 4, "note": 60, "volume": 1 },
+        { "startSlot": 56, "lengthSlot": 4, "note": 60, "volume": 1 }
+      ]
+    },
+    {
+      "type": 2,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.45768022537231445,
+      "pan": 0.5,
+      "effectors": [],
+      "isExternal": false,
+      "soundPackName": "BasicSoundPack",
+      "fileName": "Closed Hat 3",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 5.000000237487257e-4,
+      "volEnvD": 2.0000000949949026e-4,
+      "volEnvS": 1,
+      "volEnvR": 0.3333333432674408,
+      "modEnvA": 5.000000237487257e-4,
+      "modEnvD": 2.0000000949949026e-4,
+      "modEnvS": 1,
+      "modEnvR": 6.666666740784422e-5,
+      "filterFC": 1,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [
+        { "startSlot": 0, "lengthSlot": 4, "note": 60, "volume": 1 },
+        { "startSlot": 16, "lengthSlot": 4, "note": 60, "volume": 1 },
+        { "startSlot": 32, "lengthSlot": 4, "note": 60, "volume": 1 },
+        { "startSlot": 48, "lengthSlot": 4, "note": 60, "volume": 1 },
+        { "startSlot": 56, "lengthSlot": 4, "note": 60, "volume": 1 }
+      ]
+    },
+    {
+      "type": 1,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.739811897277832,
+      "pan": 0.5,
+      "effectors": [],
+      "slotScale": 1,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "BasicSoundPack",
+          "fileName": "Kick 3",
+          "category": 1,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 0, "volume": 1 },
+            { "positionSlot": 16, "volume": 1 },
+            { "positionSlot": 32, "volume": 1 },
+            { "positionSlot": 48, "volume": 1 }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.6050156354904175,
+      "pan": 0.5,
+      "effectors": [],
+      "slotScale": 1,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "BasicSoundPack",
+          "fileName": "Kick 6",
+          "category": 1,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 8, "volume": 1 },
+            { "positionSlot": 24, "volume": 1 },
+            { "positionSlot": 40, "volume": 1 },
+            { "positionSlot": 60, "volume": 1 }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.11285263299942017,
+      "pan": 0.5,
+      "effectors": [],
+      "slotScale": 1,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "BasicSoundPack",
+          "fileName": "Snare 3",
+          "category": 2,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 0, "volume": 1 },
+            { "positionSlot": 4, "volume": 1 },
+            { "positionSlot": 16, "volume": 1 },
+            { "positionSlot": 20, "volume": 1 },
+            { "positionSlot": 32, "volume": 1 },
+            { "positionSlot": 36, "volume": 1 },
+            { "positionSlot": 48, "volume": 1 },
+            { "positionSlot": 52, "volume": 1 }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,288 @@
+{
+  "version": 2,
+  "tempo": 85,
+  "tracks": [
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.3691099286079407,
+      "pan": 0.5,
+      "effectors": [
+        {
+          "index": 0,
+          "mix": 0.4352331757545471,
+          "paramX": 0.4000000059604645,
+          "paramY": 0.6000000238418579
+        },
+        {
+          "index": 1,
+          "mix": 0.7150259017944336,
+          "paramX": 0.6999999284744263,
+          "paramY": 0.699999988079071
+        },
+        {
+          "index": 4,
+          "mix": 0.360967218875885,
+          "paramX": 0,
+          "paramY": 0.8333333134651184
+        }
+      ],
+      "isExternal": false,
+      "soundPackName": "WesternClassic",
+      "fileName": "Flute",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 5.000000237487257e-4,
+      "volEnvD": 0.4000000059604645,
+      "volEnvS": 1,
+      "volEnvR": 0.040008291602134705,
+      "modEnvA": 5.000000237487257e-4,
+      "modEnvD": 2.0000000949949026e-4,
+      "modEnvS": 1,
+      "modEnvR": 6.666666740784422e-5,
+      "filterFC": 1.993416666984558,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [
+        { "startSlot": 8, "lengthSlot": 8, "note": 89, "volume": 1 },
+        { "startSlot": 48, "lengthSlot": 16, "note": 91, "volume": 1 },
+        { "startSlot": 64, "lengthSlot": 16, "note": 91, "volume": 1 },
+        { "startSlot": 80, "lengthSlot": 8, "note": 93, "volume": 1 },
+        { "startSlot": 88, "lengthSlot": 16, "note": 91, "volume": 1 },
+        { "startSlot": 104, "lengthSlot": 16, "note": 86, "volume": 1 },
+        { "startSlot": 128, "lengthSlot": 8, "note": 88, "volume": 1 },
+        { "startSlot": 136, "lengthSlot": 8, "note": 86, "volume": 1 },
+        { "startSlot": 144, "lengthSlot": 16, "note": 84, "volume": 1 },
+        { "startSlot": 160, "lengthSlot": 16, "note": 84, "volume": 1 },
+        { "startSlot": 176, "lengthSlot": 16, "note": 84, "volume": 1 },
+        { "startSlot": 192, "lengthSlot": 16, "note": 84, "volume": 1 },
+        { "startSlot": 208, "lengthSlot": 8, "note": 86, "volume": 1 },
+        { "startSlot": 216, "lengthSlot": 16, "note": 84, "volume": 1 },
+        { "startSlot": 232, "lengthSlot": 16, "note": 88, "volume": 1 },
+        { "startSlot": 256, "lengthSlot": 8, "note": 88, "volume": 1 },
+        { "startSlot": 264, "lengthSlot": 8, "note": 89, "volume": 1 },
+        { "startSlot": 272, "lengthSlot": 16, "note": 91, "volume": 1 },
+        { "startSlot": 288, "lengthSlot": 16, "note": 91, "volume": 1 },
+        { "startSlot": 304, "lengthSlot": 16, "note": 91, "volume": 1 },
+        { "startSlot": 320, "lengthSlot": 16, "note": 91, "volume": 1 },
+        { "startSlot": 344, "lengthSlot": 16, "note": 91, "volume": 1 },
+        { "startSlot": 360, "lengthSlot": 16, "note": 86, "volume": 1 },
+        { "startSlot": 384, "lengthSlot": 8, "note": 88, "volume": 1 },
+        { "startSlot": 392, "lengthSlot": 8, "note": 86, "volume": 1 },
+        { "startSlot": 400, "lengthSlot": 16, "note": 84, "volume": 1 },
+        { "startSlot": 416, "lengthSlot": 16, "note": 84, "volume": 1 },
+        { "startSlot": 432, "lengthSlot": 16, "note": 84, "volume": 1 },
+        { "startSlot": 448, "lengthSlot": 16, "note": 84, "volume": 1 },
+        { "startSlot": 464, "lengthSlot": 8, "note": 86, "volume": 1 },
+        { "startSlot": 472, "lengthSlot": 16, "note": 88, "volume": 1 },
+        { "startSlot": 488, "lengthSlot": 16, "note": 84, "volume": 1 },
+        { "startSlot": 336, "lengthSlot": 8, "note": 93, "volume": 1 },
+        { "startSlot": 16, "lengthSlot": 16, "note": 91, "volume": 1 },
+        { "startSlot": 32, "lengthSlot": 16, "note": 91, "volume": 1 },
+        { "startSlot": 0, "lengthSlot": 8, "note": 88, "volume": 1 }
+      ]
+    },
+    {
+      "type": 1,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.6335078477859497,
+      "pan": 0.5,
+      "effectors": [
+        {
+          "index": 1,
+          "mix": 1,
+          "paramX": 0.6999999284744263,
+          "paramY": 0.699999988079071
+        }
+      ],
+      "slotScale": 1,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "EssentialTropicalHouse",
+          "fileName": "Tamburine",
+          "category": 7,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 0, "volume": 1 },
+            { "positionSlot": 64, "volume": 1 },
+            { "positionSlot": 104, "volume": 1 },
+            { "positionSlot": 128, "volume": 1 },
+            { "positionSlot": 192, "volume": 1 },
+            { "positionSlot": 232, "volume": 1 }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.764397919178009,
+      "pan": 0.5,
+      "effectors": [
+        {
+          "index": 1,
+          "mix": 0.5060449242591858,
+          "paramX": 0.6999999284744263,
+          "paramY": 0.699999988079071
+        }
+      ],
+      "slotScale": 1,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "EssentialTropicalHouse",
+          "fileName": "Snap 1",
+          "category": 4,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 0, "volume": 1 },
+            { "positionSlot": 80, "volume": 1 },
+            { "positionSlot": 144, "volume": 1 },
+            { "positionSlot": 208, "volume": 1 },
+            { "positionSlot": 272, "volume": 1 },
+            { "positionSlot": 336, "volume": 1 },
+            { "positionSlot": 400, "volume": 1 },
+            { "positionSlot": 464, "volume": 1 }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 1,
+      "pan": 0.5,
+      "effectors": [
+        {
+          "index": 1,
+          "mix": 0.6321243643760681,
+          "paramX": 0.6999999284744263,
+          "paramY": 0.699999988079071
+        }
+      ],
+      "slotScale": 1,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "EssentialTropicalHouse",
+          "fileName": "Shaker 1",
+          "category": 0,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 0, "volume": 1 },
+            { "positionSlot": 16, "volume": 0.5512605309486389 },
+            { "positionSlot": 32, "volume": 0.778151273727417 },
+            { "positionSlot": 48, "volume": 1 },
+            { "positionSlot": 64, "volume": 1 },
+            { "positionSlot": 80, "volume": 0.5428571701049805 },
+            { "positionSlot": 96, "volume": 0.7915966510772705 },
+            { "positionSlot": 112, "volume": 1 },
+            { "positionSlot": 128, "volume": 1 },
+            { "positionSlot": 144, "volume": 0.6352941393852234 },
+            { "positionSlot": 160, "volume": 0.7697479128837585 },
+            { "positionSlot": 176, "volume": 1 },
+            { "positionSlot": 192, "volume": 1 },
+            { "positionSlot": 208, "volume": 0.5411764979362488 },
+            { "positionSlot": 224, "volume": 0.7445378303527832 },
+            { "positionSlot": 240, "volume": 1 }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.9005235433578491,
+      "pan": 0.5,
+      "effectors": [
+        {
+          "index": 0,
+          "mix": 0.3972366452217102,
+          "paramX": 0.4000000059604645,
+          "paramY": 0.6000000238418579
+        },
+        {
+          "index": 1,
+          "mix": 1,
+          "paramX": 0.6999999284744263,
+          "paramY": 0.699999988079071
+        },
+        {
+          "index": 4,
+          "mix": 0.5112262964248657,
+          "paramX": 0,
+          "paramY": 0.8333333134651184
+        }
+      ],
+      "isExternal": false,
+      "soundPackName": "WesternClassic",
+      "fileName": "Marimba",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 5.000000237487257e-4,
+      "volEnvD": 1,
+      "volEnvS": 0,
+      "volEnvR": 0.2800861895084381,
+      "modEnvA": 5.000000237487257e-4,
+      "modEnvD": 2.0000000949949026e-4,
+      "modEnvS": 1,
+      "modEnvR": 6.666666740784422e-5,
+      "filterFC": 2.125,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [
+        { "startSlot": 8, "lengthSlot": 8, "note": 89, "volume": 1 },
+        { "startSlot": 48, "lengthSlot": 16, "note": 91, "volume": 1 },
+        { "startSlot": 64, "lengthSlot": 16, "note": 91, "volume": 1 },
+        { "startSlot": 80, "lengthSlot": 8, "note": 93, "volume": 1 },
+        { "startSlot": 88, "lengthSlot": 16, "note": 91, "volume": 1 },
+        { "startSlot": 104, "lengthSlot": 16, "note": 86, "volume": 1 },
+        { "startSlot": 128, "lengthSlot": 8, "note": 88, "volume": 1 },
+        { "startSlot": 136, "lengthSlot": 8, "note": 86, "volume": 1 },
+        { "startSlot": 144, "lengthSlot": 16, "note": 84, "volume": 1 },
+        { "startSlot": 160, "lengthSlot": 16, "note": 84, "volume": 1 },
+        { "startSlot": 176, "lengthSlot": 16, "note": 84, "volume": 1 },
+        { "startSlot": 192, "lengthSlot": 16, "note": 84, "volume": 1 },
+        { "startSlot": 208, "lengthSlot": 8, "note": 86, "volume": 1 },
+        { "startSlot": 216, "lengthSlot": 16, "note": 84, "volume": 1 },
+        { "startSlot": 232, "lengthSlot": 16, "note": 88, "volume": 1 },
+        { "startSlot": 256, "lengthSlot": 8, "note": 88, "volume": 1 },
+        { "startSlot": 264, "lengthSlot": 8, "note": 89, "volume": 1 },
+        { "startSlot": 272, "lengthSlot": 16, "note": 91, "volume": 1 },
+        { "startSlot": 288, "lengthSlot": 16, "note": 91, "volume": 1 },
+        { "startSlot": 304, "lengthSlot": 16, "note": 91, "volume": 1 },
+        { "startSlot": 320, "lengthSlot": 16, "note": 91, "volume": 1 },
+        { "startSlot": 344, "lengthSlot": 16, "note": 91, "volume": 1 },
+        { "startSlot": 360, "lengthSlot": 16, "note": 86, "volume": 1 },
+        { "startSlot": 384, "lengthSlot": 8, "note": 88, "volume": 1 },
+        { "startSlot": 392, "lengthSlot": 8, "note": 86, "volume": 1 },
+        { "startSlot": 400, "lengthSlot": 16, "note": 84, "volume": 1 },
+        { "startSlot": 416, "lengthSlot": 16, "note": 84, "volume": 1 },
+        { "startSlot": 432, "lengthSlot": 16, "note": 84, "volume": 1 },
+        { "startSlot": 448, "lengthSlot": 16, "note": 84, "volume": 1 },
+        { "startSlot": 464, "lengthSlot": 8, "note": 86, "volume": 1 },
+        { "startSlot": 472, "lengthSlot": 16, "note": 88, "volume": 1 },
+        { "startSlot": 488, "lengthSlot": 16, "note": 84, "volume": 1 },
+        { "startSlot": 336, "lengthSlot": 8, "note": 93, "volume": 1 },
+        { "startSlot": 16, "lengthSlot": 16, "note": 91, "volume": 1 },
+        { "startSlot": 32, "lengthSlot": 16, "note": 91, "volume": 1 },
+        { "startSlot": 0, "lengthSlot": 8, "note": 88, "volume": 1 },
+        { "startSlot": 272, "lengthSlot": 88, "note": 101, "volume": 1 },
+        { "startSlot": 16, "lengthSlot": 104, "note": 101, "volume": 1 },
+        { "startSlot": 264, "lengthSlot": 12, "note": 103, "volume": 1 },
+        { "startSlot": 8, "lengthSlot": 12, "note": 103, "volume": 1 }
+      ]
+    }
+  ]
+}

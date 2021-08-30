@@ -1,0 +1,36 @@
+{
+  "version": 2,
+  "tempo": 60,
+  "tracks": [
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": false,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "isExternal": false,
+      "soundPackName": "BasicSoundPack",
+      "fileName": "Grand Piano",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 0,
+      "volEnvD": 0,
+      "volEnvS": 1,
+      "volEnvR": 0.13325634598731995,
+      "modEnvA": 0,
+      "modEnvD": 0,
+      "modEnvS": 1,
+      "modEnvR": 0,
+      "filterFC": 2.125,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [
+        { "startSlot": 0, "lengthSlot": 64, "note": 69, "volume": 1 },
+        { "startSlot": 80, "lengthSlot": 64, "note": 69, "volume": 1 },
+        { "startSlot": 160, "lengthSlot": 64, "note": 69, "volume": 1 }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "version": 2,
+  "tempo": 128,
+  "tracks": [
+    {
+      "type": 1,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "slotScale": 1,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "ProgressiveHouseElements",
+          "fileName": "Kick 1",
+          "category": 1,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 0, "volume": 1 },
+            { "positionSlot": 16, "volume": 1 },
+            { "positionSlot": 32, "volume": 1 },
+            { "positionSlot": 48, "volume": 1 }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "isExternal": false,
+      "soundPackName": "MartinGarrixUltimatePack",
+      "fileName": "Oops 8bit Lead",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 0,
+      "volEnvD": 0,
+      "volEnvS": 1,
+      "volEnvR": 0,
+      "modEnvA": 0,
+      "modEnvD": 0,
+      "modEnvS": 1,
+      "modEnvR": 0,
+      "filterFC": 2.125,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [
+        { "startSlot": 0, "lengthSlot": 8, "note": 60, "volume": 1 },
+        { "startSlot": 12, "lengthSlot": 8, "note": 60, "volume": 1 },
+        { "startSlot": 32, "lengthSlot": 8, "note": 57, "volume": 1 },
+        { "startSlot": 40, "lengthSlot": 8, "note": 60, "volume": 1 },
+        { "startSlot": 64, "lengthSlot": 8, "note": 57, "volume": 1 },
+        { "startSlot": 76, "lengthSlot": 8, "note": 57, "volume": 1 },
+        { "startSlot": 96, "lengthSlot": 8, "note": 53, "volume": 1 },
+        { "startSlot": 104, "lengthSlot": 8, "note": 57, "volume": 1 },
+        { "startSlot": 128, "lengthSlot": 8, "note": 60, "volume": 1 },
+        { "startSlot": 140, "lengthSlot": 8, "note": 60, "volume": 1 },
+        { "startSlot": 160, "lengthSlot": 8, "note": 57, "volume": 1 },
+        { "startSlot": 192, "lengthSlot": 8, "note": 57, "volume": 1 },
+        { "startSlot": 204, "lengthSlot": 8, "note": 57, "volume": 1 },
+        { "startSlot": 224, "lengthSlot": 8, "note": 53, "volume": 1 },
+        { "startSlot": 168, "lengthSlot": 8, "note": 60, "volume": 1 },
+        { "startSlot": 232, "lengthSlot": 8, "note": 57, "volume": 1 },
+        { "startSlot": 240, "lengthSlot": 8, "note": 57, "volume": 1 },
+        { "startSlot": 248, "lengthSlot": 8, "note": 57, "volume": 1 }
+      ]
+    },
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "isExternal": false,
+      "soundPackName": "ProgressiveHouseElements",
+      "fileName": "Vegas Bass",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 0,
+      "volEnvD": 0,
+      "volEnvS": 1,
+      "volEnvR": 0.06666667014360428,
+      "modEnvA": 0,
+      "modEnvD": 0,
+      "modEnvS": 1,
+      "modEnvR": 0,
+      "filterFC": 2.125,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": []
+    }
+  ]
+}

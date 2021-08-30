@@ -1,0 +1,88 @@
+{
+  "version": 2,
+  "tempo": 125,
+  "tracks": [
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "isExternal": false,
+      "soundPackName": "MarshmelloStyleSounds",
+      "fileName": "Future Bass 1",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 0,
+      "volEnvD": 0,
+      "volEnvS": 1,
+      "volEnvR": 0.19988970458507538,
+      "modEnvA": 0,
+      "modEnvD": 0,
+      "modEnvS": 1,
+      "modEnvR": 0,
+      "filterFC": 2.125,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [
+        { "startSlot": 0, "lengthSlot": 4, "note": 88, "volume": 1 },
+        { "startSlot": 4, "lengthSlot": 4, "note": 88, "volume": 1 },
+        { "startSlot": 8, "lengthSlot": 4, "note": 74, "volume": 1 },
+        { "startSlot": 16, "lengthSlot": 4, "note": 81, "volume": 1 },
+        { "startSlot": 28, "lengthSlot": 4, "note": 82, "volume": 1 },
+        { "startSlot": 36, "lengthSlot": 4, "note": 82, "volume": 1 },
+        { "startSlot": 44, "lengthSlot": 4, "note": 84, "volume": 1 },
+        {
+          "startSlot": 48,
+          "lengthSlot": 4,
+          "note": 84,
+          "volume": 0.29795920848846436
+        },
+        { "startSlot": 52, "lengthSlot": 4, "note": 88, "volume": 1 },
+        { "startSlot": 56, "lengthSlot": 4, "note": 84, "volume": 1 },
+        { "startSlot": 60, "lengthSlot": 4, "note": 82, "volume": 1 },
+        { "startSlot": 68, "lengthSlot": 4, "note": 89, "volume": 1 },
+        { "startSlot": 72, "lengthSlot": 4, "note": 90, "volume": 1 },
+        { "startSlot": 64, "lengthSlot": 4, "note": 89, "volume": 1 },
+        { "startSlot": 76, "lengthSlot": 4, "note": 74, "volume": 1 },
+        { "startSlot": 92, "lengthSlot": 4, "note": 82, "volume": 1 },
+        { "startSlot": 84, "lengthSlot": 4, "note": 81, "volume": 1 },
+        { "startSlot": 100, "lengthSlot": 4, "note": 83, "volume": 1 },
+        { "startSlot": 108, "lengthSlot": 4, "note": 84, "volume": 1 }
+      ]
+    },
+    {
+      "type": 1,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "slotScale": 1,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "EssentialTropicalHouse",
+          "fileName": "Kick 3",
+          "category": 1,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 12, "volume": 1 },
+            { "positionSlot": 28, "volume": 1 },
+            { "positionSlot": 44, "volume": 1 },
+            { "positionSlot": 52, "volume": 1 },
+            { "positionSlot": 56, "volume": 1 },
+            { "positionSlot": 76, "volume": 1 },
+            { "positionSlot": 92, "volume": 1 },
+            { "positionSlot": 108, "volume": 1 },
+            { "positionSlot": 116, "volume": 1 },
+            { "positionSlot": 120, "volume": 1 }
+          ]
+        }
+      ]
+    }
+  ]
+}

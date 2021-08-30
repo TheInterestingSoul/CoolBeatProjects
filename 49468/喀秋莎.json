@@ -1,0 +1,136 @@
+{
+  "version": 2,
+  "tempo": 140,
+  "tracks": [
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "isExternal": false,
+      "soundPackName": "MartinGarrixUltimatePack",
+      "fileName": "Pizza Lead",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 5.000000237487257e-4,
+      "volEnvD": 2.0000000949949026e-4,
+      "volEnvS": 1,
+      "volEnvR": 0.5330253839492798,
+      "modEnvA": 5.000000237487257e-4,
+      "modEnvD": 2.0000000949949026e-4,
+      "modEnvS": 1,
+      "modEnvR": 6.666666740784422e-5,
+      "filterFC": 2.125,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [
+        { "startSlot": 0, "lengthSlot": 4, "note": 76, "volume": 1 },
+        { "startSlot": 16, "lengthSlot": 4, "note": 81, "volume": 1 },
+        { "startSlot": 32, "lengthSlot": 4, "note": 79, "volume": 1 },
+        { "startSlot": 48, "lengthSlot": 4, "note": 81, "volume": 1 },
+        { "startSlot": 64, "lengthSlot": 4, "note": 79, "volume": 1 },
+        { "startSlot": 80, "lengthSlot": 4, "note": 77, "volume": 1 },
+        { "startSlot": 96, "lengthSlot": 4, "note": 76, "volume": 1 },
+        { "startSlot": 112, "lengthSlot": 4, "note": 74, "volume": 1 },
+        { "startSlot": 128, "lengthSlot": 4, "note": 76, "volume": 1 },
+        { "startSlot": 160, "lengthSlot": 4, "note": 74, "volume": 1 },
+        { "startSlot": 144, "lengthSlot": 4, "note": 77, "volume": 1 },
+        { "startSlot": 176, "lengthSlot": 4, "note": 71, "volume": 1 }
+      ]
+    },
+    {
+      "type": 1,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "slotScale": 1,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "EssentialTropicalHouse",
+          "fileName": "Clap 1",
+          "category": 2,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 12, "volume": 1 },
+            { "positionSlot": 80, "volume": 1 },
+            { "positionSlot": 48, "volume": 1 },
+            { "positionSlot": 124, "volume": 1 }
+          ]
+        },
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "EssentialTropicalHouse",
+          "fileName": "Snap 1",
+          "category": 4,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 32, "volume": 1 },
+            { "positionSlot": 64, "volume": 1 },
+            { "positionSlot": 112, "volume": 1 },
+            { "positionSlot": 0, "volume": 1 }
+          ]
+        },
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "EssentialTropicalHouse",
+          "fileName": "Shaker 3",
+          "category": 0,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 4, "volume": 1 },
+            { "positionSlot": 20, "volume": 1 },
+            { "positionSlot": 36, "volume": 1 },
+            { "positionSlot": 52, "volume": 1 },
+            { "positionSlot": 68, "volume": 1 },
+            { "positionSlot": 84, "volume": 1 },
+            { "positionSlot": 100, "volume": 1 },
+            { "positionSlot": 116, "volume": 1 }
+          ]
+        },
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "MartinGarrixUltimatePack",
+          "fileName": "Snare 4",
+          "category": 2,
+          "volume": 0.4270072877407074,
+          "beats": [
+            { "positionSlot": 4, "volume": 1 },
+            { "positionSlot": 0, "volume": 1 },
+            { "positionSlot": 8, "volume": 1 },
+            { "positionSlot": 16, "volume": 1 },
+            { "positionSlot": 20, "volume": 1 },
+            { "positionSlot": 24, "volume": 1 },
+            { "positionSlot": 32, "volume": 1 },
+            { "positionSlot": 36, "volume": 1 },
+            { "positionSlot": 40, "volume": 1 },
+            { "positionSlot": 48, "volume": 1 },
+            { "positionSlot": 52, "volume": 1 },
+            { "positionSlot": 56, "volume": 1 },
+            { "positionSlot": 64, "volume": 1 },
+            { "positionSlot": 68, "volume": 1 },
+            { "positionSlot": 72, "volume": 1 },
+            { "positionSlot": 80, "volume": 1 },
+            { "positionSlot": 84, "volume": 1 },
+            { "positionSlot": 88, "volume": 1 },
+            { "positionSlot": 96, "volume": 1 },
+            { "positionSlot": 100, "volume": 1 },
+            { "positionSlot": 104, "volume": 1 },
+            { "positionSlot": 112, "volume": 1 },
+            { "positionSlot": 116, "volume": 1 },
+            { "positionSlot": 120, "volume": 1 }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "version": 2,
+  "tempo": 140,
+  "tracks": [
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 1,
+      "pan": 0.5,
+      "effectors": [
+        {
+          "index": 1,
+          "mix": 0.44999998807907104,
+          "paramX": 0.6999999284744263,
+          "paramY": 0.699999988079071
+        }
+      ],
+      "isExternal": false,
+      "soundPackName": "ProgressiveHouseElements",
+      "fileName": "Spectrum Lead",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 0,
+      "volEnvD": 0,
+      "volEnvS": 1,
+      "volEnvR": 0.06666667014360428,
+      "modEnvA": 0,
+      "modEnvD": 0,
+      "modEnvS": 1,
+      "modEnvR": 0,
+      "filterFC": 2.125,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [
+        { "startSlot": 0, "lengthSlot": 8, "note": 96, "volume": 1 },
+        { "startSlot": 12, "lengthSlot": 8, "note": 95, "volume": 1 },
+        { "startSlot": 24, "lengthSlot": 8, "note": 88, "volume": 1 },
+        { "startSlot": 36, "lengthSlot": 8, "note": 88, "volume": 1 },
+        { "startSlot": 48, "lengthSlot": 8, "note": 91, "volume": 1 },
+        { "startSlot": 64, "lengthSlot": 8, "note": 91, "volume": 1 },
+        { "startSlot": 76, "lengthSlot": 8, "note": 95, "volume": 1 },
+        { "startSlot": 88, "lengthSlot": 8, "note": 96, "volume": 1 },
+        { "startSlot": 100, "lengthSlot": 8, "note": 96, "volume": 1 },
+        { "startSlot": 112, "lengthSlot": 8, "note": 95, "volume": 1 }
+      ]
+    },
+    {
+      "type": 1,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.4647887349128723,
+      "pan": 0.5,
+      "effectors": [
+        { "index": 2, "mix": 0.1111111119389534, "paramX": 0, "paramY": 0 }
+      ],
+      "slotScale": 1,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "ProgressiveHouseElements",
+          "fileName": "Kick 1",
+          "category": 1,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 0, "volume": 1 },
+            { "positionSlot": 16, "volume": 1 },
+            { "positionSlot": 32, "volume": 1 },
+            { "positionSlot": 44, "volume": 1 },
+            { "positionSlot": 56, "volume": 1 }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 2,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.7793427109718323,
+      "pan": 0.5,
+      "effectors": [
+        { "index": 3, "mix": 1, "paramX": 0.20000000298023224, "paramY": 0.5 }
+      ],
+      "isExternal": false,
+      "soundPackName": "RockBandSounds",
+      "fileName": "Rim Tap",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 0,
+      "volEnvD": 0,
+      "volEnvS": 1,
+      "volEnvR": 0.3333333432674408,
+      "modEnvA": 0,
+      "modEnvD": 0,
+      "modEnvS": 1,
+      "modEnvR": 0,
+      "filterFC": 1,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [
+        { "startSlot": 0, "lengthSlot": 8, "note": 96, "volume": 1 },
+        { "startSlot": 12, "lengthSlot": 8, "note": 95, "volume": 1 },
+        { "startSlot": 24, "lengthSlot": 8, "note": 88, "volume": 1 },
+        { "startSlot": 36, "lengthSlot": 8, "note": 88, "volume": 1 },
+        { "startSlot": 48, "lengthSlot": 8, "note": 91, "volume": 1 },
+        { "startSlot": 64, "lengthSlot": 8, "note": 91, "volume": 1 },
+        { "startSlot": 76, "lengthSlot": 8, "note": 95, "volume": 1 },
+        { "startSlot": 88, "lengthSlot": 8, "note": 96, "volume": 1 },
+        { "startSlot": 100, "lengthSlot": 8, "note": 96, "volume": 1 },
+        { "startSlot": 112, "lengthSlot": 8, "note": 95, "volume": 1 }
+      ]
+    },
+    {
+      "type": 1,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "slotScale": 1,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "BasicSoundPack",
+          "fileName": "Snap",
+          "category": 0,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 4, "volume": 1 },
+            { "positionSlot": 20, "volume": 1 },
+            { "positionSlot": 36, "volume": 1 },
+            { "positionSlot": 48, "volume": 1 },
+            { "positionSlot": 60, "volume": 1 }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "slotScale": 1,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "ProgressiveHouseElements",
+          "fileName": "Ride 2",
+          "category": 7,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 0, "volume": 1 },
+            { "positionSlot": 8, "volume": 1 },
+            { "positionSlot": 16, "volume": 1 },
+            { "positionSlot": 24, "volume": 1 },
+            { "positionSlot": 32, "volume": 1 },
+            { "positionSlot": 40, "volume": 1 },
+            { "positionSlot": 48, "volume": 1 },
+            { "positionSlot": 56, "volume": 1 },
+            { "positionSlot": 64, "volume": 1 },
+            { "positionSlot": 4, "volume": 1 },
+            { "positionSlot": 12, "volume": 1 },
+            { "positionSlot": 20, "volume": 1 },
+            { "positionSlot": 28, "volume": 1 },
+            { "positionSlot": 36, "volume": 1 },
+            { "positionSlot": 44, "volume": 1 },
+            { "positionSlot": 52, "volume": 1 },
+            { "positionSlot": 60, "volume": 1 }
+          ]
+        }
+      ]
+    }
+  ]
+}

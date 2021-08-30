@@ -1,0 +1,133 @@
+{
+  "version": 2,
+  "tempo": 120,
+  "tracks": [
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "isExternal": false,
+      "soundPackName": "MelodicTrance",
+      "fileName": "Veldt Pluck",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 0,
+      "volEnvD": 0,
+      "volEnvS": 1,
+      "volEnvR": 0.19988970458507538,
+      "modEnvA": 0,
+      "modEnvD": 0,
+      "modEnvS": 1,
+      "modEnvR": 0,
+      "filterFC": 2.125,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": []
+    },
+    {
+      "type": 1,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "slotScale": 1,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "MelodicTrance",
+          "fileName": "Kick 2",
+          "category": 1,
+          "volume": 0.3892943859100342,
+          "beats": [
+            { "positionSlot": 0, "volume": 1 },
+            { "positionSlot": 16, "volume": 1 },
+            { "positionSlot": 32, "volume": 1 },
+            { "positionSlot": 48, "volume": 1 }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "slotScale": 1,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "BasicSoundPack",
+          "fileName": "Closed Hat 5",
+          "category": 4,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 4, "volume": 1 },
+            { "positionSlot": 8, "volume": 1 },
+            { "positionSlot": 20, "volume": 1 },
+            { "positionSlot": 24, "volume": 1 },
+            { "positionSlot": 36, "volume": 1 },
+            { "positionSlot": 40, "volume": 1 },
+            { "positionSlot": 44, "volume": 1 }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "slotScale": 1,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "MelodicTrance",
+          "fileName": "Snare 2",
+          "category": 2,
+          "volume": 0,
+          "beats": [
+            { "positionSlot": 12, "volume": 1 },
+            { "positionSlot": 28, "volume": 1 },
+            { "positionSlot": 44, "volume": 1 },
+            { "positionSlot": 60, "volume": 1 }
+          ]
+        },
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "BasicSoundPack",
+          "fileName": "Snare 5",
+          "category": 2,
+          "volume": 1,
+          "beats": []
+        },
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "BasicSoundPack",
+          "fileName": "Snare 4",
+          "category": 2,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 12, "volume": 1 },
+            { "positionSlot": 28, "volume": 1 },
+            { "positionSlot": 44, "volume": 1 },
+            { "positionSlot": 60, "volume": 1 }
+          ]
+        }
+      ]
+    }
+  ]
+}

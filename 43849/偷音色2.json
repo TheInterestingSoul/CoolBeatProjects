@@ -1,0 +1,200 @@
+{
+  "version": 2,
+  "tempo": 144,
+  "tracks": [
+    {
+      "type": 2,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [
+        {
+          "index": 0,
+          "mix": 1,
+          "paramX": 0.4000000059604645,
+          "paramY": 0.6000000238418579
+        },
+        {
+          "index": 1,
+          "mix": 0.44999998807907104,
+          "paramX": 0.6999999284744263,
+          "paramY": 0.699999988079071
+        },
+        { "index": 2, "mix": 0.1111111119389534, "paramX": 0, "paramY": 0 }
+      ],
+      "isExternal": true,
+      "fileName": "MirrorMirrorPart2开头",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 5.000000237487257e-4,
+      "volEnvD": 2.0000000949949026e-4,
+      "volEnvS": 1,
+      "volEnvR": 0.3333333432674408,
+      "modEnvA": 5.000000237487257e-4,
+      "modEnvD": 2.0000000949949026e-4,
+      "modEnvS": 1,
+      "modEnvR": 6.666666740784422e-5,
+      "filterFC": 1,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [{ "startSlot": 0, "lengthSlot": 48, "note": 72, "volume": 1 }]
+    },
+    {
+      "type": 2,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [
+        {
+          "index": 1,
+          "mix": 0.44999998807907104,
+          "paramX": 0.6999999284744263,
+          "paramY": 0.699999988079071
+        }
+      ],
+      "isExternal": true,
+      "fileName": "桥姬音1",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 0,
+      "volEnvD": 0,
+      "volEnvS": 1,
+      "volEnvR": 0.3333333432674408,
+      "modEnvA": 0,
+      "modEnvD": 0,
+      "modEnvS": 1,
+      "modEnvR": 0,
+      "filterFC": 1,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [{ "startSlot": 0, "lengthSlot": 32, "note": 82, "volume": 1 }]
+    },
+    {
+      "type": 2,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [
+        {
+          "index": 1,
+          "mix": 0.44999998807907104,
+          "paramX": 0.6999999284744263,
+          "paramY": 0.699999988079071
+        }
+      ],
+      "isExternal": true,
+      "fileName": "桥姬音2",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 0,
+      "volEnvD": 0,
+      "volEnvS": 1,
+      "volEnvR": 0.3333333432674408,
+      "modEnvA": 0,
+      "modEnvD": 0,
+      "modEnvS": 1,
+      "modEnvR": 0,
+      "filterFC": 1,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [{ "startSlot": 0, "lengthSlot": 32, "note": 70, "volume": 1 }]
+    },
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "label": "基准",
+      "effectors": [],
+      "isExternal": false,
+      "soundPackName": "WesternClassic",
+      "fileName": "Grand Piano",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 0.003999864216893911,
+      "volEnvD": 1,
+      "volEnvS": 0,
+      "volEnvR": 0.08001658320426941,
+      "modEnvA": 5.000000237487257e-4,
+      "modEnvD": 2.0000000949949026e-4,
+      "modEnvS": 1,
+      "modEnvR": 1,
+      "filterFC": 2.125,
+      "modToFilter": 0.4791666567325592,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [{ "startSlot": 0, "lengthSlot": 32, "note": 79, "volume": 1 }]
+    },
+    {
+      "type": 2,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [
+        {
+          "index": 1,
+          "mix": 0.44999998807907104,
+          "paramX": 0.6999999284744263,
+          "paramY": 0.699999988079071
+        }
+      ],
+      "isExternal": true,
+      "fileName": "暗夜杂音？",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 5.000000237487257e-4,
+      "volEnvD": 2.0000000949949026e-4,
+      "volEnvS": 1,
+      "volEnvR": 0.3333333432674408,
+      "modEnvA": 5.000000237487257e-4,
+      "modEnvD": 2.0000000949949026e-4,
+      "modEnvS": 1,
+      "modEnvR": 6.666666740784422e-5,
+      "filterFC": 1,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [{ "startSlot": 0, "lengthSlot": 16, "note": 71, "volume": 1 }]
+    },
+    {
+      "type": 2,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [
+        {
+          "index": 1,
+          "mix": 0.44999998807907104,
+          "paramX": 0.6999999284744263,
+          "paramY": 0.699999988079071
+        }
+      ],
+      "isExternal": true,
+      "fileName": "地灵殿起床音1",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 0,
+      "volEnvD": 0,
+      "volEnvS": 1,
+      "volEnvR": 0.3333333432674408,
+      "modEnvA": 0,
+      "modEnvD": 0,
+      "modEnvS": 1,
+      "modEnvR": 0,
+      "filterFC": 1,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [{ "startSlot": 0, "lengthSlot": 16, "note": 72, "volume": 1 }]
+    }
+  ]
+}

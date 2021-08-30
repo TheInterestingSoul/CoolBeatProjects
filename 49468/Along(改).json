@@ -1,0 +1,242 @@
+{
+  "version": 2,
+  "tempo": 140,
+  "tracks": [
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 1,
+      "pan": 0.5,
+      "effectors": [
+        { "index": 2, "mix": 0.1111111119389534, "paramX": 0, "paramY": 0 },
+        { "index": 4, "mix": 1, "paramX": 0, "paramY": 0.8333333134651184 }
+      ],
+      "isExternal": false,
+      "soundPackName": "MarshmelloStyleSounds",
+      "fileName": "Late Saw Bass",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 5.000000237487257e-4,
+      "volEnvD": 2.0000000949949026e-4,
+      "volEnvS": 1,
+      "volEnvR": 6.666666740784422e-5,
+      "modEnvA": 5.000000237487257e-4,
+      "modEnvD": 2.0000000949949026e-4,
+      "modEnvS": 1,
+      "modEnvR": 6.666666740784422e-5,
+      "filterFC": 2.125,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [
+        { "startSlot": 0, "lengthSlot": 16, "note": 78, "volume": 1 },
+        { "startSlot": 16, "lengthSlot": 16, "note": 74, "volume": 1 },
+        { "startSlot": 32, "lengthSlot": 16, "note": 81, "volume": 1 },
+        { "startSlot": 56, "lengthSlot": 8, "note": 78, "volume": 1 },
+        { "startSlot": 48, "lengthSlot": 8, "note": 76, "volume": 1 },
+        { "startSlot": 64, "lengthSlot": 44, "note": 76, "volume": 1 },
+        { "startSlot": 112, "lengthSlot": 16, "note": 79, "volume": 1 },
+        { "startSlot": 128, "lengthSlot": 16, "note": 78, "volume": 1 },
+        { "startSlot": 144, "lengthSlot": 16, "note": 79, "volume": 1 },
+        { "startSlot": 160, "lengthSlot": 16, "note": 78, "volume": 1 },
+        { "startSlot": 176, "lengthSlot": 8, "note": 76, "volume": 1 },
+        { "startSlot": 184, "lengthSlot": 8, "note": 79, "volume": 1 },
+        { "startSlot": 192, "lengthSlot": 44, "note": 74, "volume": 1 },
+        { "startSlot": 240, "lengthSlot": 16, "note": 76, "volume": 1 }
+      ]
+    },
+    {
+      "type": 1,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "slotScale": 1,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "MarshmelloStyleSounds",
+          "fileName": "Clap 2",
+          "category": 2,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 0, "volume": 1 },
+            { "positionSlot": 32, "volume": 1 }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 1,
+      "pan": 0.49847787618637085,
+      "effectors": [
+        {
+          "index": 1,
+          "mix": 0.44999998807907104,
+          "paramX": 0.6999999284744263,
+          "paramY": 0.699999988079071
+        },
+        { "index": 2, "mix": 0.1111111119389534, "paramX": 0, "paramY": 0 },
+        { "index": 4, "mix": 1, "paramX": 0.5, "paramY": 0.8333333134651184 }
+      ],
+      "isExternal": false,
+      "soundPackName": "MarshmelloStyleSounds",
+      "fileName": "Jog Wheel Lead",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 5.000000237487257e-4,
+      "volEnvD": 2.0000000949949026e-4,
+      "volEnvS": 1,
+      "volEnvR": 0.13325634598731995,
+      "modEnvA": 5.000000237487257e-4,
+      "modEnvD": 2.0000000949949026e-4,
+      "modEnvS": 1,
+      "modEnvR": 6.666666740784422e-5,
+      "filterFC": 2.125,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [
+        { "startSlot": 8, "lengthSlot": 8, "note": 90, "volume": 1 },
+        { "startSlot": 16, "lengthSlot": 8, "note": 90, "volume": 1 },
+        { "startSlot": 24, "lengthSlot": 8, "note": 90, "volume": 1 },
+        { "startSlot": 32, "lengthSlot": 8, "note": 86, "volume": 1 },
+        { "startSlot": 40, "lengthSlot": 8, "note": 90, "volume": 1 },
+        { "startSlot": 48, "lengthSlot": 8, "note": 86, "volume": 1 },
+        { "startSlot": 56, "lengthSlot": 8, "note": 91, "volume": 1 },
+        { "startSlot": 72, "lengthSlot": 8, "note": 90, "volume": 1 },
+        { "startSlot": 80, "lengthSlot": 8, "note": 86, "volume": 1 },
+        { "startSlot": 88, "lengthSlot": 8, "note": 86, "volume": 1 },
+        { "startSlot": 96, "lengthSlot": 8, "note": 88, "volume": 1 },
+        { "startSlot": 112, "lengthSlot": 8, "note": 88, "volume": 1 },
+        { "startSlot": 104, "lengthSlot": 8, "note": 91, "volume": 1 },
+        { "startSlot": 120, "lengthSlot": 8, "note": 86, "volume": 1 },
+        { "startSlot": 136, "lengthSlot": 8, "note": 86, "volume": 1 },
+        { "startSlot": 0, "lengthSlot": 8, "note": 86, "volume": 1 },
+        { "startSlot": 168, "lengthSlot": 8, "note": 86, "volume": 1 },
+        { "startSlot": 176, "lengthSlot": 8, "note": 86, "volume": 1 },
+        { "startSlot": 160, "lengthSlot": 8, "note": 90, "volume": 1 },
+        { "startSlot": 144, "lengthSlot": 8, "note": 91, "volume": 1 },
+        { "startSlot": 200, "lengthSlot": 8, "note": 86, "volume": 1 },
+        { "startSlot": 216, "lengthSlot": 8, "note": 92, "volume": 1 },
+        { "startSlot": 208, "lengthSlot": 8, "note": 91, "volume": 1 },
+        { "startSlot": 224, "lengthSlot": 8, "note": 94, "volume": 1 },
+        { "startSlot": 232, "lengthSlot": 8, "note": 92, "volume": 1 },
+        { "startSlot": 240, "lengthSlot": 8, "note": 86, "volume": 1 },
+        { "startSlot": 184, "lengthSlot": 8, "note": 91, "volume": 1 }
+      ]
+    },
+    {
+      "type": 1,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "slotScale": 1,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "MarshmelloStyleSounds",
+          "fileName": "Perc Crazy Agogo",
+          "category": 3,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 0, "volume": 1 },
+            { "positionSlot": 12, "volume": 1 },
+            { "positionSlot": 16, "volume": 1 },
+            { "positionSlot": 28, "volume": 1 },
+            { "positionSlot": 44, "volume": 1 },
+            { "positionSlot": 48, "volume": 1 }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.8262910842895508,
+      "pan": 0.5,
+      "effectors": [],
+      "slotScale": 1,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "MarshmelloStyleSounds",
+          "fileName": "Clap 4",
+          "category": 2,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 0, "volume": 1 },
+            { "positionSlot": 16, "volume": 1 },
+            { "positionSlot": 32, "volume": 1 },
+            { "positionSlot": 44, "volume": 1 },
+            { "positionSlot": 56, "volume": 1 }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "slotScale": 1,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "MarshmelloStyleSounds",
+          "fileName": "FX Perc",
+          "category": 0,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 8, "volume": 1 },
+            { "positionSlot": 12, "volume": 1 },
+            { "positionSlot": 0, "volume": 1 },
+            { "positionSlot": 4, "volume": 1 },
+            { "positionSlot": 16, "volume": 1 },
+            { "positionSlot": 20, "volume": 1 },
+            { "positionSlot": 24, "volume": 1 },
+            { "positionSlot": 28, "volume": 1 },
+            { "positionSlot": 32, "volume": 1 },
+            { "positionSlot": 36, "volume": 1 },
+            { "positionSlot": 40, "volume": 1 },
+            { "positionSlot": 44, "volume": 1 },
+            { "positionSlot": 48, "volume": 1 },
+            { "positionSlot": 52, "volume": 1 },
+            { "positionSlot": 56, "volume": 1 },
+            { "positionSlot": 60, "volume": 1 }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 3,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [
+        { "index": 2, "mix": 0.1111111119389534, "paramX": 0, "paramY": 0 }
+      ],
+      "isExternal": false,
+      "soundPackName": "MarshmelloStyleSounds",
+      "autoScale": true,
+      "tempo": 120,
+      "lengthBar": 4,
+      "fileName": "Drum Loop 1"
+    }
+  ]
+}

@@ -1,0 +1,543 @@
+{
+  "version": 2,
+  "tempo": 108,
+  "tracks": [
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [
+        {
+          "index": 1,
+          "mix": 0.44999998807907104,
+          "paramX": 0.6999999284744263,
+          "paramY": 0.699999988079071
+        }
+      ],
+      "isExternal": false,
+      "soundPackName": "BasicSoundPack",
+      "fileName": "Deep House Bass",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 5.000000237487257e-4,
+      "volEnvD": 2.0000000949949026e-4,
+      "volEnvS": 1,
+      "volEnvR": 0.13325634598731995,
+      "modEnvA": 5.000000237487257e-4,
+      "modEnvD": 2.0000000949949026e-4,
+      "modEnvS": 1,
+      "modEnvR": 6.666666740784422e-5,
+      "filterFC": 2.125,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [
+        { "startSlot": 0, "lengthSlot": 12, "note": 72, "volume": 1 },
+        { "startSlot": 12, "lengthSlot": 12, "note": 72, "volume": 1 },
+        { "startSlot": 24, "lengthSlot": 8, "note": 72, "volume": 1 },
+        { "startSlot": 32, "lengthSlot": 12, "note": 75, "volume": 1 },
+        { "startSlot": 44, "lengthSlot": 12, "note": 75, "volume": 1 },
+        { "startSlot": 56, "lengthSlot": 8, "note": 75, "volume": 1 },
+        { "startSlot": 64, "lengthSlot": 12, "note": 68, "volume": 1 },
+        { "startSlot": 76, "lengthSlot": 12, "note": 68, "volume": 1 },
+        { "startSlot": 88, "lengthSlot": 8, "note": 68, "volume": 1 },
+        { "startSlot": 96, "lengthSlot": 12, "note": 70, "volume": 1 },
+        { "startSlot": 108, "lengthSlot": 12, "note": 70, "volume": 1 },
+        { "startSlot": 120, "lengthSlot": 8, "note": 70, "volume": 1 }
+      ]
+    },
+    {
+      "type": 1,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "slotScale": 1,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "BasicSoundPack",
+          "fileName": "Snap",
+          "category": 0,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 24, "volume": 1 },
+            { "positionSlot": 56, "volume": 1 }
+          ]
+        },
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "MelodicTrance",
+          "fileName": "Kick 2",
+          "category": 1,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 0, "volume": 1 },
+            { "positionSlot": 16, "volume": 1 },
+            { "positionSlot": 32, "volume": 1 },
+            { "positionSlot": 48, "volume": 1 }
+          ]
+        },
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "ProgressiveHouseElements",
+          "fileName": "HiHat 2",
+          "category": 5,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 12, "volume": 1 },
+            { "positionSlot": 44, "volume": 1 }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": false,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [
+        {
+          "index": 1,
+          "mix": 0.44999998807907104,
+          "paramX": 0.6999999284744263,
+          "paramY": 0.699999988079071
+        }
+      ],
+      "isExternal": false,
+      "soundPackName": "MartinGarrixUltimatePack",
+      "fileName": "Garrix Sub Bass",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 5.000000237487257e-4,
+      "volEnvD": 2.0000000949949026e-4,
+      "volEnvS": 1,
+      "volEnvR": 6.666666740784422e-5,
+      "modEnvA": 5.000000237487257e-4,
+      "modEnvD": 2.0000000949949026e-4,
+      "modEnvS": 1,
+      "modEnvR": 6.666666740784422e-5,
+      "filterFC": 2.125,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [
+        { "startSlot": 0, "lengthSlot": 32, "note": 77, "volume": 1 },
+        { "startSlot": 32, "lengthSlot": 32, "note": 80, "volume": 1 },
+        { "startSlot": 64, "lengthSlot": 32, "note": 73, "volume": 1 },
+        { "startSlot": 96, "lengthSlot": 32, "note": 75, "volume": 1 }
+      ]
+    },
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "label": "【3】",
+      "effectors": [
+        {
+          "index": 1,
+          "mix": 0.44999998807907104,
+          "paramX": 0.6999999284744263,
+          "paramY": 0.699999988079071
+        }
+      ],
+      "isExternal": false,
+      "soundPackName": "BasicSoundPack",
+      "fileName": "Deep House Bass",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 5.000000237487257e-4,
+      "volEnvD": 2.0000000949949026e-4,
+      "volEnvS": 1,
+      "volEnvR": 0.13325634598731995,
+      "modEnvA": 5.000000237487257e-4,
+      "modEnvD": 2.0000000949949026e-4,
+      "modEnvS": 1,
+      "modEnvR": 6.666666740784422e-5,
+      "filterFC": 2.125,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [
+        { "startSlot": 0, "lengthSlot": 24, "note": 72, "volume": 1 },
+        { "startSlot": 24, "lengthSlot": 8, "note": 72, "volume": 1 },
+        { "startSlot": 32, "lengthSlot": 24, "note": 75, "volume": 1 },
+        { "startSlot": 56, "lengthSlot": 8, "note": 75, "volume": 1 },
+        { "startSlot": 64, "lengthSlot": 24, "note": 77, "volume": 1 },
+        { "startSlot": 88, "lengthSlot": 8, "note": 77, "volume": 1 },
+        { "startSlot": 96, "lengthSlot": 12, "note": 79, "volume": 1 },
+        { "startSlot": 108, "lengthSlot": 12, "note": 74, "volume": 1 },
+        { "startSlot": 120, "lengthSlot": 8, "note": 71, "volume": 1 }
+      ]
+    },
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": false,
+      "volume": 1,
+      "pan": 0.5,
+      "label": "Verse2",
+      "effectors": [
+        {
+          "index": 0,
+          "mix": 0.2331606149673462,
+          "paramX": 0.4000000059604645,
+          "paramY": 0.6000000238418579
+        },
+        {
+          "index": 1,
+          "mix": 0.44999998807907104,
+          "paramX": 0.6999999284744263,
+          "paramY": 0.699999988079071
+        }
+      ],
+      "isExternal": false,
+      "soundPackName": "MelodicTrance",
+      "fileName": "Trancy Pluck",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 5.000000237487257e-4,
+      "volEnvD": 2.0000000949949026e-4,
+      "volEnvS": 1,
+      "volEnvR": 0.19988970458507538,
+      "modEnvA": 5.000000237487257e-4,
+      "modEnvD": 2.0000000949949026e-4,
+      "modEnvS": 1,
+      "modEnvR": 6.666666740784422e-5,
+      "filterFC": 2.125,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [
+        { "startSlot": 0, "lengthSlot": 12, "note": 72, "volume": 1 },
+        { "startSlot": 12, "lengthSlot": 12, "note": 67, "volume": 1 },
+        { "startSlot": 24, "lengthSlot": 8, "note": 72, "volume": 1 },
+        { "startSlot": 32, "lengthSlot": 12, "note": 72, "volume": 1 },
+        { "startSlot": 44, "lengthSlot": 12, "note": 67, "volume": 1 },
+        { "startSlot": 56, "lengthSlot": 8, "note": 72, "volume": 1 },
+        { "startSlot": 64, "lengthSlot": 12, "note": 75, "volume": 1 },
+        { "startSlot": 88, "lengthSlot": 8, "note": 75, "volume": 1 },
+        { "startSlot": 76, "lengthSlot": 12, "note": 70, "volume": 1 },
+        { "startSlot": 96, "lengthSlot": 12, "note": 77, "volume": 1 },
+        { "startSlot": 108, "lengthSlot": 12, "note": 72, "volume": 1 },
+        { "startSlot": 120, "lengthSlot": 8, "note": 77, "volume": 1 },
+        { "startSlot": 128, "lengthSlot": 12, "note": 72, "volume": 1 },
+        { "startSlot": 140, "lengthSlot": 12, "note": 67, "volume": 1 },
+        { "startSlot": 152, "lengthSlot": 8, "note": 72, "volume": 1 },
+        { "startSlot": 160, "lengthSlot": 12, "note": 72, "volume": 1 },
+        { "startSlot": 172, "lengthSlot": 12, "note": 67, "volume": 1 },
+        { "startSlot": 184, "lengthSlot": 8, "note": 72, "volume": 1 },
+        { "startSlot": 192, "lengthSlot": 12, "note": 75, "volume": 1 },
+        { "startSlot": 204, "lengthSlot": 12, "note": 70, "volume": 1 },
+        { "startSlot": 216, "lengthSlot": 8, "note": 75, "volume": 1 },
+        { "startSlot": 224, "lengthSlot": 12, "note": 77, "volume": 1 },
+        { "startSlot": 236, "lengthSlot": 12, "note": 79, "volume": 1 },
+        { "startSlot": 248, "lengthSlot": 8, "note": 75, "volume": 1 },
+        { "startSlot": 256, "lengthSlot": 12, "note": 72, "volume": 1 },
+        { "startSlot": 280, "lengthSlot": 8, "note": 72, "volume": 1 },
+        { "startSlot": 288, "lengthSlot": 12, "note": 72, "volume": 1 },
+        { "startSlot": 312, "lengthSlot": 8, "note": 72, "volume": 1 },
+        { "startSlot": 268, "lengthSlot": 12, "note": 67, "volume": 1 },
+        { "startSlot": 300, "lengthSlot": 12, "note": 67, "volume": 1 },
+        { "startSlot": 320, "lengthSlot": 12, "note": 75, "volume": 1 },
+        { "startSlot": 332, "lengthSlot": 12, "note": 70, "volume": 1 },
+        { "startSlot": 344, "lengthSlot": 8, "note": 75, "volume": 1 },
+        { "startSlot": 352, "lengthSlot": 12, "note": 77, "volume": 1 },
+        { "startSlot": 364, "lengthSlot": 12, "note": 75, "volume": 1 },
+        { "startSlot": 376, "lengthSlot": 8, "note": 79, "volume": 1 },
+        { "startSlot": 384, "lengthSlot": 12, "note": 72, "volume": 1 },
+        { "startSlot": 396, "lengthSlot": 12, "note": 67, "volume": 1 },
+        { "startSlot": 408, "lengthSlot": 8, "note": 72, "volume": 1 },
+        { "startSlot": 416, "lengthSlot": 12, "note": 72, "volume": 1 },
+        { "startSlot": 428, "lengthSlot": 12, "note": 67, "volume": 1 },
+        { "startSlot": 440, "lengthSlot": 8, "note": 72, "volume": 1 },
+        { "startSlot": 448, "lengthSlot": 12, "note": 75, "volume": 1 },
+        { "startSlot": 480, "lengthSlot": 12, "note": 74, "volume": 1 },
+        { "startSlot": 492, "lengthSlot": 12, "note": 72, "volume": 1 },
+        { "startSlot": 504, "lengthSlot": 8, "note": 70, "volume": 1 },
+        { "startSlot": 460, "lengthSlot": 12, "note": 77, "volume": 1 },
+        { "startSlot": 472, "lengthSlot": 8, "note": 79, "volume": 1 }
+      ]
+    },
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "label": "Verse1",
+      "effectors": [
+        {
+          "index": 1,
+          "mix": 0.44999998807907104,
+          "paramX": 0.6999999284744263,
+          "paramY": 0.699999988079071
+        }
+      ],
+      "isExternal": false,
+      "soundPackName": "MelodicTrance",
+      "fileName": "Trancy Pluck",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 5.000000237487257e-4,
+      "volEnvD": 2.0000000949949026e-4,
+      "volEnvS": 1,
+      "volEnvR": 0.19988970458507538,
+      "modEnvA": 5.000000237487257e-4,
+      "modEnvD": 2.0000000949949026e-4,
+      "modEnvS": 1,
+      "modEnvR": 6.666666740784422e-5,
+      "filterFC": 2.125,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [
+        { "startSlot": 0, "lengthSlot": 12, "note": 72, "volume": 1 },
+        { "startSlot": 12, "lengthSlot": 12, "note": 75, "volume": 1 },
+        { "startSlot": 24, "lengthSlot": 8, "note": 72, "volume": 1 },
+        { "startSlot": 32, "lengthSlot": 12, "note": 72, "volume": 1 },
+        { "startSlot": 44, "lengthSlot": 12, "note": 75, "volume": 1 },
+        { "startSlot": 56, "lengthSlot": 8, "note": 72, "volume": 1 },
+        { "startSlot": 64, "lengthSlot": 12, "note": 70, "volume": 1 },
+        { "startSlot": 76, "lengthSlot": 12, "note": 74, "volume": 1 },
+        { "startSlot": 96, "lengthSlot": 12, "note": 75, "volume": 1 },
+        { "startSlot": 120, "lengthSlot": 8, "note": 72, "volume": 1 },
+        { "startSlot": 108, "lengthSlot": 12, "note": 74, "volume": 1 },
+        { "startSlot": 88, "lengthSlot": 8, "note": 77, "volume": 1 }
+      ]
+    },
+    {
+      "type": 1,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "label": "【3】【4】",
+      "effectors": [],
+      "slotScale": 1,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "RockBandSounds",
+          "fileName": "Kick 2",
+          "category": 1,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 0, "volume": 1 },
+            { "positionSlot": 16, "volume": 1 },
+            { "positionSlot": 32, "volume": 1 },
+            { "positionSlot": 48, "volume": 1 }
+          ]
+        },
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "RockBandSounds",
+          "fileName": "Snare 5",
+          "category": 2,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 8, "volume": 1 },
+            { "positionSlot": 24, "volume": 1 },
+            { "positionSlot": 40, "volume": 1 },
+            { "positionSlot": 56, "volume": 1 }
+          ]
+        },
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "BasicSoundPack",
+          "fileName": "Clap 3",
+          "category": 0,
+          "volume": 0.6949602365493774,
+          "beats": [
+            { "positionSlot": 24, "volume": 1 },
+            { "positionSlot": 56, "volume": 1 }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "loaded": true,
+      "isLoop": false,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "label": "渐强",
+      "effectors": [],
+      "slotScale": 1,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "BasicSoundPack",
+          "fileName": "Kick 2",
+          "category": 1,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 0, "volume": 1 },
+            { "positionSlot": 16, "volume": 1 },
+            { "positionSlot": 32, "volume": 1 },
+            { "positionSlot": 48, "volume": 1 },
+            { "positionSlot": 64, "volume": 1 },
+            { "positionSlot": 72, "volume": 1 },
+            { "positionSlot": 80, "volume": 1 },
+            { "positionSlot": 88, "volume": 1 },
+            { "positionSlot": 96, "volume": 1 },
+            { "positionSlot": 100, "volume": 1 },
+            { "positionSlot": 104, "volume": 1 },
+            { "positionSlot": 108, "volume": 1 },
+            { "positionSlot": 112, "volume": 1 },
+            { "positionSlot": 120, "volume": 1 },
+            { "positionSlot": 116, "volume": 1 },
+            { "positionSlot": 124, "volume": 1 }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "loaded": true,
+      "isLoop": false,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "label": "三啪",
+      "effectors": [],
+      "slotScale": 1,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "BasicSoundPack",
+          "fileName": "Impact 2",
+          "category": 0,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 96, "volume": 1 },
+            { "positionSlot": 120, "volume": 1 },
+            { "positionSlot": 108, "volume": 1 }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [
+        {
+          "index": 1,
+          "mix": 0.44999998807907104,
+          "paramX": 0.6999999284744263,
+          "paramY": 0.699999988079071
+        }
+      ],
+      "isExternal": false,
+      "soundPackName": "BasicSoundPack",
+      "fileName": "Deep House Bass",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 5.000000237487257e-4,
+      "volEnvD": 2.0000000949949026e-4,
+      "volEnvS": 1,
+      "volEnvR": 0.13325634598731995,
+      "modEnvA": 5.000000237487257e-4,
+      "modEnvD": 2.0000000949949026e-4,
+      "modEnvS": 1,
+      "modEnvR": 6.666666740784422e-5,
+      "filterFC": 2.125,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [
+        { "startSlot": 0, "lengthSlot": 12, "note": 72, "volume": 1 },
+        { "startSlot": 12, "lengthSlot": 12, "note": 72, "volume": 1 },
+        { "startSlot": 24, "lengthSlot": 8, "note": 72, "volume": 1 },
+        { "startSlot": 32, "lengthSlot": 12, "note": 75, "volume": 1 },
+        { "startSlot": 44, "lengthSlot": 12, "note": 75, "volume": 1 },
+        { "startSlot": 56, "lengthSlot": 8, "note": 75, "volume": 1 },
+        { "startSlot": 64, "lengthSlot": 12, "note": 68, "volume": 1 },
+        { "startSlot": 76, "lengthSlot": 12, "note": 68, "volume": 1 },
+        { "startSlot": 88, "lengthSlot": 8, "note": 68, "volume": 1 },
+        { "startSlot": 96, "lengthSlot": 12, "note": 70, "volume": 1 },
+        { "startSlot": 108, "lengthSlot": 12, "note": 70, "volume": 1 },
+        { "startSlot": 120, "lengthSlot": 8, "note": 70, "volume": 1 }
+      ]
+    },
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "isExternal": false,
+      "soundPackName": "MarshmelloStyleSounds",
+      "fileName": "Summer Lead",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 5.000000237487257e-4,
+      "volEnvD": 2.0000000949949026e-4,
+      "volEnvS": 1,
+      "volEnvR": 0.06666667014360428,
+      "modEnvA": 5.000000237487257e-4,
+      "modEnvD": 2.0000000949949026e-4,
+      "modEnvS": 1,
+      "modEnvR": 6.666666740784422e-5,
+      "filterFC": 2.125,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [
+        { "startSlot": 0, "lengthSlot": 8, "note": 60, "volume": 1 },
+        { "startSlot": 8, "lengthSlot": 8, "note": 60, "volume": 1 },
+        { "startSlot": 16, "lengthSlot": 8, "note": 63, "volume": 1 },
+        { "startSlot": 24, "lengthSlot": 8, "note": 60, "volume": 1 },
+        { "startSlot": 32, "lengthSlot": 8, "note": 67, "volume": 1 },
+        { "startSlot": 40, "lengthSlot": 8, "note": 60, "volume": 1 },
+        { "startSlot": 48, "lengthSlot": 8, "note": 63, "volume": 1 },
+        { "startSlot": 56, "lengthSlot": 8, "note": 60, "volume": 1 },
+        { "startSlot": 64, "lengthSlot": 8, "note": 58, "volume": 1 },
+        { "startSlot": 72, "lengthSlot": 8, "note": 58, "volume": 1 },
+        { "startSlot": 80, "lengthSlot": 8, "note": 62, "volume": 1 },
+        { "startSlot": 96, "lengthSlot": 8, "note": 62, "volume": 1 },
+        { "startSlot": 88, "lengthSlot": 8, "note": 63, "volume": 1 },
+        { "startSlot": 104, "lengthSlot": 8, "note": 60, "volume": 1 },
+        { "startSlot": 112, "lengthSlot": 8, "note": 60, "volume": 1 },
+        { "startSlot": 120, "lengthSlot": 8, "note": 58, "volume": 1 }
+      ]
+    },
+    {
+      "type": 1,
+      "loaded": true,
+      "isLoop": false,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "slotScale": 1,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "BasicSoundPack",
+          "fileName": "Impact 2",
+          "category": 0,
+          "volume": 1,
+          "beats": [{ "positionSlot": 0, "volume": 1 }]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "version": 2,
+  "tempo": 125,
+  "tracks": [
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "isExternal": false,
+      "soundPackName": "ProgressiveHouseElements",
+      "fileName": "Spectrum Pluck",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 0,
+      "volEnvD": 0,
+      "volEnvS": 1,
+      "volEnvR": 0.06666667014360428,
+      "modEnvA": 0,
+      "modEnvD": 0,
+      "modEnvS": 1,
+      "modEnvR": 0,
+      "filterFC": 2.125,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [
+        { "startSlot": 0, "lengthSlot": 12, "note": 71, "volume": 1 },
+        { "startSlot": 16, "lengthSlot": 4, "note": 67, "volume": 1 },
+        { "startSlot": 24, "lengthSlot": 12, "note": 71, "volume": 1 },
+        { "startSlot": 40, "lengthSlot": 4, "note": 69, "volume": 1 },
+        { "startSlot": 32, "lengthSlot": 4, "note": 72, "volume": 1 },
+        { "startSlot": 60, "lengthSlot": 12, "note": 71, "volume": 1 },
+        { "startSlot": 76, "lengthSlot": 4, "note": 67, "volume": 1 },
+        { "startSlot": 84, "lengthSlot": 12, "note": 71, "volume": 1 },
+        { "startSlot": 92, "lengthSlot": 4, "note": 72, "volume": 1 },
+        { "startSlot": 96, "lengthSlot": 4, "note": 75, "volume": 1 },
+        { "startSlot": 100, "lengthSlot": 4, "note": 69, "volume": 1 }
+      ]
+    },
+    {
+      "type": 1,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "slotScale": 1,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "BasicSoundPack",
+          "fileName": "Snap",
+          "category": 0,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 16, "volume": 1 },
+            { "positionSlot": 76, "volume": 1 }
+          ]
+        },
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "BasicSoundPack",
+          "fileName": "Closed Hat 1",
+          "category": 4,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 48, "volume": 1 },
+            { "positionSlot": 52, "volume": 1 }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "version": 4,
+  "tempo": 84,
+  "timeSigType": 0,
+  "masterVolume": 0.5,
+  "masterPan": 0.5,
+  "masterAutos": [
+    { "state": true, "sections": [] },
+    { "state": true, "sections": [] },
+    { "state": true, "sections": [] }
+  ],
+  "tracks": [
+    {
+      "type": 3,
+      "label": "Music Box",
+      "volume": 0,
+      "pan": 0,
+      "muteState": 0,
+      "solo": false,
+      "showingAuto": false,
+      "currentAutoIndex": 0,
+      "scTrackIndex": -1,
+      "filePath": "/storage/emulated/0/玩酷电音/SoundFont/Music Box.sf2",
+      "presetIndex": 0,
+      "pitchRange": 0,
+      "sections": [
+        {
+          "startTick": 0,
+          "length": 9600,
+          "startOffsetTick": 0,
+          "endOffsetTick": 0,
+          "notes": [
+            { "startTick": 0, "length": 240, "key": 60, "volume": 1 },
+            { "startTick": 360, "length": 240, "key": 60, "volume": 1 },
+            { "startTick": 600, "length": 120, "key": 62, "volume": 1 },
+            { "startTick": 840, "length": 360, "key": 60, "volume": 1 },
+            { "startTick": 1320, "length": 240, "key": 57, "volume": 1 },
+            { "startTick": 1680, "length": 120, "key": 55, "volume": 1 },
+            { "startTick": 1920, "length": 120, "key": 55, "volume": 1 },
+            { "startTick": 2160, "length": 120, "key": 53, "volume": 1 }
+          ]
+        }
+      ],
+      "autos": [
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] }
+      ],
+      "fx": [
+        0,
+        -0.05263157933950424,
+        -0.12195122241973877,
+        0,
+        0,
+        0,
+        -0.043478261679410934,
+        -0.01694915071129799,
+        0,
+        0,
+        0,
+        -0.5,
+        0.75,
+        [0, 0, 0, 0],
+        [0.5, 0.5, 0.5, 0.5],
+        [
+          -0.0010010009864345193, -0.0010010009864345193,
+          -0.0010010009864345193, -0.0010010009864345193
+        ],
+        [
+          -0.05820105969905853, -0.025641025975346565, -0.025641025975346565,
+          -0.05820105969905853
+        ],
+        0,
+        0.9411764740943909,
+        -0.010101010091602802,
+        0,
+        -0.010101010091602802,
+        0,
+        0,
+        0,
+        -0.1111111119389534,
+        0,
+        0,
+        -0.1538461595773697,
+        -0.20000000298023224,
+        -0.25,
+        0,
+        -0.111111119389534,
+        -0.1428571492433548,
+        -0.0416666679084301
+      ],
+      "fxState": [false, false, false, false, false, false, false, false]
+    }
+  ]
+}

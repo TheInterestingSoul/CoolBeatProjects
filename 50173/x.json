@@ -1,0 +1,69 @@
+{
+  "version": 2,
+  "tempo": 125,
+  "tracks": [
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "isExternal": false,
+      "soundPackName": "BasicSoundPack",
+      "fileName": "China-GuZheng",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 0,
+      "volEnvD": 0,
+      "volEnvS": 1,
+      "volEnvR": 0.39977940917015076,
+      "modEnvA": 0,
+      "modEnvD": 0,
+      "modEnvS": 1,
+      "modEnvR": 0,
+      "filterFC": 2.125,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [
+        { "startSlot": 28, "lengthSlot": 4, "note": 84, "volume": 1 },
+        { "startSlot": 36, "lengthSlot": 4, "note": 86, "volume": 1 },
+        { "startSlot": 44, "lengthSlot": 4, "note": 89, "volume": 1 },
+        { "startSlot": 52, "lengthSlot": 4, "note": 86, "volume": 1 },
+        { "startSlot": 20, "lengthSlot": 4, "note": 89, "volume": 1 },
+        { "startSlot": 4, "lengthSlot": 8, "note": 84, "volume": 1 },
+        { "startSlot": 60, "lengthSlot": 4, "note": 84, "volume": 1 },
+        { "startSlot": 68, "lengthSlot": 4, "note": 86, "volume": 1 },
+        { "startSlot": 84, "lengthSlot": 8, "note": 84, "volume": 1 },
+        { "startSlot": 100, "lengthSlot": 4, "note": 89, "volume": 1 },
+        { "startSlot": 108, "lengthSlot": 4, "note": 84, "volume": 1 },
+        { "startSlot": 116, "lengthSlot": 4, "note": 86, "volume": 1 },
+        { "startSlot": 140, "lengthSlot": 4, "note": 81, "volume": 1 },
+        { "startSlot": 132, "lengthSlot": 4, "note": 86, "volume": 1 },
+        { "startSlot": 148, "lengthSlot": 4, "note": 81, "volume": 1 },
+        { "startSlot": 124, "lengthSlot": 4, "note": 89, "volume": 1 }
+      ]
+    },
+    {
+      "type": 1,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "slotScale": 1,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "BasicSoundPack",
+          "fileName": "Snap",
+          "category": 0,
+          "volume": 1,
+          "beats": [{ "positionSlot": 20, "volume": 1 }]
+        }
+      ]
+    }
+  ]
+}

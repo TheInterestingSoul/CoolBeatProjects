@@ -1,0 +1,144 @@
+{
+  "version": 2,
+  "tempo": 90,
+  "tracks": [
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "isExternal": false,
+      "soundPackName": "WesternClassic",
+      "fileName": "Flute",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 0,
+      "volEnvD": 0.4000000059604645,
+      "volEnvS": 1,
+      "volEnvR": 0.040008291602134705,
+      "modEnvA": 0,
+      "modEnvD": 0,
+      "modEnvS": 1,
+      "modEnvR": 0,
+      "filterFC": 1.993416666984558,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [
+        { "startSlot": 0, "lengthSlot": 8, "note": 79, "volume": 1 },
+        { "startSlot": 16, "lengthSlot": 4, "note": 79, "volume": 1 },
+        { "startSlot": 20, "lengthSlot": 4, "note": 78, "volume": 1 },
+        { "startSlot": 24, "lengthSlot": 8, "note": 76, "volume": 1 },
+        { "startSlot": 32, "lengthSlot": 8, "note": 78, "volume": 1 },
+        { "startSlot": 40, "lengthSlot": 4, "note": 78, "volume": 1 },
+        { "startSlot": 44, "lengthSlot": 4, "note": 76, "volume": 1 },
+        { "startSlot": 48, "lengthSlot": 8, "note": 74, "volume": 1 },
+        { "startSlot": 56, "lengthSlot": 8, "note": 71, "volume": 1 },
+        { "startSlot": 64, "lengthSlot": 8, "note": 76, "volume": 1 },
+        { "startSlot": 80, "lengthSlot": 4, "note": 76, "volume": 1 },
+        { "startSlot": 84, "lengthSlot": 4, "note": 74, "volume": 1 },
+        { "startSlot": 88, "lengthSlot": 4, "note": 72, "volume": 1 },
+        { "startSlot": 92, "lengthSlot": 4, "note": 76, "volume": 1 },
+        { "startSlot": 96, "lengthSlot": 8, "note": 74, "volume": 1 },
+        { "startSlot": 104, "lengthSlot": 4, "note": 74, "volume": 1 },
+        { "startSlot": 108, "lengthSlot": 4, "note": 72, "volume": 1 },
+        { "startSlot": 112, "lengthSlot": 8, "note": 71, "volume": 1 }
+      ]
+    },
+    {
+      "type": 1,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "slotScale": 1,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "BasicSoundPack",
+          "fileName": "Snare 10",
+          "category": 2,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 0, "volume": 1 },
+            { "positionSlot": 12, "volume": 1 },
+            { "positionSlot": 24, "volume": 1 },
+            { "positionSlot": 32, "volume": 1 },
+            { "positionSlot": 44, "volume": 1 },
+            { "positionSlot": 56, "volume": 1 }
+          ]
+        },
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "BasicSoundPack",
+          "fileName": "Kick 1",
+          "category": 1,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 20, "volume": 1 },
+            { "positionSlot": 40, "volume": 1 },
+            { "positionSlot": 52, "volume": 1 },
+            { "positionSlot": 8, "volume": 1 }
+          ]
+        },
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "BasicSoundPack",
+          "fileName": "Closed Hat 1",
+          "category": 4,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 4, "volume": 1 },
+            { "positionSlot": 8, "volume": 1 },
+            { "positionSlot": 20, "volume": 1 },
+            { "positionSlot": 40, "volume": 1 },
+            { "positionSlot": 32, "volume": 1 },
+            { "positionSlot": 28, "volume": 1 },
+            { "positionSlot": 56, "volume": 1 },
+            { "positionSlot": 0, "volume": 1 }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 1,
+      "pan": 0.5,
+      "effectors": [
+        {
+          "index": 1,
+          "mix": 0.34369605779647827,
+          "paramX": 0.6999999284744263,
+          "paramY": 0.699999988079071
+        },
+        { "index": 2, "mix": 0.32987916469573975, "paramX": 0, "paramY": 0 }
+      ],
+      "isExternal": false,
+      "soundPackName": "MelodicTrance",
+      "fileName": "Kandi Pad",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 0,
+      "volEnvD": 0,
+      "volEnvS": 1,
+      "volEnvR": 0.13325634598731995,
+      "modEnvA": 0,
+      "modEnvD": 0,
+      "modEnvS": 1,
+      "modEnvR": 0,
+      "filterFC": 2.125,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [{ "startSlot": 0, "lengthSlot": 64, "note": 72, "volume": 1 }]
+    }
+  ]
+}

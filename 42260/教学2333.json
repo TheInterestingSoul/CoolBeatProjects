@@ -1,0 +1,133 @@
+{
+  "version": 2,
+  "tempo": 125,
+  "tracks": [
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.30628275871276855,
+      "pan": 0.5,
+      "effectors": [],
+      "isExternal": false,
+      "soundPackName": "BasicSoundPack",
+      "fileName": "Massive Saw Lead",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 0,
+      "volEnvD": 0,
+      "volEnvS": 1,
+      "volEnvR": 0.19988970458507538,
+      "modEnvA": 0,
+      "modEnvD": 0,
+      "modEnvS": 1,
+      "modEnvR": 0,
+      "filterFC": 2.125,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [
+        { "startSlot": 0, "lengthSlot": 4, "note": 72, "volume": 1 },
+        { "startSlot": 16, "lengthSlot": 4, "note": 72, "volume": 1 },
+        { "startSlot": 32, "lengthSlot": 4, "note": 72, "volume": 1 },
+        { "startSlot": 48, "lengthSlot": 4, "note": 72, "volume": 1 },
+        { "startSlot": 56, "lengthSlot": 4, "note": 73, "volume": 1 }
+      ]
+    },
+    {
+      "type": 1,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 1,
+      "pan": 0.5,
+      "effectors": [],
+      "slotScale": 1,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "BasicSoundPack",
+          "fileName": "Kick 7",
+          "category": 1,
+          "volume": 1,
+          "beats": []
+        },
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "ProgressiveHouseElements",
+          "fileName": "Percussion 1",
+          "category": 3,
+          "volume": 1,
+          "beats": [{ "positionSlot": 32, "volume": 1 }]
+        },
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "BasicSoundPack",
+          "fileName": "Snare 6",
+          "category": 2,
+          "volume": 1,
+          "beats": [{ "positionSlot": 32, "volume": 1 }]
+        },
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "BasicSoundPack",
+          "fileName": "Impact 1",
+          "category": 0,
+          "volume": 1,
+          "beats": [{ "positionSlot": 0, "volume": 1 }]
+        },
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "BasicSoundPack",
+          "fileName": "Impact 3",
+          "category": 0,
+          "volume": 1,
+          "beats": [{ "positionSlot": 32, "volume": 1 }]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.6151832342147827,
+      "pan": 0.5,
+      "effectors": [],
+      "isExternal": false,
+      "soundPackName": "ProgressiveHouseElements",
+      "fileName": "Ring Lead",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 0,
+      "volEnvD": 0,
+      "volEnvS": 1,
+      "volEnvR": 0.06666667014360428,
+      "modEnvA": 0,
+      "modEnvD": 0,
+      "modEnvS": 1,
+      "modEnvR": 0,
+      "filterFC": 2.125,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [
+        { "startSlot": 0, "lengthSlot": 4, "note": 72, "volume": 1 },
+        { "startSlot": 24, "lengthSlot": 4, "note": 72, "volume": 1 },
+        { "startSlot": 12, "lengthSlot": 4, "note": 72, "volume": 1 },
+        { "startSlot": 20, "lengthSlot": 4, "note": 72, "volume": 1 },
+        { "startSlot": 16, "lengthSlot": 4, "note": 72, "volume": 1 },
+        { "startSlot": 28, "lengthSlot": 4, "note": 72, "volume": 1 },
+        { "startSlot": 32, "lengthSlot": 4, "note": 72, "volume": 1 },
+        { "startSlot": 36, "lengthSlot": 4, "note": 72, "volume": 1 },
+        { "startSlot": 40, "lengthSlot": 4, "note": 72, "volume": 1 },
+        { "startSlot": 44, "lengthSlot": 4, "note": 72, "volume": 1 },
+        { "startSlot": 48, "lengthSlot": 4, "note": 73, "volume": 1 },
+        { "startSlot": 56, "lengthSlot": 4, "note": 73, "volume": 1 }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "version": 2,
+  "tempo": 140,
+  "tracks": [
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 1,
+      "pan": 0.5,
+      "effectors": [
+        { "index": 2, "mix": 0.1111111119389534, "paramX": 0, "paramY": 0 }
+      ],
+      "isExternal": false,
+      "soundPackName": "BasicSoundPack",
+      "fileName": "China-GuZheng",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 5.000000237487257e-4,
+      "volEnvD": 2.0000000949949026e-4,
+      "volEnvS": 1,
+      "volEnvR": 0.39977940917015076,
+      "modEnvA": 5.000000237487257e-4,
+      "modEnvD": 2.0000000949949026e-4,
+      "modEnvS": 1,
+      "modEnvR": 6.666666740784422e-5,
+      "filterFC": 2.125,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [
+        { "startSlot": 8, "lengthSlot": 4, "note": 100, "volume": 1 },
+        { "startSlot": 24, "lengthSlot": 8, "note": 102, "volume": 1 },
+        { "startSlot": 28, "lengthSlot": 4, "note": 97, "volume": 1 },
+        { "startSlot": 40, "lengthSlot": 4, "note": 97, "volume": 1 },
+        { "startSlot": 20, "lengthSlot": 4, "note": 93, "volume": 1 },
+        { "startSlot": 52, "lengthSlot": 4, "note": 98, "volume": 1 },
+        { "startSlot": 48, "lengthSlot": 8, "note": 95, "volume": 1 },
+        { "startSlot": 72, "lengthSlot": 4, "note": 96, "volume": 1 },
+        { "startSlot": 84, "lengthSlot": 4, "note": 96, "volume": 1 },
+        { "startSlot": 92, "lengthSlot": 4, "note": 97, "volume": 1 },
+        { "startSlot": 88, "lengthSlot": 8, "note": 94, "volume": 1 }
+      ]
+    },
+    {
+      "type": 1,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [
+        { "index": 4, "mix": 1, "paramX": 0.5, "paramY": 0.8333333134651184 }
+      ],
+      "slotScale": 1,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "MartinGarrixUltimatePack",
+          "fileName": "Snare 2",
+          "category": 2,
+          "volume": 0.40875911712646484,
+          "beats": [
+            { "positionSlot": 0, "volume": 1 },
+            { "positionSlot": 16, "volume": 1 },
+            { "positionSlot": 32, "volume": 1 },
+            { "positionSlot": 48, "volume": 1 },
+            { "positionSlot": 64, "volume": 1 },
+            { "positionSlot": 80, "volume": 1 },
+            { "positionSlot": 96, "volume": 1 },
+            { "positionSlot": 112, "volume": 1 },
+            { "positionSlot": 128, "volume": 1 },
+            { "positionSlot": 144, "volume": 1 }
+          ]
+        },
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "WesternClassic",
+          "fileName": "Hi-Hat Closed",
+          "category": 5,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 4, "volume": 1 },
+            { "positionSlot": 20, "volume": 1 },
+            { "positionSlot": 36, "volume": 1 },
+            { "positionSlot": 52, "volume": 1 },
+            { "positionSlot": 68, "volume": 1 },
+            { "positionSlot": 84, "volume": 1 },
+            { "positionSlot": 100, "volume": 1 },
+            { "positionSlot": 116, "volume": 1 },
+            { "positionSlot": 132, "volume": 1 },
+            { "positionSlot": 152, "volume": 1 }
+          ]
+        },
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "BasicSoundPack",
+          "fileName": "Kick 2",
+          "category": 1,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 112, "volume": 1 },
+            { "positionSlot": 0, "volume": 1 },
+            { "positionSlot": 16, "volume": 1 },
+            { "positionSlot": 32, "volume": 1 },
+            { "positionSlot": 48, "volume": 1 },
+            { "positionSlot": 64, "volume": 1 },
+            { "positionSlot": 80, "volume": 1 },
+            { "positionSlot": 96, "volume": 1 },
+            { "positionSlot": 128, "volume": 1 },
+            { "positionSlot": 144, "volume": 1 }
+          ]
+        },
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "MarshmelloStyleSounds",
+          "fileName": "Drum Loop 1",
+          "category": 0,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 0, "volume": 1 },
+            { "positionSlot": 32, "volume": 1 },
+            { "positionSlot": 64, "volume": 1 },
+            { "positionSlot": 96, "volume": 1 },
+            { "positionSlot": 128, "volume": 1 }
+          ]
+        },
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "MartinGarrixUltimatePack",
+          "fileName": "Clap 2",
+          "category": 2,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 144, "volume": 1 },
+            { "positionSlot": 128, "volume": 1 },
+            { "positionSlot": 112, "volume": 1 },
+            { "positionSlot": 96, "volume": 1 },
+            { "positionSlot": 80, "volume": 1 },
+            { "positionSlot": 64, "volume": 1 },
+            { "positionSlot": 48, "volume": 1 },
+            { "positionSlot": 32, "volume": 1 },
+            { "positionSlot": 16, "volume": 1 },
+            { "positionSlot": 0, "volume": 1 }
+          ]
+        }
+      ]
+    }
+  ]
+}

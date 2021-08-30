@@ -1,0 +1,55 @@
+{
+  "version": 2,
+  "tempo": 125,
+  "tracks": [
+    {
+      "type": 0,
+      "loaded": false,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "notes": []
+    },
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "isExternal": false,
+      "soundPackName": "BasicSoundPack",
+      "fileName": "Grand Piano",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 0,
+      "volEnvD": 0,
+      "volEnvS": 1,
+      "volEnvR": 0.13325634598731995,
+      "modEnvA": 0,
+      "modEnvD": 0,
+      "modEnvS": 1,
+      "modEnvR": 0,
+      "filterFC": 2.125,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [
+        { "startSlot": 0, "lengthSlot": 8, "note": 105, "volume": 1 },
+        { "startSlot": 12, "lengthSlot": 12, "note": 100, "volume": 1 },
+        { "startSlot": 48, "lengthSlot": 8, "note": 96, "volume": 1 },
+        { "startSlot": 56, "lengthSlot": 8, "note": 100, "volume": 1 },
+        { "startSlot": 64, "lengthSlot": 16, "note": 103, "volume": 1 },
+        { "startSlot": 80, "lengthSlot": 16, "note": 100, "volume": 1 },
+        { "startSlot": 112, "lengthSlot": 8, "note": 95, "volume": 1 },
+        { "startSlot": 132, "lengthSlot": 8, "note": 95, "volume": 1 },
+        { "startSlot": 148, "lengthSlot": 8, "note": 91, "volume": 1 },
+        { "startSlot": 156, "lengthSlot": 8, "note": 89, "volume": 1 },
+        { "startSlot": 172, "lengthSlot": 12, "note": 91, "volume": 1 },
+        { "startSlot": 140, "lengthSlot": 8, "note": 93, "volume": 1 },
+        { "startSlot": 164, "lengthSlot": 8, "note": 88, "volume": 1 }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "version": 3,
+  "tempo": 120,
+  "timeSigType": 0,
+  "masterVolume": 0.5,
+  "masterPan": 0.5,
+  "masterAutos": [
+    { "state": true, "sections": [] },
+    { "state": true, "sections": [] },
+    { "state": true, "sections": [] }
+  ],
+  "tracks": [
+    {
+      "type": 2,
+      "label": "walls",
+      "volume": 0.609000027179718,
+      "pan": 0.5,
+      "muteState": 0,
+      "solo": false,
+      "showingAuto": true,
+      "currentAutoIndex": 1,
+      "scTrackIndex": -1,
+      "fileName": "walls",
+      "soundPack": "用户素材",
+      "tempo": 0,
+      "sections": [
+        {
+          "startTick": 0,
+          "length": 99840,
+          "startOffsetTick": 0,
+          "endOffsetTick": 0,
+          "notes": []
+        }
+      ],
+      "autos": [
+        { "state": false, "sections": [] },
+        {
+          "state": true,
+          "sections": [
+            {
+              "startTick": 0,
+              "length": 22080,
+              "nodes": [
+                { "position": 0, "value": 0.5007052421569824 },
+                { "position": 480, "value": 1 },
+                { "position": 1440, "value": 0.0013440847396850586 },
+                { "position": 1920, "value": 0.5 }
+              ]
+            },
+            {
+              "startTick": 22800,
+              "length": 960,
+              "nodes": [
+                { "position": 0, "value": 0 },
+                { "position": 0, "value": 0 },
+                { "position": 960, "value": 0 }
+              ]
+            },
+            {
+              "startTick": 24240,
+              "length": 840,
+              "nodes": [
+                { "position": 0, "value": 1 },
+                { "position": 1920, "value": 1 }
+              ]
+            },
+            {
+              "startTick": 22680,
+              "length": 120,
+              "nodes": [
+                { "position": 0, "value": 0.5040322542190552 },
+                { "position": 120, "value": 0 }
+              ]
+            },
+            {
+              "startTick": 23760,
+              "length": 480,
+              "nodes": [
+                { "position": 0, "value": 0 },
+                { "position": 480, "value": 1 }
+              ]
+            },
+            {
+              "startTick": 25080,
+              "length": 120,
+              "nodes": [
+                { "position": 0, "value": 0.9946236610412598 },
+                { "position": 120, "value": 0.5 }
+              ]
+            }
+          ]
+        },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] }
+      ],
+      "fx": [
+        0.07304040342569351,
+        0.5565276145935059,
+        0.5048462152481079,
+        0.7389938831329346,
+        0.8429999351501465,
+        0.6000000238418579,
+        0.20000000298023224,
+        0.49152544140815735,
+        0,
+        1,
+        0,
+        0.3111386299133301,
+        0.75,
+        [0, 0, 0, 0],
+        [0.5, 0.5, 0.5, 0.5],
+        [
+          0.08500300347805023, 0.011511511169373989, 0.19919919967651367,
+          0.5995995998382568
+        ],
+        [
+          0.12444701045751572, 0.05128205567598343, 0.05128205567598343,
+          0.08994708955287933
+        ],
+        1,
+        0.07999998331069946,
+        0.8000000715255737,
+        0,
+        0.4000000059604645,
+        0,
+        0,
+        0.75,
+        0.4444444477558136,
+        0.625,
+        0.4000000059604645,
+        0.30769234895706177,
+        0.40000003576278687,
+        0.5,
+        0.8333333134651184,
+        0.111111119389534,
+        0.4285714626312256,
+        0.1666666716337204
+      ],
+      "fxState": [true, false, true, true, false, false, false, false]
+    }
+  ]
+}

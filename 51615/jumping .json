@@ -1,0 +1,108 @@
+{
+  "version": 2,
+  "tempo": 128,
+  "tracks": [
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "isExternal": false,
+      "soundPackName": "ProgressiveHouseElements",
+      "fileName": "Vegas Bass",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 0,
+      "volEnvD": 0,
+      "volEnvS": 1,
+      "volEnvR": 0.06666667014360428,
+      "modEnvA": 0,
+      "modEnvD": 0,
+      "modEnvS": 1,
+      "modEnvR": 0,
+      "filterFC": 2.125,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [
+        { "startSlot": 4, "lengthSlot": 8, "note": 60, "volume": 1 },
+        { "startSlot": 16, "lengthSlot": 8, "note": 60, "volume": 1 },
+        { "startSlot": 28, "lengthSlot": 8, "note": 60, "volume": 1 },
+        { "startSlot": 40, "lengthSlot": 8, "note": 60, "volume": 1 },
+        { "startSlot": 52, "lengthSlot": 8, "note": 57, "volume": 1 },
+        { "startSlot": 64, "lengthSlot": 8, "note": 57, "volume": 1 },
+        { "startSlot": 76, "lengthSlot": 8, "note": 57, "volume": 1 },
+        { "startSlot": 88, "lengthSlot": 8, "note": 57, "volume": 1 },
+        { "startSlot": 96, "lengthSlot": 8, "note": 62, "volume": 1 },
+        { "startSlot": 108, "lengthSlot": 8, "note": 62, "volume": 1 },
+        { "startSlot": 120, "lengthSlot": 8, "note": 62, "volume": 1 },
+        { "startSlot": 132, "lengthSlot": 8, "note": 62, "volume": 1 },
+        { "startSlot": 144, "lengthSlot": 8, "note": 59, "volume": 1 },
+        { "startSlot": 156, "lengthSlot": 8, "note": 59, "volume": 1 },
+        { "startSlot": 168, "lengthSlot": 8, "note": 59, "volume": 1 }
+      ]
+    },
+    {
+      "type": 1,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "slotScale": 1,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "ProgressiveHouseElements",
+          "fileName": "Kick 1",
+          "category": 1,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 4, "volume": 1 },
+            { "positionSlot": 20, "volume": 1 },
+            { "positionSlot": 36, "volume": 1 },
+            { "positionSlot": 52, "volume": 1 }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "isExternal": false,
+      "soundPackName": "ProgressiveHouseElements",
+      "fileName": "Melbourne Bass",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 0,
+      "volEnvD": 0,
+      "volEnvS": 1,
+      "volEnvR": 0.33327293395996094,
+      "modEnvA": 0,
+      "modEnvD": 0,
+      "modEnvS": 1,
+      "modEnvR": 0,
+      "filterFC": 2.125,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [
+        { "startSlot": 4, "lengthSlot": 8, "note": 60, "volume": 1 },
+        { "startSlot": 16, "lengthSlot": 8, "note": 60, "volume": 1 },
+        { "startSlot": 48, "lengthSlot": 8, "note": 57, "volume": 1 },
+        { "startSlot": 60, "lengthSlot": 8, "note": 57, "volume": 1 },
+        { "startSlot": 92, "lengthSlot": 8, "note": 62, "volume": 1 },
+        { "startSlot": 104, "lengthSlot": 8, "note": 62, "volume": 1 },
+        { "startSlot": 140, "lengthSlot": 8, "note": 59, "volume": 1 },
+        { "startSlot": 152, "lengthSlot": 8, "note": 59, "volume": 1 }
+      ]
+    }
+  ]
+}

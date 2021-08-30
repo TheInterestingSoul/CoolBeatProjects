@@ -1,0 +1,68 @@
+{
+  "version": 2,
+  "tempo": 110,
+  "tracks": [
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "isExternal": false,
+      "soundPackName": "BasicSoundPack",
+      "fileName": "China-GuZheng",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 0,
+      "volEnvD": 0,
+      "volEnvS": 1,
+      "volEnvR": 0.39977940917015076,
+      "modEnvA": 0,
+      "modEnvD": 0,
+      "modEnvS": 1,
+      "modEnvR": 0,
+      "filterFC": 2.125,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [
+        { "startSlot": 0, "lengthSlot": 60, "note": 60, "volume": 1 },
+        { "startSlot": 60, "lengthSlot": 60, "note": 62, "volume": 1 },
+        { "startSlot": 120, "lengthSlot": 60, "note": 64, "volume": 1 },
+        { "startSlot": 180, "lengthSlot": 60, "note": 62, "volume": 1 }
+      ]
+    },
+    {
+      "type": 2,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "isExternal": false,
+      "soundPackName": "EssentialTropicalHouse",
+      "fileName": "Piano Am",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 0,
+      "volEnvD": 0,
+      "volEnvS": 1,
+      "volEnvR": 0.3333333432674408,
+      "modEnvA": 0,
+      "modEnvD": 0,
+      "modEnvS": 1,
+      "modEnvR": 0,
+      "filterFC": 1,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [
+        { "startSlot": 60, "lengthSlot": 60, "note": 62, "volume": 1 },
+        { "startSlot": 120, "lengthSlot": 60, "note": 64, "volume": 1 },
+        { "startSlot": 0, "lengthSlot": 60, "note": 60, "volume": 1 },
+        { "startSlot": 180, "lengthSlot": 56, "note": 62, "volume": 1 }
+      ]
+    }
+  ]
+}

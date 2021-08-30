@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "tempo": 207,
+  "tracks": [
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "isExternal": false,
+      "soundPackName": "BasicSoundPack",
+      "fileName": "Grand Piano",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 5.000000237487257e-4,
+      "volEnvD": 2.0000000949949026e-4,
+      "volEnvS": 1,
+      "volEnvR": 0.13325634598731995,
+      "modEnvA": 5.000000237487257e-4,
+      "modEnvD": 2.0000000949949026e-4,
+      "modEnvS": 1,
+      "modEnvR": 6.666666740784422e-5,
+      "filterFC": 2.125,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [
+        { "startSlot": 12, "lengthSlot": 12, "note": 60, "volume": 1 },
+        { "startSlot": 28, "lengthSlot": 4, "note": 60, "volume": 1 },
+        { "startSlot": 36, "lengthSlot": 4, "note": 60, "volume": 1 },
+        { "startSlot": 44, "lengthSlot": 12, "note": 60, "volume": 1 },
+        { "startSlot": 60, "lengthSlot": 4, "note": 60, "volume": 1 },
+        { "startSlot": 68, "lengthSlot": 4, "note": 60, "volume": 1 },
+        { "startSlot": 76, "lengthSlot": 12, "note": 64, "volume": 1 },
+        { "startSlot": 92, "lengthSlot": 4, "note": 67, "volume": 1 },
+        { "startSlot": 100, "lengthSlot": 4, "note": 67, "volume": 1 },
+        { "startSlot": 108, "lengthSlot": 12, "note": 64, "volume": 1 },
+        { "startSlot": 124, "lengthSlot": 12, "note": 60, "volume": 1 },
+        { "startSlot": 140, "lengthSlot": 12, "note": 62, "volume": 1 },
+        { "startSlot": 156, "lengthSlot": 4, "note": 62, "volume": 1 },
+        { "startSlot": 164, "lengthSlot": 4, "note": 62, "volume": 1 },
+        { "startSlot": 172, "lengthSlot": 12, "note": 62, "volume": 1 },
+        { "startSlot": 188, "lengthSlot": 4, "note": 62, "volume": 1 },
+        { "startSlot": 196, "lengthSlot": 4, "note": 62, "volume": 1 },
+        { "startSlot": 204, "lengthSlot": 12, "note": 59, "volume": 1 },
+        { "startSlot": 220, "lengthSlot": 4, "note": 62, "volume": 1 },
+        { "startSlot": 228, "lengthSlot": 4, "note": 62, "volume": 1 },
+        { "startSlot": 236, "lengthSlot": 4, "note": 59, "volume": 1 },
+        { "startSlot": 252, "lengthSlot": 4, "note": 55, "volume": 1 }
+      ]
+    },
+    {
+      "type": 1,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "slotScale": 1,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "MarshmelloStyleSounds",
+          "fileName": "Kick 4",
+          "category": 1,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 12, "volume": 1 },
+            { "positionSlot": 60, "volume": 1 },
+            { "positionSlot": 28, "volume": 1 },
+            { "positionSlot": 36, "volume": 1 },
+            { "positionSlot": 92, "volume": 1 }
+          ]
+        },
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "MarshmelloStyleSounds",
+          "fileName": "Clap 1",
+          "category": 2,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 44, "volume": 1 },
+            { "positionSlot": 108, "volume": 1 }
+          ]
+        },
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "MarshmelloStyleSounds",
+          "fileName": "FX Lamp Switch",
+          "category": 0,
+          "volume": 1,
+          "beats": []
+        }
+      ]
+    },
+    {
+      "type": 3,
+      "loaded": true,
+      "isLoop": false,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "isExternal": false,
+      "soundPackName": "BasicSoundPack",
+      "autoScale": true,
+      "tempo": 128,
+      "lengthBar": 1,
+      "fileName": "Sweep Up 2"
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "version": 2,
+  "tempo": 70,
+  "tracks": [
+    {
+      "type": 0,
+      "loaded": false,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.6483635306358337,
+      "effectors": [],
+      "notes": [
+        { "startSlot": 0, "lengthSlot": 4, "note": 88, "volume": 1 },
+        { "startSlot": 4, "lengthSlot": 4, "note": 87, "volume": 1 },
+        { "startSlot": 20, "lengthSlot": 4, "note": 88, "volume": 1 },
+        { "startSlot": 24, "lengthSlot": 4, "note": 88, "volume": 1 }
+      ]
+    },
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "isExternal": false,
+      "soundPackName": "BasicSoundPack",
+      "fileName": "Grand Piano",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 5.000000237487257e-4,
+      "volEnvD": 2.0000000949949026e-4,
+      "volEnvS": 1,
+      "volEnvR": 0.13325634598731995,
+      "modEnvA": 5.000000237487257e-4,
+      "modEnvD": 2.0000000949949026e-4,
+      "modEnvS": 1,
+      "modEnvR": 6.666666740784422e-5,
+      "filterFC": 2.125,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [
+        { "startSlot": 0, "lengthSlot": 20, "note": 78, "volume": 1 },
+        { "startSlot": 64, "lengthSlot": 28, "note": 77, "volume": 1 },
+        { "startSlot": 128, "lengthSlot": 24, "note": 78, "volume": 1 },
+        { "startSlot": 160, "lengthSlot": 48, "note": 80, "volume": 1 },
+        { "startSlot": 176, "lengthSlot": 44, "note": 82, "volume": 1 },
+        { "startSlot": 192, "lengthSlot": 32, "note": 77, "volume": 1 },
+        { "startSlot": 96, "lengthSlot": 28, "note": 68, "volume": 1 },
+        { "startSlot": 32, "lengthSlot": 40, "note": 70, "volume": 1 },
+        { "startSlot": 224, "lengthSlot": 32, "note": 68, "volume": 1 }
+      ]
+    },
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "isExternal": false,
+      "soundPackName": "WesternClassic",
+      "fileName": "Flute",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 0,
+      "volEnvD": 0.4000000059604645,
+      "volEnvS": 1,
+      "volEnvR": 0.040008291602134705,
+      "modEnvA": 0,
+      "modEnvD": 0,
+      "modEnvS": 1,
+      "modEnvR": 0,
+      "filterFC": 1.993416666984558,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [
+        { "startSlot": 64, "lengthSlot": 28, "note": 77, "volume": 1 },
+        { "startSlot": 96, "lengthSlot": 28, "note": 68, "volume": 1 },
+        { "startSlot": 192, "lengthSlot": 32, "note": 77, "volume": 1 },
+        { "startSlot": 160, "lengthSlot": 16, "note": 80, "volume": 1 },
+        { "startSlot": 176, "lengthSlot": 16, "note": 82, "volume": 1 },
+        { "startSlot": 32, "lengthSlot": 28, "note": 70, "volume": 1 },
+        { "startSlot": 0, "lengthSlot": 28, "note": 78, "volume": 1 },
+        { "startSlot": 128, "lengthSlot": 28, "note": 78, "volume": 1 },
+        { "startSlot": 228, "lengthSlot": 28, "note": 68, "volume": 1 }
+      ]
+    },
+    {
+      "type": 1,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.6570680737495422,
+      "pan": 0.5,
+      "effectors": [],
+      "slotScale": 1,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "MarshmelloStyleSounds",
+          "fileName": "Snare 3",
+          "category": 2,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 16, "volume": 1 },
+            { "positionSlot": 48, "volume": 1 }
+          ]
+        },
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "MarshmelloStyleSounds",
+          "fileName": "Kick 2",
+          "category": 1,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 0, "volume": 1 },
+            { "positionSlot": 12, "volume": 1 },
+            { "positionSlot": 24, "volume": 1 },
+            { "positionSlot": 40, "volume": 1 },
+            { "positionSlot": 52, "volume": 1 }
+          ]
+        },
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "WesternClassic",
+          "fileName": "Hi-Hat Closed",
+          "category": 5,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 0, "volume": 1 },
+            { "positionSlot": 8, "volume": 1 },
+            { "positionSlot": 16, "volume": 1 },
+            { "positionSlot": 24, "volume": 1 },
+            { "positionSlot": 32, "volume": 1 },
+            { "positionSlot": 40, "volume": 1 },
+            { "positionSlot": 48, "volume": 1 },
+            { "positionSlot": 56, "volume": 1 }
+          ]
+        },
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "BasicSoundPack",
+          "fileName": "Clap 5",
+          "category": 0,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 16, "volume": 1 },
+            { "positionSlot": 48, "volume": 1 }
+          ]
+        },
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "RockBandSounds",
+          "fileName": "Open Hat 4",
+          "category": 6,
+          "volume": 1,
+          "beats": [{ "positionSlot": 56, "volume": 1 }]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "isExternal": false,
+      "soundPackName": "BasicSoundPack",
+      "fileName": "Grand Piano",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 5.000000237487257e-4,
+      "volEnvD": 2.0000000949949026e-4,
+      "volEnvS": 1,
+      "volEnvR": 0.13325634598731995,
+      "modEnvA": 5.000000237487257e-4,
+      "modEnvD": 2.0000000949949026e-4,
+      "modEnvS": 1,
+      "modEnvR": 6.666666740784422e-5,
+      "filterFC": 2.125,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [
+        { "startSlot": 0, "lengthSlot": 64, "note": 51, "volume": 1 },
+        { "startSlot": 0, "lengthSlot": 68, "note": 58, "volume": 1 },
+        { "startSlot": 0, "lengthSlot": 80, "note": 63, "volume": 1 },
+        { "startSlot": 64, "lengthSlot": 28, "note": 49, "volume": 1 },
+        { "startSlot": 64, "lengthSlot": 56, "note": 56, "volume": 1 }
+      ]
+    }
+  ]
+}

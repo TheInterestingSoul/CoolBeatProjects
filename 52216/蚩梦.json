@@ -1,0 +1,94 @@
+{
+  "version": 2,
+  "tempo": 80,
+  "tracks": [
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "isExternal": false,
+      "soundPackName": "WesternClassic",
+      "fileName": "Flute",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 5.000000237487257e-4,
+      "volEnvD": 0.4000000059604645,
+      "volEnvS": 1,
+      "volEnvR": 0.040008291602134705,
+      "modEnvA": 5.000000237487257e-4,
+      "modEnvD": 2.0000000949949026e-4,
+      "modEnvS": 1,
+      "modEnvR": 6.666666740784422e-5,
+      "filterFC": 1.993416666984558,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [
+        { "startSlot": 0, "lengthSlot": 16, "note": 76, "volume": 1 },
+        { "startSlot": 64, "lengthSlot": 8, "note": 86, "volume": 1 },
+        {
+          "startSlot": 72,
+          "lengthSlot": 8,
+          "note": 88,
+          "volume": 0.8149171471595764
+        },
+        {
+          "startSlot": 16,
+          "lengthSlot": 52,
+          "note": 83,
+          "volume": 0.8632596731185913
+        },
+        {
+          "startSlot": 80,
+          "lengthSlot": 48,
+          "note": 81,
+          "volume": 0.810773491859436
+        },
+        {
+          "startSlot": 128,
+          "lengthSlot": 8,
+          "note": 86,
+          "volume": 0.8715469241142273
+        },
+        { "startSlot": 136, "lengthSlot": 8, "note": 88, "volume": 1 },
+        {
+          "startSlot": 144,
+          "lengthSlot": 72,
+          "note": 83,
+          "volume": 0.8784530758857727
+        },
+        { "startSlot": 256, "lengthSlot": 16, "note": 76, "volume": 1 },
+        { "startSlot": 272, "lengthSlot": 36, "note": 83, "volume": 1 }
+      ]
+    },
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": false,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "isExternal": false,
+      "soundPackName": "BasicSoundPack",
+      "fileName": "Grand Piano",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 5.000000237487257e-4,
+      "volEnvD": 2.0000000949949026e-4,
+      "volEnvS": 1,
+      "volEnvR": 0.13325634598731995,
+      "modEnvA": 5.000000237487257e-4,
+      "modEnvD": 2.0000000949949026e-4,
+      "modEnvS": 1,
+      "modEnvR": 6.666666740784422e-5,
+      "filterFC": 2.125,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": []
+    }
+  ]
+}

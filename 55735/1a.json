@@ -1,0 +1,165 @@
+{
+  "version": 2,
+  "tempo": 94,
+  "tracks": [
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "isExternal": false,
+      "soundPackName": "BasicSoundPack",
+      "fileName": "China-Pipa-bo",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 5.000000237487257e-4,
+      "volEnvD": 2.0000000949949026e-4,
+      "volEnvS": 1,
+      "volEnvR": 0.6665458679199219,
+      "modEnvA": 5.000000237487257e-4,
+      "modEnvD": 2.0000000949949026e-4,
+      "modEnvS": 1,
+      "modEnvR": 6.666666740784422e-5,
+      "filterFC": 2.125,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [
+        { "startSlot": 4, "lengthSlot": 12, "note": 60, "volume": 1 },
+        { "startSlot": 16, "lengthSlot": 12, "note": 62, "volume": 1 },
+        { "startSlot": 28, "lengthSlot": 16, "note": 64, "volume": 1 },
+        { "startSlot": 44, "lengthSlot": 8, "note": 66, "volume": 1 },
+        { "startSlot": 56, "lengthSlot": 8, "note": 67, "volume": 1 },
+        { "startSlot": 68, "lengthSlot": 12, "note": 69, "volume": 1 },
+        { "startSlot": 84, "lengthSlot": 12, "note": 65, "volume": 1 }
+      ]
+    },
+    {
+      "type": 2,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "isExternal": false,
+      "soundPackName": "MarshmelloStyleSounds",
+      "fileName": "Kick 3",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 5.000000237487257e-4,
+      "volEnvD": 2.0000000949949026e-4,
+      "volEnvS": 1,
+      "volEnvR": 0.3333333432674408,
+      "modEnvA": 5.000000237487257e-4,
+      "modEnvD": 2.0000000949949026e-4,
+      "modEnvS": 1,
+      "modEnvR": 6.666666740784422e-5,
+      "filterFC": 1,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": []
+    },
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "isExternal": false,
+      "soundPackName": "MelodicTrance",
+      "fileName": "Trance Plucky Bass",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 5.000000237487257e-4,
+      "volEnvD": 2.0000000949949026e-4,
+      "volEnvS": 1,
+      "volEnvR": 0.06666667014360428,
+      "modEnvA": 5.000000237487257e-4,
+      "modEnvD": 2.0000000949949026e-4,
+      "modEnvS": 1,
+      "modEnvR": 6.666666740784422e-5,
+      "filterFC": 2.125,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [
+        { "startSlot": 0, "lengthSlot": 4, "note": 60, "volume": 1 },
+        { "startSlot": 12, "lengthSlot": 4, "note": 60, "volume": 1 },
+        { "startSlot": 28, "lengthSlot": 4, "note": 60, "volume": 1 },
+        { "startSlot": 40, "lengthSlot": 4, "note": 60, "volume": 1 },
+        { "startSlot": 52, "lengthSlot": 4, "note": 60, "volume": 1 }
+      ]
+    },
+    {
+      "type": 1,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "slotScale": 1,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "MarshmelloStyleSounds",
+          "fileName": "Kick 4",
+          "category": 1,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 0, "volume": 1 },
+            { "positionSlot": 48, "volume": 1 },
+            { "positionSlot": 36, "volume": 1 },
+            { "positionSlot": 24, "volume": 1 }
+          ]
+        },
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "MarshmelloStyleSounds",
+          "fileName": "Clap 7",
+          "category": 2,
+          "volume": 1,
+          "beats": [{ "positionSlot": 12, "volume": 1 }]
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "slotScale": 1,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "MarshmelloStyleSounds",
+          "fileName": "Closed Hat 1",
+          "category": 5,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 0, "volume": 1 },
+            { "positionSlot": 8, "volume": 1 },
+            { "positionSlot": 16, "volume": 1 },
+            { "positionSlot": 24, "volume": 1 },
+            { "positionSlot": 32, "volume": 1 },
+            { "positionSlot": 40, "volume": 1 },
+            { "positionSlot": 60, "volume": 1 },
+            { "positionSlot": 48, "volume": 1 },
+            { "positionSlot": 56, "volume": 1 },
+            { "positionSlot": 12, "volume": 1 },
+            { "positionSlot": 28, "volume": 1 },
+            { "positionSlot": 44, "volume": 1 }
+          ]
+        }
+      ]
+    }
+  ]
+}

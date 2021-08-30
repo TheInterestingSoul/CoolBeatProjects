@@ -1,0 +1,202 @@
+{
+  "version": 2,
+  "tempo": 90,
+  "tracks": [
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 1,
+      "pan": 0.5,
+      "effectors": [
+        {
+          "index": 0,
+          "mix": 0.07598036527633667,
+          "paramX": 0.25894737243652344,
+          "paramY": 0.3799043893814087
+        },
+        {
+          "index": 1,
+          "mix": 0.1200980544090271,
+          "paramX": 0.7161293625831604,
+          "paramY": 0.27478447556495667
+        }
+      ],
+      "isExternal": false,
+      "soundPackName": "ProgressiveHouseElements",
+      "fileName": "Magic Lead",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 0.08592776954174042,
+      "volEnvD": 0.06875985860824585,
+      "volEnvS": 0.48001793026924133,
+      "volEnvR": 0.48746559023857117,
+      "modEnvA": 0,
+      "modEnvD": 0,
+      "modEnvS": 1,
+      "modEnvR": 0,
+      "filterFC": 0.8667500019073486,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0,
+      "notes": [
+        { "startSlot": 0, "lengthSlot": 4, "note": 72, "volume": 1 },
+        { "startSlot": 4, "lengthSlot": 4, "note": 74, "volume": 1 },
+        { "startSlot": 16, "lengthSlot": 8, "note": 72, "volume": 1 },
+        { "startSlot": 8, "lengthSlot": 8, "note": 75, "volume": 1 },
+        { "startSlot": 24, "lengthSlot": 12, "note": 75, "volume": 1 },
+        { "startSlot": 36, "lengthSlot": 12, "note": 75, "volume": 1 },
+        { "startSlot": 48, "lengthSlot": 8, "note": 70, "volume": 1 },
+        { "startSlot": 64, "lengthSlot": 4, "note": 72, "volume": 1 },
+        { "startSlot": 68, "lengthSlot": 4, "note": 74, "volume": 1 },
+        { "startSlot": 72, "lengthSlot": 8, "note": 75, "volume": 1 },
+        { "startSlot": 80, "lengthSlot": 8, "note": 72, "volume": 1 },
+        { "startSlot": 88, "lengthSlot": 12, "note": 74, "volume": 1 },
+        { "startSlot": 100, "lengthSlot": 12, "note": 74, "volume": 1 },
+        { "startSlot": 112, "lengthSlot": 8, "note": 72, "volume": 1 }
+      ]
+    },
+    {
+      "type": 1,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "slotScale": 1,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "BasicSoundPack",
+          "fileName": "Snap",
+          "category": 0,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 0, "volume": 1 },
+            { "positionSlot": 64, "volume": 1 },
+            { "positionSlot": 24, "volume": 1 },
+            { "positionSlot": 88, "volume": 1 },
+            { "positionSlot": 48, "volume": 1 },
+            { "positionSlot": 112, "volume": 1 }
+          ]
+        },
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "WesternClassic",
+          "fileName": "Short Taiko Hit",
+          "category": 1,
+          "volume": 0.3686131238937378,
+          "beats": [
+            { "positionSlot": 0, "volume": 1 },
+            { "positionSlot": 8, "volume": 1 },
+            { "positionSlot": 16, "volume": 1 },
+            { "positionSlot": 24, "volume": 1 },
+            { "positionSlot": 32, "volume": 1 },
+            { "positionSlot": 40, "volume": 1 },
+            { "positionSlot": 48, "volume": 1 },
+            { "positionSlot": 56, "volume": 1 },
+            { "positionSlot": 64, "volume": 1 },
+            { "positionSlot": 72, "volume": 1 },
+            { "positionSlot": 80, "volume": 1 },
+            { "positionSlot": 88, "volume": 1 },
+            { "positionSlot": 96, "volume": 1 },
+            { "positionSlot": 104, "volume": 1 },
+            { "positionSlot": 112, "volume": 1 },
+            { "positionSlot": 120, "volume": 1 }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.5399061441421509,
+      "pan": 0.5,
+      "effectors": [
+        {
+          "index": 1,
+          "mix": 0.4632352590560913,
+          "paramX": 0.7062780261039734,
+          "paramY": 0.27201682329177856
+        }
+      ],
+      "isExternal": false,
+      "soundPackName": "WesternClassic",
+      "fileName": "Cello",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 5.000000237487257e-4,
+      "volEnvD": 0,
+      "volEnvS": 1,
+      "volEnvR": 0.10000260174274445,
+      "modEnvA": 0,
+      "modEnvD": 0,
+      "modEnvS": 1,
+      "modEnvR": 0,
+      "filterFC": 2.125,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0,
+      "notes": [
+        { "startSlot": 0, "lengthSlot": 4, "note": 72, "volume": 1 },
+        { "startSlot": 4, "lengthSlot": 4, "note": 74, "volume": 1 },
+        { "startSlot": 16, "lengthSlot": 8, "note": 72, "volume": 1 },
+        { "startSlot": 8, "lengthSlot": 8, "note": 75, "volume": 1 },
+        { "startSlot": 36, "lengthSlot": 12, "note": 75, "volume": 1 },
+        { "startSlot": 48, "lengthSlot": 8, "note": 70, "volume": 1 },
+        { "startSlot": 64, "lengthSlot": 4, "note": 72, "volume": 1 },
+        { "startSlot": 68, "lengthSlot": 4, "note": 74, "volume": 1 },
+        { "startSlot": 72, "lengthSlot": 8, "note": 75, "volume": 1 },
+        { "startSlot": 80, "lengthSlot": 8, "note": 72, "volume": 1 },
+        { "startSlot": 88, "lengthSlot": 12, "note": 74, "volume": 1 },
+        { "startSlot": 100, "lengthSlot": 12, "note": 74, "volume": 1 },
+        { "startSlot": 112, "lengthSlot": 8, "note": 72, "volume": 1 },
+        { "startSlot": 24, "lengthSlot": 24, "note": 75, "volume": 1 }
+      ]
+    },
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 1,
+      "pan": 0.5,
+      "effectors": [],
+      "isExternal": false,
+      "soundPackName": "WesternClassic",
+      "fileName": "Marimba",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 0,
+      "volEnvD": 1.0997979640960693,
+      "volEnvS": 0,
+      "volEnvR": 0.2800861895084381,
+      "modEnvA": 0,
+      "modEnvD": 0,
+      "modEnvS": 1,
+      "modEnvR": 0,
+      "filterFC": 2.125,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [
+        { "startSlot": 4, "lengthSlot": 4, "note": 74, "volume": 1 },
+        { "startSlot": 16, "lengthSlot": 8, "note": 72, "volume": 1 },
+        { "startSlot": 0, "lengthSlot": 4, "note": 72, "volume": 1 },
+        { "startSlot": 8, "lengthSlot": 8, "note": 75, "volume": 1 },
+        { "startSlot": 24, "lengthSlot": 12, "note": 75, "volume": 1 },
+        { "startSlot": 36, "lengthSlot": 12, "note": 75, "volume": 1 },
+        { "startSlot": 48, "lengthSlot": 8, "note": 70, "volume": 1 },
+        { "startSlot": 64, "lengthSlot": 4, "note": 72, "volume": 1 },
+        { "startSlot": 68, "lengthSlot": 4, "note": 74, "volume": 1 },
+        { "startSlot": 72, "lengthSlot": 8, "note": 75, "volume": 1 },
+        { "startSlot": 80, "lengthSlot": 8, "note": 72, "volume": 1 },
+        { "startSlot": 88, "lengthSlot": 12, "note": 74, "volume": 1 },
+        { "startSlot": 100, "lengthSlot": 12, "note": 74, "volume": 1 },
+        { "startSlot": 112, "lengthSlot": 8, "note": 72, "volume": 1 }
+      ]
+    }
+  ]
+}

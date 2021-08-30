@@ -1,0 +1,232 @@
+{
+  "version": 2,
+  "tempo": 125,
+  "tracks": [
+    {
+      "type": 1,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 1,
+      "pan": 0,
+      "label": "响指",
+      "effectors": [
+        { "index": 2, "mix": 0.1111111119389534, "paramX": 0, "paramY": 0 }
+      ],
+      "slotScale": 1,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "BasicSoundPack",
+          "fileName": "Snap",
+          "category": 0,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 16, "volume": 1 },
+            { "positionSlot": 48, "volume": 1 },
+            { "positionSlot": 80, "volume": 1 },
+            { "positionSlot": 108, "volume": 1 },
+            { "positionSlot": 104, "volume": 0.39230769872665405 },
+            { "positionSlot": 96, "volume": 1 }
+          ]
+        },
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "MarshmelloStyleSounds",
+          "fileName": "Clap 1",
+          "category": 2,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 16, "volume": 0.39384615421295166 },
+            { "positionSlot": 48, "volume": 0.36000001430511475 },
+            { "positionSlot": 80, "volume": 0.4353846311569214 },
+            { "positionSlot": 104, "volume": 1 },
+            { "positionSlot": 0, "volume": 1 },
+            { "positionSlot": 32, "volume": 1 },
+            { "positionSlot": 64, "volume": 1 }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 3,
+      "loaded": true,
+      "isLoop": false,
+      "volume": 1,
+      "pan": 0.4674999415874481,
+      "label": "过渡音效",
+      "effectors": [],
+      "isExternal": false,
+      "soundPackName": "BasicSoundPack",
+      "autoScale": true,
+      "tempo": 128,
+      "lengthBar": 1,
+      "fileName": "Sweep Up 2"
+    },
+    {
+      "type": 1,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.35423195362091064,
+      "pan": 1,
+      "label": "Crash Cymbal",
+      "effectors": [
+        { "index": 3, "mix": 1, "paramX": 0.20000000298023224, "paramY": 0.5 }
+      ],
+      "slotScale": 1,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "BasicSoundPack",
+          "fileName": "Crash 2",
+          "category": 5,
+          "volume": 1,
+          "beats": [{ "positionSlot": 0, "volume": 1 }]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.4789994955062866,
+      "effectors": [
+        {
+          "index": 1,
+          "mix": 0.44999998807907104,
+          "paramX": 0.6999999284744263,
+          "paramY": 0.699999988079071
+        }
+      ],
+      "isExternal": false,
+      "soundPackName": "MarshmelloStyleSounds",
+      "fileName": "Turia Pluck",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 5.000000237487257e-4,
+      "volEnvD": 2.0000000949949026e-4,
+      "volEnvS": 1,
+      "volEnvR": 0.06666667014360428,
+      "modEnvA": 5.000000237487257e-4,
+      "modEnvD": 2.0000000949949026e-4,
+      "modEnvS": 1,
+      "modEnvR": 6.666666740784422e-5,
+      "filterFC": 2.125,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [
+        { "startSlot": 16, "lengthSlot": 4, "note": 79, "volume": 1 },
+        { "startSlot": 24, "lengthSlot": 4, "note": 76, "volume": 1 },
+        { "startSlot": 20, "lengthSlot": 4, "note": 74, "volume": 1 },
+        { "startSlot": 4, "lengthSlot": 4, "note": 76, "volume": 1 },
+        { "startSlot": 28, "lengthSlot": 4, "note": 79, "volume": 1 },
+        { "startSlot": 32, "lengthSlot": 4, "note": 76, "volume": 1 },
+        { "startSlot": 44, "lengthSlot": 4, "note": 79, "volume": 1 },
+        { "startSlot": 56, "lengthSlot": 4, "note": 79, "volume": 1 },
+        { "startSlot": 60, "lengthSlot": 4, "note": 76, "volume": 1 },
+        { "startSlot": 8, "lengthSlot": 4, "note": 81, "volume": 1 },
+        { "startSlot": 52, "lengthSlot": 4, "note": 81, "volume": 1 },
+        { "startSlot": 40, "lengthSlot": 4, "note": 83, "volume": 1 }
+      ]
+    },
+    {
+      "type": 1,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.2789968252182007,
+      "pan": 0.5581141114234924,
+      "label": "节奏鼓组",
+      "effectors": [],
+      "slotScale": 1,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "BasicSoundPack",
+          "fileName": "Kick 1",
+          "category": 1,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 16, "volume": 1 },
+            { "positionSlot": 32, "volume": 1 },
+            { "positionSlot": 48, "volume": 1 },
+            { "positionSlot": 0, "volume": 1 }
+          ]
+        },
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "BasicSoundPack",
+          "fileName": "Closed Hat 5",
+          "category": 4,
+          "volume": 0.6180048584938049,
+          "beats": [
+            { "positionSlot": 8, "volume": 1 },
+            { "positionSlot": 24, "volume": 1 },
+            { "positionSlot": 40, "volume": 1 },
+            { "positionSlot": 56, "volume": 1 }
+          ]
+        },
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "BasicSoundPack",
+          "fileName": "Percussive 1",
+          "category": 3,
+          "volume": 0.6374695897102356,
+          "beats": [
+            { "positionSlot": 12, "volume": 1 },
+            { "positionSlot": 24, "volume": 1 },
+            { "positionSlot": 40, "volume": 1 },
+            { "positionSlot": 4, "volume": 1 },
+            { "positionSlot": 28, "volume": 1 },
+            { "positionSlot": 44, "volume": 1 },
+            { "positionSlot": 60, "volume": 1 }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 1,
+      "pan": 0.5,
+      "label": "快速Hihat",
+      "effectors": [],
+      "slotScale": 1,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "BasicSoundPack",
+          "fileName": "Closed Hat 1",
+          "category": 4,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 0, "volume": 1 },
+            { "positionSlot": 16, "volume": 1 },
+            { "positionSlot": 8, "volume": 0.46307694911956787 },
+            { "positionSlot": 24, "volume": 0.4353846311569214 },
+            { "positionSlot": 32, "volume": 1 },
+            { "positionSlot": 40, "volume": 0.4446153938770294 },
+            { "positionSlot": 48, "volume": 1 },
+            { "positionSlot": 4, "volume": 0.6969230771064758 },
+            { "positionSlot": 12, "volume": 0.20461538434028625 },
+            { "positionSlot": 20, "volume": 0.7907692790031433 },
+            { "positionSlot": 28, "volume": 0.17076922953128815 },
+            { "positionSlot": 36, "volume": 0.6876923441886902 },
+            { "positionSlot": 44, "volume": 0.20461538434028625 },
+            { "positionSlot": 52, "volume": 0.7799999713897705 },
+            { "positionSlot": 60, "volume": 0.1846153885126114 },
+            { "positionSlot": 56, "volume": 0.4784615635871887 }
+          ]
+        }
+      ]
+    }
+  ]
+}

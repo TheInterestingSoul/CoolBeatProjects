@@ -1,0 +1,483 @@
+{
+  "version": 4,
+  "tempo": 86,
+  "timeSigType": 0,
+  "masterVolume": 0.5,
+  "masterPan": 0.5,
+  "masterAutos": [
+    { "state": true, "sections": [] },
+    { "state": true, "sections": [] },
+    { "state": true, "sections": [] }
+  ],
+  "tracks": [
+    {
+      "type": 0,
+      "label": "Chunch Bass",
+      "volume": 0.5,
+      "pan": 0.5,
+      "muteState": 0,
+      "solo": false,
+      "showingAuto": true,
+      "currentAutoIndex": 0,
+      "scTrackIndex": -1,
+      "fileName": "Chunch Bass",
+      "soundPack": "AlanWalkerSounds",
+      "isSample": false,
+      "param": [
+        0.625, 0.5, 0.5, 0.3142857253551483, 1, 0, 0.5, 0.0010000000474974513,
+        0, 1, 0.008333333767950535, 0.0010000000474974513, 0, 1,
+        0.008333333767950535, 0.03999999910593033, 1, 2
+      ],
+      "sections": [
+        {
+          "startTick": 0,
+          "length": 23040,
+          "startOffsetTick": 0,
+          "endOffsetTick": 0,
+          "notes": [
+            { "startTick": 0, "length": 120, "key": 53, "volume": 1 },
+            { "startTick": 600, "length": 120, "key": 48, "volume": 1 },
+            { "startTick": 960, "length": 480, "key": 45, "volume": 1 },
+            { "startTick": 1800, "length": 120, "key": 42, "volume": 1 },
+            { "startTick": 2160, "length": 120, "key": 44, "volume": 1 },
+            { "startTick": 1800, "length": 120, "key": 50, "volume": 1 },
+            { "startTick": 1440, "length": 120, "key": 47, "volume": 1 },
+            { "startTick": 960, "length": 120, "key": 48, "volume": 1 },
+            { "startTick": 720, "length": 120, "key": 51, "volume": 1 },
+            { "startTick": 600, "length": 120, "key": 44, "volume": 1 },
+            { "startTick": 2040, "length": 120, "key": 47, "volume": 1 },
+            { "startTick": 2160, "length": 120, "key": 48, "volume": 1 },
+            { "startTick": 2640, "length": 120, "key": 48, "volume": 1 },
+            { "startTick": 1560, "length": 120, "key": 45, "volume": 1 },
+            { "startTick": 240, "length": 120, "key": 49, "volume": 1 },
+            { "startTick": 2640, "length": 120, "key": 43, "volume": 1 },
+            { "startTick": 1440, "length": 120, "key": 43, "volume": 1 },
+            { "startTick": 2400, "length": 120, "key": 50, "volume": 1 },
+            { "startTick": 2400, "length": 120, "key": 46, "volume": 1 },
+            { "startTick": 2880, "length": 120, "key": 47, "volume": 1 },
+            { "startTick": 2880, "length": 120, "key": 43, "volume": 1 },
+            { "startTick": 3360, "length": 120, "key": 47, "volume": 1 },
+            { "startTick": 3360, "length": 120, "key": 50, "volume": 1 },
+            { "startTick": 3600, "length": 120, "key": 53, "volume": 1 },
+            { "startTick": 3600, "length": 120, "key": 51, "volume": 1 },
+            { "startTick": 3240, "length": 120, "key": 52, "volume": 1 },
+            { "startTick": 3240, "length": 120, "key": 48, "volume": 1 },
+            { "startTick": 3480, "length": 120, "key": 48, "volume": 1 },
+            { "startTick": 3480, "length": 120, "key": 44, "volume": 1 }
+          ]
+        }
+      ],
+      "autos": [
+        {
+          "state": true,
+          "sections": [
+            {
+              "startTick": 0,
+              "length": 23040,
+              "nodes": [
+                { "position": 0, "value": 0.17218542098999023 },
+                { "position": 3480, "value": 0.30298012495040894 },
+                { "position": 13320, "value": 0.33940398693084717 },
+                { "position": 16080, "value": 0.3824503421783447 },
+                { "position": 17760, "value": 0.46357613801956177 },
+                { "position": 18960, "value": 0.5927152633666992 },
+                { "position": 20280, "value": 0.7996689081192017 },
+                { "position": 21600, "value": 1 }
+              ]
+            }
+          ]
+        },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] }
+      ],
+      "fx": [
+        0.36666664481163025,
+        0.9473683834075928,
+        0.6097561120986938,
+        0.8999999761581421,
+        1,
+        0.6000000238418579,
+        0.20000000298023224,
+        0.49152544140815735,
+        0,
+        1,
+        0.5714285969734192,
+        0,
+        0.75,
+        [0, 0, 0, 0],
+        [0.5, 0.5, 0.5, 0.5],
+        [
+          0.0030030030757188797, 0.011511511169373989, 0.19919919967651367,
+          0.5995995998382568
+        ],
+        [
+          0.08994708955287933, 0.05128205567598343, 0.05128205567598343,
+          0.08994708955287933
+        ],
+        1,
+        0.07999998331069946,
+        0.8000000715255737,
+        0,
+        0.4000000059604645,
+        0,
+        0,
+        0.75,
+        0.4444444477558136,
+        0.625,
+        0.4000000059604645,
+        0.30769234895706177,
+        0.40000003576278687,
+        0.5,
+        0.8333333134651184,
+        0.111111119389534,
+        0.4285714626312256,
+        0.1666666716337204
+      ],
+      "fxState": [false, false, false, false, false, false, false, false]
+    },
+    {
+      "type": 0,
+      "label": "YAMAHA Piano",
+      "volume": 0.5,
+      "pan": 0.5,
+      "muteState": 0,
+      "solo": false,
+      "showingAuto": true,
+      "currentAutoIndex": 0,
+      "scTrackIndex": -1,
+      "fileName": "YAMAHA Piano",
+      "soundPack": "WesternClassic",
+      "isSample": false,
+      "param": [
+        0.375, 0.5, 0.5450000166893005, 0.3142857253551483, 1, 1, 1,
+        0.003999864216893911, 0, 1, 1, 0.0010000000474974513, 0, 1,
+        0.008333333767950535, 0.03999999910593033, 1, 2
+      ],
+      "sections": [
+        {
+          "startTick": 23040,
+          "length": 190080,
+          "startOffsetTick": 0,
+          "endOffsetTick": 0,
+          "notes": [
+            { "startTick": 0, "length": 120, "key": 53, "volume": 1 },
+            { "startTick": 600, "length": 120, "key": 48, "volume": 1 },
+            { "startTick": 960, "length": 480, "key": 45, "volume": 1 },
+            { "startTick": 1800, "length": 120, "key": 42, "volume": 1 },
+            { "startTick": 2160, "length": 120, "key": 44, "volume": 1 },
+            { "startTick": 1800, "length": 120, "key": 50, "volume": 1 },
+            { "startTick": 1440, "length": 120, "key": 47, "volume": 1 },
+            { "startTick": 960, "length": 120, "key": 48, "volume": 1 },
+            { "startTick": 720, "length": 120, "key": 51, "volume": 1 },
+            { "startTick": 600, "length": 120, "key": 44, "volume": 1 },
+            { "startTick": 2040, "length": 120, "key": 47, "volume": 1 },
+            { "startTick": 2160, "length": 120, "key": 48, "volume": 1 },
+            { "startTick": 2640, "length": 120, "key": 48, "volume": 1 },
+            { "startTick": 1560, "length": 120, "key": 45, "volume": 1 },
+            { "startTick": 240, "length": 120, "key": 49, "volume": 1 },
+            { "startTick": 2640, "length": 120, "key": 43, "volume": 1 },
+            { "startTick": 1440, "length": 120, "key": 43, "volume": 1 },
+            { "startTick": 2400, "length": 120, "key": 50, "volume": 1 },
+            { "startTick": 2400, "length": 120, "key": 46, "volume": 1 },
+            { "startTick": 2880, "length": 120, "key": 47, "volume": 1 },
+            { "startTick": 2880, "length": 120, "key": 43, "volume": 1 },
+            { "startTick": 3360, "length": 120, "key": 47, "volume": 1 },
+            { "startTick": 3360, "length": 120, "key": 50, "volume": 1 },
+            { "startTick": 3600, "length": 120, "key": 53, "volume": 1 },
+            { "startTick": 3600, "length": 120, "key": 51, "volume": 1 },
+            { "startTick": 3240, "length": 120, "key": 52, "volume": 1 },
+            { "startTick": 3240, "length": 120, "key": 48, "volume": 1 },
+            { "startTick": 3480, "length": 120, "key": 48, "volume": 1 },
+            { "startTick": 3480, "length": 120, "key": 44, "volume": 1 }
+          ]
+        }
+      ],
+      "autos": [
+        {
+          "state": true,
+          "sections": [
+            {
+              "startTick": 23040,
+              "length": 1920,
+              "nodes": [
+                { "position": 0, "value": 0.1821191906929016 },
+                { "position": 480, "value": 0.22019869089126587 },
+                { "position": 960, "value": 0.29304635524749756 },
+                { "position": 1320, "value": 0.4089403748512268 },
+                { "position": 1560, "value": 0.5430463552474976 }
+              ]
+            }
+          ]
+        },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] }
+      ],
+      "fx": [
+        0.36666664481163025,
+        0.9473683834075928,
+        0.6097561120986938,
+        0.8999999761581421,
+        1,
+        0.6000000238418579,
+        0.5513043403625488,
+        0,
+        0,
+        1,
+        0.5714285969734192,
+        0,
+        0.75,
+        [0, 0, 0, 0],
+        [0.5, 0.5, 0.5, 0.5],
+        [
+          0.0030030030757188797, 0.011511511169373989, 0.19919919967651367,
+          0.5995995998382568
+        ],
+        [
+          0.08994708955287933, 0.05128205567598343, 0.05128205567598343,
+          0.08994708955287933
+        ],
+        1,
+        0.07999998331069946,
+        0.8000000715255737,
+        0,
+        0.4000000059604645,
+        0,
+        0,
+        0.75,
+        0.4444444477558136,
+        0.625,
+        0.4000000059604645,
+        0.30769234895706177,
+        0.40000003576278687,
+        0.5,
+        0.8333333134651184,
+        0.111111119389534,
+        0.4285714626312256,
+        0.1666666716337204
+      ],
+      "fxState": [false, true, false, false, false, false, false, false]
+    },
+    {
+      "type": 1,
+      "label": "鼓组",
+      "volume": 0.5,
+      "pan": 0.5,
+      "muteState": 0,
+      "solo": false,
+      "showingAuto": true,
+      "currentAutoIndex": 0,
+      "scTrackIndex": -1,
+      "channels": [
+        {
+          "fileName": "Kick 1",
+          "soundPack": "AlanWalkerSounds",
+          "volume": 1,
+          "pan": 0.5
+        },
+        {
+          "fileName": "Hi-Hat Closed",
+          "soundPack": "WesternClassic",
+          "volume": 1,
+          "pan": 0.5
+        },
+        {
+          "fileName": "Snare 2",
+          "soundPack": "MelodicTrance",
+          "volume": 1,
+          "pan": 0.5
+        },
+        {
+          "fileName": "Uplifter FX",
+          "soundPack": "AlanWalkerSounds",
+          "volume": 1,
+          "pan": 0.5
+        }
+      ],
+      "sections": [
+        {
+          "startTick": 0,
+          "length": 17280,
+          "startOffsetTick": 0,
+          "endOffsetTick": 0,
+          "notes": [
+            { "startTick": 0, "length": 120, "key": 0, "volume": 1 },
+            { "startTick": 120, "length": 120, "key": 1, "volume": 1 },
+            { "startTick": 240, "length": 120, "key": 2, "volume": 1 },
+            { "startTick": 360, "length": 120, "key": 0, "volume": 1 },
+            { "startTick": 480, "length": 120, "key": 1, "volume": 1 },
+            { "startTick": 600, "length": 120, "key": 2, "volume": 1 },
+            { "startTick": 720, "length": 120, "key": 0, "volume": 1 },
+            { "startTick": 840, "length": 120, "key": 1, "volume": 1 },
+            { "startTick": 960, "length": 120, "key": 0, "volume": 1 },
+            { "startTick": 1080, "length": 120, "key": 1, "volume": 1 },
+            { "startTick": 1200, "length": 120, "key": 0, "volume": 1 },
+            { "startTick": 1320, "length": 120, "key": 1, "volume": 1 },
+            { "startTick": 1440, "length": 120, "key": 2, "volume": 1 },
+            { "startTick": 1560, "length": 120, "key": 0, "volume": 1 },
+            { "startTick": 1680, "length": 120, "key": 1, "volume": 1 },
+            { "startTick": 1800, "length": 120, "key": 2, "volume": 1 }
+          ]
+        },
+        {
+          "startTick": 19200,
+          "length": 3840,
+          "startOffsetTick": 0,
+          "endOffsetTick": 0,
+          "notes": [
+            { "startTick": 0, "length": 120, "key": 0, "volume": 1 },
+            { "startTick": 120, "length": 120, "key": 1, "volume": 1 },
+            { "startTick": 240, "length": 120, "key": 2, "volume": 1 },
+            { "startTick": 360, "length": 120, "key": 0, "volume": 1 },
+            { "startTick": 480, "length": 120, "key": 1, "volume": 1 },
+            { "startTick": 600, "length": 120, "key": 2, "volume": 1 },
+            { "startTick": 720, "length": 120, "key": 0, "volume": 1 },
+            { "startTick": 840, "length": 120, "key": 1, "volume": 1 },
+            { "startTick": 960, "length": 120, "key": 0, "volume": 1 },
+            { "startTick": 1080, "length": 120, "key": 1, "volume": 1 },
+            { "startTick": 1200, "length": 120, "key": 0, "volume": 1 },
+            { "startTick": 1320, "length": 120, "key": 1, "volume": 1 },
+            { "startTick": 1440, "length": 120, "key": 2, "volume": 1 },
+            { "startTick": 1560, "length": 120, "key": 0, "volume": 1 },
+            { "startTick": 1680, "length": 120, "key": 1, "volume": 1 },
+            { "startTick": 1800, "length": 120, "key": 2, "volume": 1 }
+          ]
+        },
+        {
+          "startTick": 17280,
+          "length": 1920,
+          "startOffsetTick": 0,
+          "endOffsetTick": 0,
+          "notes": [
+            { "startTick": 0, "length": 120, "key": 0, "volume": 1 },
+            { "startTick": 120, "length": 120, "key": 1, "volume": 1 },
+            { "startTick": 240, "length": 120, "key": 2, "volume": 1 },
+            { "startTick": 360, "length": 120, "key": 0, "volume": 1 },
+            { "startTick": 480, "length": 120, "key": 1, "volume": 1 },
+            { "startTick": 600, "length": 120, "key": 2, "volume": 1 },
+            { "startTick": 720, "length": 120, "key": 0, "volume": 1 },
+            { "startTick": 840, "length": 120, "key": 1, "volume": 1 },
+            { "startTick": 960, "length": 120, "key": 0, "volume": 1 },
+            { "startTick": 1080, "length": 120, "key": 1, "volume": 1 },
+            { "startTick": 1200, "length": 120, "key": 0, "volume": 1 },
+            { "startTick": 1320, "length": 120, "key": 1, "volume": 1 },
+            { "startTick": 1440, "length": 120, "key": 2, "volume": 1 },
+            { "startTick": 1560, "length": 120, "key": 0, "volume": 1 },
+            { "startTick": 1680, "length": 120, "key": 1, "volume": 1 },
+            { "startTick": 1800, "length": 120, "key": 2, "volume": 1 },
+            { "startTick": 0, "length": 120, "key": 3, "volume": 1 }
+          ]
+        },
+        {
+          "startTick": 24960,
+          "length": 13440,
+          "startOffsetTick": 0,
+          "endOffsetTick": 0,
+          "notes": [
+            { "startTick": 0, "length": 120, "key": 0, "volume": 1 },
+            { "startTick": 120, "length": 120, "key": 1, "volume": 1 },
+            { "startTick": 240, "length": 120, "key": 2, "volume": 1 },
+            { "startTick": 360, "length": 120, "key": 0, "volume": 1 },
+            { "startTick": 480, "length": 120, "key": 1, "volume": 1 },
+            { "startTick": 600, "length": 120, "key": 2, "volume": 1 },
+            { "startTick": 720, "length": 120, "key": 0, "volume": 1 },
+            { "startTick": 840, "length": 120, "key": 1, "volume": 1 },
+            { "startTick": 960, "length": 120, "key": 0, "volume": 1 },
+            { "startTick": 1080, "length": 120, "key": 1, "volume": 1 },
+            { "startTick": 1200, "length": 120, "key": 0, "volume": 1 },
+            { "startTick": 1320, "length": 120, "key": 1, "volume": 1 },
+            { "startTick": 1440, "length": 120, "key": 2, "volume": 1 },
+            { "startTick": 1560, "length": 120, "key": 0, "volume": 1 },
+            { "startTick": 1680, "length": 120, "key": 1, "volume": 1 },
+            { "startTick": 1800, "length": 120, "key": 2, "volume": 1 }
+          ]
+        }
+      ],
+      "autos": [
+        {
+          "state": true,
+          "sections": [
+            {
+              "startTick": 0,
+              "length": 21120,
+              "nodes": [
+                { "position": 0, "value": 0.36092716455459595 },
+                { "position": 17760, "value": 0.45860928297042847 },
+                { "position": 19680, "value": 0.503311276435852 }
+              ]
+            }
+          ]
+        },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] }
+      ],
+      "fx": [
+        0.36666664481163025,
+        0.9473683834075928,
+        0.6097561120986938,
+        0.8999999761581421,
+        1,
+        0.6000000238418579,
+        0.20000000298023224,
+        0.49152544140815735,
+        0,
+        1,
+        0.5714285969734192,
+        0,
+        0.75,
+        [0, 0, 0, 0],
+        [0.5, 0.5, 0.5, 0.5],
+        [
+          0.0030030030757188797, 0.011511511169373989, 0.19919919967651367,
+          0.5995995998382568
+        ],
+        [
+          0.08994708955287933, 0.05128205567598343, 0.05128205567598343,
+          0.08994708955287933
+        ],
+        1,
+        0.07999998331069946,
+        0.8000000715255737,
+        0,
+        0.4000000059604645,
+        0,
+        0,
+        0.75,
+        0.4444444477558136,
+        0.625,
+        0.4000000059604645,
+        0.30769234895706177,
+        0.40000003576278687,
+        0.5,
+        0.8333333134651184,
+        0.111111119389534,
+        0.4285714626312256,
+        0.1666666716337204
+      ],
+      "fxState": [false, false, false, false, false, false, false, false]
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "version": 2,
+  "tempo": 100,
+  "tracks": [
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.8732394576072693,
+      "pan": 0.5,
+      "effectors": [
+        {
+          "index": 1,
+          "mix": 0.44999998807907104,
+          "paramX": 0.6999999284744263,
+          "paramY": 0.699999988079071
+        },
+        { "index": 2, "mix": 0.1111111119389534, "paramX": 0, "paramY": 0 },
+        { "index": 3, "mix": 1, "paramX": 0.20000000298023224, "paramY": 0.5 },
+        { "index": 4, "mix": 1, "paramX": 0, "paramY": 0.8333333134651184 }
+      ],
+      "isExternal": false,
+      "soundPackName": "MarshmelloStyleSounds",
+      "fileName": "Future Bass 2",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 0,
+      "volEnvD": 0,
+      "volEnvS": 1,
+      "volEnvR": 0.19988970458507538,
+      "modEnvA": 0,
+      "modEnvD": 0,
+      "modEnvS": 1,
+      "modEnvR": 0,
+      "filterFC": 2.125,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [
+        { "startSlot": 0, "lengthSlot": 8, "note": 96, "volume": 1 },
+        { "startSlot": 12, "lengthSlot": 8, "note": 95, "volume": 1 },
+        { "startSlot": 24, "lengthSlot": 8, "note": 88, "volume": 1 },
+        { "startSlot": 36, "lengthSlot": 8, "note": 88, "volume": 1 },
+        { "startSlot": 48, "lengthSlot": 8, "note": 91, "volume": 1 },
+        { "startSlot": 64, "lengthSlot": 8, "note": 91, "volume": 1 },
+        { "startSlot": 76, "lengthSlot": 8, "note": 95, "volume": 1 },
+        { "startSlot": 88, "lengthSlot": 8, "note": 96, "volume": 1 },
+        { "startSlot": 100, "lengthSlot": 8, "note": 96, "volume": 1 },
+        { "startSlot": 112, "lengthSlot": 8, "note": 95, "volume": 1 }
+      ]
+    },
+    {
+      "type": 1,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.5399061441421509,
+      "pan": 0.5,
+      "effectors": [
+        { "index": 2, "mix": 0.1111111119389534, "paramX": 0, "paramY": 0 }
+      ],
+      "slotScale": 1,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "BasicSoundPack",
+          "fileName": "Kick 1",
+          "category": 1,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 0, "volume": 1 },
+            { "positionSlot": 12, "volume": 1 },
+            { "positionSlot": 20, "volume": 1 },
+            { "positionSlot": 24, "volume": 1 }
+          ]
+        },
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "BasicSoundPack",
+          "fileName": "Sweep Up 1",
+          "category": 2,
+          "volume": 1,
+          "beats": []
+        },
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "BasicSoundPack",
+          "fileName": "Snap",
+          "category": 0,
+          "volume": 1,
+          "beats": []
+        }
+      ]
+    },
+    {
+      "type": 3,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "isExternal": false,
+      "soundPackName": "MarshmelloStyleSounds",
+      "autoScale": true,
+      "tempo": 120,
+      "lengthBar": 4,
+      "fileName": "Drum Loop 1"
+    },
+    {
+      "type": 1,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "slotScale": 1,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "MartinGarrixUltimatePack",
+          "fileName": "Downlifter 1",
+          "category": 0,
+          "volume": 1,
+          "beats": [{ "positionSlot": 0, "volume": 1 }]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.1220657229423523,
+      "pan": 0.5,
+      "effectors": [],
+      "isExternal": false,
+      "soundPackName": "MartinGarrixUltimatePack",
+      "fileName": "Dont Look Down Bass",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 5.000000237487257e-4,
+      "volEnvD": 2.0000000949949026e-4,
+      "volEnvS": 1,
+      "volEnvR": 6.666666740784422e-5,
+      "modEnvA": 5.000000237487257e-4,
+      "modEnvD": 2.0000000949949026e-4,
+      "modEnvS": 1,
+      "modEnvR": 6.666666740784422e-5,
+      "filterFC": 2.125,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [
+        { "startSlot": 0, "lengthSlot": 4, "note": 91, "volume": 1 },
+        { "startSlot": 8, "lengthSlot": 4, "note": 91, "volume": 1 },
+        { "startSlot": 20, "lengthSlot": 0, "note": 86, "volume": 1 },
+        { "startSlot": 20, "lengthSlot": 4, "note": 86, "volume": 1 },
+        { "startSlot": 24, "lengthSlot": 4, "note": 89, "volume": 1 },
+        { "startSlot": 32, "lengthSlot": 4, "note": 89, "volume": 1 },
+        { "startSlot": 52, "lengthSlot": 0, "note": 91, "volume": 1 },
+        { "startSlot": 56, "lengthSlot": 0, "note": 91, "volume": 1 },
+        { "startSlot": 56, "lengthSlot": 4, "note": 91, "volume": 1 },
+        { "startSlot": 64, "lengthSlot": 4, "note": 91, "volume": 1 },
+        { "startSlot": 72, "lengthSlot": 4, "note": 91, "volume": 1 },
+        { "startSlot": 80, "lengthSlot": 4, "note": 86, "volume": 1 },
+        { "startSlot": 84, "lengthSlot": 4, "note": 86, "volume": 1 },
+        { "startSlot": 88, "lengthSlot": 4, "note": 89, "volume": 1 },
+        { "startSlot": 96, "lengthSlot": 4, "note": 89, "volume": 1 },
+        { "startSlot": 112, "lengthSlot": 4, "note": 91, "volume": 1 },
+        { "startSlot": 116, "lengthSlot": 4, "note": 91, "volume": 1 },
+        { "startSlot": 120, "lengthSlot": 4, "note": 91, "volume": 1 }
+      ]
+    }
+  ]
+}

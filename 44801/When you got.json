@@ -1,0 +1,321 @@
+{
+  "version": 2,
+  "tempo": 125,
+  "tracks": [
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 1,
+      "pan": 0.5,
+      "label": "古筝",
+      "effectors": [
+        { "index": 2, "mix": 0.1111111119389534, "paramX": 0, "paramY": 0 },
+        { "index": 4, "mix": 1, "paramX": 0, "paramY": 0.8333333134651184 }
+      ],
+      "isExternal": false,
+      "soundPackName": "BasicSoundPack",
+      "fileName": "China-GuZheng",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 5.000000237487257e-4,
+      "volEnvD": 2.0000000949949026e-4,
+      "volEnvS": 1,
+      "volEnvR": 0.16358695924282074,
+      "modEnvA": 5.000000237487257e-4,
+      "modEnvD": 2.0000000949949026e-4,
+      "modEnvS": 1,
+      "modEnvR": 6.666666740784422e-5,
+      "filterFC": 2.125,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [
+        { "startSlot": 0, "lengthSlot": 8, "note": 86, "volume": 1 },
+        { "startSlot": 36, "lengthSlot": 8, "note": 88, "volume": 1 },
+        {
+          "startSlot": 44,
+          "lengthSlot": 4,
+          "note": 89,
+          "volume": 0.9035971760749817
+        },
+        { "startSlot": 48, "lengthSlot": 4, "note": 88, "volume": 1 },
+        { "startSlot": 56, "lengthSlot": 8, "note": 86, "volume": 1 },
+        { "startSlot": 88, "lengthSlot": 8, "note": 86, "volume": 1 },
+        { "startSlot": 12, "lengthSlot": 12, "note": 84, "volume": 1 },
+        { "startSlot": 8, "lengthSlot": 4, "note": 84, "volume": 1 },
+        { "startSlot": 32, "lengthSlot": 4, "note": 86, "volume": 1 },
+        { "startSlot": 24, "lengthSlot": 4, "note": 86, "volume": 1 },
+        { "startSlot": 64, "lengthSlot": 4, "note": 84, "volume": 1 },
+        { "startSlot": 72, "lengthSlot": 4, "note": 84, "volume": 1 },
+        { "startSlot": 76, "lengthSlot": 4, "note": 83, "volume": 1 },
+        { "startSlot": 84, "lengthSlot": 4, "note": 83, "volume": 1 },
+        { "startSlot": 96, "lengthSlot": 4, "note": 84, "volume": 1 }
+      ]
+    },
+    {
+      "type": 1,
+      "loaded": false,
+      "isLoop": true,
+      "volume": 0.31347960233688354,
+      "pan": 0.4389999508857727,
+      "label": "响指",
+      "effectors": [],
+      "slotScale": 1,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "BasicSoundPack",
+          "fileName": "Snap",
+          "category": 0,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 0, "volume": 1 },
+            { "positionSlot": 20, "volume": 1 },
+            { "positionSlot": 40, "volume": 1 },
+            { "positionSlot": 60, "volume": 1 }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.326018750667572,
+      "pan": 0.5,
+      "label": "钢琴和弦",
+      "effectors": [
+        {
+          "index": 1,
+          "mix": 0.44999998807907104,
+          "paramX": 0.6999999284744263,
+          "paramY": 0.699999988079071
+        },
+        { "index": 4, "mix": 1, "paramX": 0, "paramY": 0.8333333134651184 }
+      ],
+      "isExternal": false,
+      "soundPackName": "BasicSoundPack",
+      "fileName": "Grand Piano",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 5.000000237487257e-4,
+      "volEnvD": 2.0000000949949026e-4,
+      "volEnvS": 1,
+      "volEnvR": 0.13325634598731995,
+      "modEnvA": 5.000000237487257e-4,
+      "modEnvD": 2.0000000949949026e-4,
+      "modEnvS": 1,
+      "modEnvR": 6.666666740784422e-5,
+      "filterFC": 2.125,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [
+        { "startSlot": 0, "lengthSlot": 8, "note": 48, "volume": 1 },
+        { "startSlot": 0, "lengthSlot": 8, "note": 50, "volume": 1 },
+        { "startSlot": 16, "lengthSlot": 8, "note": 52, "volume": 1 },
+        { "startSlot": 16, "lengthSlot": 8, "note": 48, "volume": 1 },
+        { "startSlot": 32, "lengthSlot": 8, "note": 53, "volume": 1 },
+        { "startSlot": 32, "lengthSlot": 8, "note": 50, "volume": 1 },
+        { "startSlot": 68, "lengthSlot": 4, "note": 45, "volume": 1 },
+        { "startSlot": 68, "lengthSlot": 4, "note": 43, "volume": 1 },
+        { "startSlot": 92, "lengthSlot": 4, "note": 48, "volume": 1 },
+        { "startSlot": 92, "lengthSlot": 4, "note": 45, "volume": 1 },
+        { "startSlot": 80, "lengthSlot": 4, "note": 53, "volume": 1 },
+        { "startSlot": 80, "lengthSlot": 4, "note": 50, "volume": 1 },
+        { "startSlot": 44, "lengthSlot": 8, "note": 48, "volume": 1 },
+        { "startSlot": 44, "lengthSlot": 8, "note": 45, "volume": 1 },
+        { "startSlot": 52, "lengthSlot": 4, "note": 48, "volume": 1 },
+        { "startSlot": 52, "lengthSlot": 4, "note": 45, "volume": 1 },
+        { "startSlot": 84, "lengthSlot": 4, "note": 53, "volume": 1 },
+        { "startSlot": 84, "lengthSlot": 4, "note": 50, "volume": 1 }
+      ]
+    },
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.31034475564956665,
+      "pan": 0.5,
+      "label": "Arp Pluck",
+      "effectors": [
+        { "index": 2, "mix": 0.1111111119389534, "paramX": 0, "paramY": 0 },
+        { "index": 4, "mix": 1, "paramX": 0, "paramY": 0.8333333134651184 }
+      ],
+      "isExternal": false,
+      "soundPackName": "BasicSoundPack",
+      "fileName": "Tiny Synth",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 5.000000237487257e-4,
+      "volEnvD": 2.0000000949949026e-4,
+      "volEnvS": 1,
+      "volEnvR": 0.13325634598731995,
+      "modEnvA": 5.000000237487257e-4,
+      "modEnvD": 2.0000000949949026e-4,
+      "modEnvS": 1,
+      "modEnvR": 6.666666740784422e-5,
+      "filterFC": 2.125,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [
+        { "startSlot": 0, "lengthSlot": 4, "note": 60, "volume": 1 },
+        { "startSlot": 4, "lengthSlot": 4, "note": 64, "volume": 1 },
+        { "startSlot": 12, "lengthSlot": 4, "note": 64, "volume": 1 },
+        { "startSlot": 16, "lengthSlot": 4, "note": 60, "volume": 1 },
+        { "startSlot": 28, "lengthSlot": 4, "note": 65, "volume": 1 },
+        { "startSlot": 32, "lengthSlot": 4, "note": 60, "volume": 1 },
+        { "startSlot": 44, "lengthSlot": 4, "note": 67, "volume": 1 },
+        { "startSlot": 52, "lengthSlot": 4, "note": 67, "volume": 1 },
+        { "startSlot": 60, "lengthSlot": 4, "note": 65, "volume": 1 },
+        { "startSlot": 52, "lengthSlot": 4, "note": 60, "volume": 1 },
+        { "startSlot": 60, "lengthSlot": 4, "note": 60, "volume": 1 },
+        { "startSlot": 72, "lengthSlot": 4, "note": 59, "volume": 1 },
+        { "startSlot": 80, "lengthSlot": 4, "note": 59, "volume": 1 },
+        { "startSlot": 84, "lengthSlot": 4, "note": 62, "volume": 1 },
+        { "startSlot": 88, "lengthSlot": 4, "note": 64, "volume": 1 },
+        { "startSlot": 92, "lengthSlot": 4, "note": 62, "volume": 1 },
+        { "startSlot": 96, "lengthSlot": 4, "note": 60, "volume": 1 }
+      ]
+    },
+    {
+      "type": 3,
+      "loaded": true,
+      "isLoop": false,
+      "volume": 0.5454545021057129,
+      "pan": 0.5,
+      "label": "过渡音效",
+      "effectors": [],
+      "isExternal": false,
+      "soundPackName": "BasicSoundPack",
+      "autoScale": true,
+      "tempo": 128,
+      "lengthBar": 1,
+      "fileName": "Sweep Up 2"
+    },
+    {
+      "type": 1,
+      "loaded": false,
+      "isLoop": false,
+      "volume": 0.7178683280944824,
+      "pan": 0.5,
+      "label": "Crash Cymbal",
+      "effectors": [],
+      "slotScale": 1,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "BasicSoundPack",
+          "fileName": "Crash 2",
+          "category": 5,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 0, "volume": 1 },
+            { "positionSlot": 16, "volume": 1 },
+            { "positionSlot": 32, "volume": 1 },
+            { "positionSlot": 48, "volume": 1 },
+            { "positionSlot": 64, "volume": 1 }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "loaded": false,
+      "isLoop": true,
+      "volume": 0.5611284971237183,
+      "pan": 0.5,
+      "label": "节奏鼓组",
+      "effectors": [
+        { "index": 4, "mix": 1, "paramX": 0, "paramY": 0.8333333134651184 }
+      ],
+      "slotScale": 1,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "BasicSoundPack",
+          "fileName": "Kick 1",
+          "category": 1,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 4, "volume": 0.4320809543132782 },
+            { "positionSlot": 36, "volume": 0.30491331219673157 },
+            { "positionSlot": 20, "volume": 1 },
+            { "positionSlot": 52, "volume": 1 }
+          ]
+        },
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "BasicSoundPack",
+          "fileName": "Closed Hat 5",
+          "category": 4,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 0, "volume": 1 },
+            { "positionSlot": 8, "volume": 1 },
+            { "positionSlot": 32, "volume": 1 },
+            { "positionSlot": 40, "volume": 1 },
+            { "positionSlot": 16, "volume": 1 },
+            { "positionSlot": 24, "volume": 1 },
+            { "positionSlot": 48, "volume": 1 },
+            { "positionSlot": 56, "volume": 1 }
+          ]
+        },
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "BasicSoundPack",
+          "fileName": "Percussive 1",
+          "category": 3,
+          "volume": 0.18491484224796295,
+          "beats": [
+            { "positionSlot": 12, "volume": 1 },
+            { "positionSlot": 28, "volume": 1 },
+            { "positionSlot": 44, "volume": 1 }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "loaded": false,
+      "isLoop": true,
+      "volume": 0.3510971665382385,
+      "pan": 0.5,
+      "label": "快速Hihat",
+      "effectors": [
+        { "index": 2, "mix": 0.1111111119389534, "paramX": 0, "paramY": 0 },
+        { "index": 4, "mix": 1, "paramX": 0, "paramY": 0.8333333134651184 }
+      ],
+      "slotScale": 1,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "BasicSoundPack",
+          "fileName": "Closed Hat 1",
+          "category": 4,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 0, "volume": 1 },
+            { "positionSlot": 16, "volume": 1 },
+            { "positionSlot": 32, "volume": 1 },
+            { "positionSlot": 56, "volume": 1 },
+            { "positionSlot": 4, "volume": 1 },
+            { "positionSlot": 20, "volume": 1 },
+            { "positionSlot": 36, "volume": 1 },
+            { "positionSlot": 44, "volume": 1 },
+            { "positionSlot": 64, "volume": 1 },
+            { "positionSlot": 68, "volume": 1 }
+          ]
+        }
+      ]
+    }
+  ]
+}

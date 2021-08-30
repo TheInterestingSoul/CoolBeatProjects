@@ -1,0 +1,62 @@
+{
+  "version": 2,
+  "tempo": 131,
+  "tracks": [
+    {
+      "type": 1,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "slotScale": 1,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "BasicSoundPack",
+          "fileName": "Snap",
+          "category": 0,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 16, "volume": 1 },
+            { "positionSlot": 48, "volume": 1 }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "isExternal": false,
+      "soundPackName": "BasicSoundPack",
+      "fileName": "Tiny Synth",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 0,
+      "volEnvD": 0,
+      "volEnvS": 1,
+      "volEnvR": 0.13325634598731995,
+      "modEnvA": 0,
+      "modEnvD": 0,
+      "modEnvS": 1,
+      "modEnvR": 0,
+      "filterFC": 2.125,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.26249998807907104,
+      "notes": [
+        { "startSlot": 0, "lengthSlot": 8, "note": 83, "volume": 1 },
+        { "startSlot": 12, "lengthSlot": 8, "note": 83, "volume": 1 },
+        { "startSlot": 24, "lengthSlot": 8, "note": 83, "volume": 1 },
+        { "startSlot": 36, "lengthSlot": 8, "note": 81, "volume": 1 },
+        { "startSlot": 48, "lengthSlot": 8, "note": 79, "volume": 1 },
+        { "startSlot": 60, "lengthSlot": 8, "note": 81, "volume": 1 }
+      ]
+    }
+  ]
+}

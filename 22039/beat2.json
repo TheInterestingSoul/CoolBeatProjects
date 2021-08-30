@@ -1,0 +1,110 @@
+{
+  "version": 2,
+  "tempo": 100,
+  "tracks": [
+    {
+      "type": 0,
+      "loaded": false,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "notes": []
+    },
+    {
+      "type": 1,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "slotScale": 1,
+      "channels": [
+        { "loaded": false, "category": -1, "volume": 1, "beats": [] }
+      ]
+    },
+    {
+      "type": 1,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [
+        {
+          "index": 1,
+          "mix": 0.08333337306976318,
+          "paramX": 0.4251064956188202,
+          "paramY": 0.5368536114692688
+        },
+        { "index": 2, "mix": 0.13970589637756348, "paramX": 0, "paramY": 0 }
+      ],
+      "slotScale": 1,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "MartinGarrixUltimatePack",
+          "fileName": "Kick 3",
+          "category": 1,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 0, "volume": 1 },
+            { "positionSlot": 32, "volume": 1 },
+            { "positionSlot": 64, "volume": 1 },
+            { "positionSlot": 96, "volume": 1 },
+            { "positionSlot": 128, "volume": 1 }
+          ]
+        },
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "MartinGarrixUltimatePack",
+          "fileName": "Snare 1",
+          "category": 2,
+          "volume": 0.37226277589797974,
+          "beats": [
+            { "positionSlot": 8, "volume": 1 },
+            { "positionSlot": 24, "volume": 1 },
+            { "positionSlot": 16, "volume": 1 },
+            { "positionSlot": 40, "volume": 1 },
+            { "positionSlot": 48, "volume": 1 },
+            { "positionSlot": 56, "volume": 1 },
+            { "positionSlot": 72, "volume": 1 },
+            { "positionSlot": 80, "volume": 1 },
+            { "positionSlot": 88, "volume": 1 },
+            { "positionSlot": 104, "volume": 1 },
+            { "positionSlot": 112, "volume": 1 },
+            { "positionSlot": 120, "volume": 1 }
+          ]
+        },
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "MartinGarrixUltimatePack",
+          "fileName": "Kick 3",
+          "category": 1,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 4, "volume": 1 },
+            { "positionSlot": 132, "volume": 1 },
+            { "positionSlot": 68, "volume": 1 }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 3,
+      "loaded": true,
+      "isLoop": false,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "isExternal": false,
+      "soundPackName": "MartinGarrixUltimatePack",
+      "autoScale": false,
+      "tempo": 0,
+      "lengthBar": 0,
+      "fileName": "Synth FX 1"
+    }
+  ]
+}

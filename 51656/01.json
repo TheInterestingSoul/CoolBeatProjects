@@ -1,0 +1,200 @@
+{
+  "version": 2,
+  "tempo": 100,
+  "tracks": [
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "isExternal": false,
+      "soundPackName": "RockBandSounds",
+      "fileName": "Electric Piano",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 5.000000237487257e-4,
+      "volEnvD": 1,
+      "volEnvS": 0,
+      "volEnvR": 0.08331823348999023,
+      "modEnvA": 5.000000237487257e-4,
+      "modEnvD": 2.0000000949949026e-4,
+      "modEnvS": 1,
+      "modEnvR": 6.666666740784422e-5,
+      "filterFC": 0.8263333439826965,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0,
+      "notes": [
+        { "startSlot": 4, "lengthSlot": 32, "note": 74, "volume": 1 },
+        { "startSlot": 32, "lengthSlot": 24, "note": 76, "volume": 1 },
+        { "startSlot": 24, "lengthSlot": 4, "note": 76, "volume": 1 },
+        { "startSlot": 60, "lengthSlot": 4, "note": 77, "volume": 1 },
+        { "startSlot": 16, "lengthSlot": 20, "note": 72, "volume": 1 },
+        { "startSlot": 68, "lengthSlot": 32, "note": 74, "volume": 1 },
+        { "startSlot": 80, "lengthSlot": 20, "note": 72, "volume": 1 },
+        { "startSlot": 120, "lengthSlot": 4, "note": 75, "volume": 1 },
+        { "startSlot": 96, "lengthSlot": 20, "note": 78, "volume": 1 },
+        { "startSlot": 88, "lengthSlot": 4, "note": 77, "volume": 1 }
+      ]
+    },
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "isExternal": false,
+      "soundPackName": "MartinGarrixUltimatePack",
+      "fileName": "Pizza Lead",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 5.000000237487257e-4,
+      "volEnvD": 2.0000000949949026e-4,
+      "volEnvS": 1,
+      "volEnvR": 0.5330253839492798,
+      "modEnvA": 5.000000237487257e-4,
+      "modEnvD": 2.0000000949949026e-4,
+      "modEnvS": 1,
+      "modEnvR": 6.666666740784422e-5,
+      "filterFC": 2.125,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": []
+    },
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "isExternal": false,
+      "soundPackName": "EssentialTropicalHouse",
+      "fileName": "Tropical Bass",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 5.000000237487257e-4,
+      "volEnvD": 2.0000000949949026e-4,
+      "volEnvS": 1,
+      "volEnvR": 0.19988970458507538,
+      "modEnvA": 5.000000237487257e-4,
+      "modEnvD": 2.0000000949949026e-4,
+      "modEnvS": 1,
+      "modEnvR": 6.666666740784422e-5,
+      "filterFC": 2.125,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": []
+    },
+    {
+      "type": 1,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "label": "ca",
+      "effectors": [],
+      "slotScale": 1,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "RockBandSounds",
+          "fileName": "Closed Hat 2",
+          "category": 5,
+          "volume": 1,
+          "beats": []
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "label": "drum",
+      "effectors": [],
+      "slotScale": 1,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "RockBandSounds",
+          "fileName": "Snare 1",
+          "category": 2,
+          "volume": 1,
+          "beats": []
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "label": "clean",
+      "effectors": [],
+      "slotScale": 1,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "RockBandSounds",
+          "fileName": "Rim Tap",
+          "category": 2,
+          "volume": 1,
+          "beats": []
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "label": "foot",
+      "effectors": [],
+      "slotScale": 1,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "RockBandSounds",
+          "fileName": "Kick 1",
+          "category": 1,
+          "volume": 1,
+          "beats": []
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "label": "snap",
+      "effectors": [],
+      "slotScale": 1,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "EssentialTropicalHouse",
+          "fileName": "Snap 2",
+          "category": 4,
+          "volume": 1,
+          "beats": []
+        }
+      ]
+    }
+  ]
+}

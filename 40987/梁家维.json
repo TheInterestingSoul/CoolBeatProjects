@@ -1,0 +1,164 @@
+{
+  "version": 4,
+  "tempo": 120,
+  "timeSigType": 0,
+  "masterVolume": 0.5,
+  "masterPan": 0.5,
+  "masterAutos": [
+    { "state": true, "sections": [] },
+    { "state": true, "sections": [] },
+    { "state": true, "sections": [] }
+  ],
+  "tracks": [
+    {
+      "type": 0,
+      "label": "Grand Piano",
+      "volume": 0.5,
+      "pan": 0.5,
+      "muteState": 0,
+      "solo": false,
+      "showingAuto": false,
+      "currentAutoIndex": 0,
+      "scTrackIndex": -1,
+      "fileName": "Grand Piano",
+      "soundPack": "BasicSoundPack",
+      "isSample": false,
+      "param": [
+        0.5, 0.5, 0.5, 0.3142857253551483, 1, 0, 0.5, 0.0010000000474974513, 0,
+        1, 0.16657042503356934, 0.0010000000474974513, 0, 1,
+        0.008333333767950535, 0.03999999910593033, 1, 0
+      ],
+      "sections": [
+        {
+          "startTick": 0,
+          "length": 24960,
+          "startOffsetTick": 0,
+          "endOffsetTick": 0,
+          "notes": [
+            { "startTick": 0, "length": 960, "key": 33, "volume": 1 },
+            { "startTick": 960, "length": 960, "key": 29, "volume": 1 },
+            {
+              "startTick": 1920,
+              "length": 960,
+              "key": 38,
+              "volume": 0.6163522005081177
+            },
+            { "startTick": 2880, "length": 960, "key": 31, "volume": 1 },
+            {
+              "startTick": 0,
+              "length": 960,
+              "key": 38,
+              "volume": 0.6116352081298828
+            },
+            {
+              "startTick": 960,
+              "length": 960,
+              "key": 34,
+              "volume": 0.544025182723999
+            },
+            { "startTick": 1920, "length": 960, "key": 41, "volume": 1 },
+            {
+              "startTick": 2880,
+              "length": 960,
+              "key": 36,
+              "volume": 0.643081784248352
+            },
+            {
+              "startTick": 0,
+              "length": 960,
+              "key": 41,
+              "volume": 0.5534591674804688
+            },
+            {
+              "startTick": 1920,
+              "length": 960,
+              "key": 44,
+              "volume": 0.5628930926322937
+            },
+            {
+              "startTick": 960,
+              "length": 960,
+              "key": 38,
+              "volume": 0.6415094137191772
+            },
+            {
+              "startTick": 2880,
+              "length": 960,
+              "key": 38,
+              "volume": 0.6336477994918823
+            },
+            {
+              "startTick": 600,
+              "length": 360,
+              "key": 36,
+              "volume": 0.6084905862808228
+            },
+            {
+              "startTick": 2520,
+              "length": 360,
+              "key": 36,
+              "volume": 0.6336477994918823
+            }
+          ]
+        }
+      ],
+      "autos": [
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] }
+      ],
+      "fx": [
+        0.6081972718238831,
+        0.685722827911377,
+        0.6737561821937561,
+        0.8999999761581421,
+        0.8090000152587891,
+        0.6000000238418579,
+        0.20000000298023224,
+        0.49152544140815735,
+        0,
+        1,
+        0.5714285969734192,
+        0,
+        0.75,
+        [0, 0, 0, 0],
+        [0.5, 0.5, 0.5, 0.5],
+        [
+          0.0030030030757188797, 0.011511511169373989, 0.19919919967651367,
+          0.5995995998382568
+        ],
+        [
+          0.08994708955287933, 0.05128205567598343, 0.05128205567598343,
+          0.08994708955287933
+        ],
+        1,
+        0.07999998331069946,
+        0.8000000715255737,
+        0,
+        0.4000000059604645,
+        0,
+        0,
+        0.75,
+        0.4444444477558136,
+        0.625,
+        0.4000000059604645,
+        0.30769234895706177,
+        0.40000003576278687,
+        0.5,
+        0.8333333134651184,
+        0.111111119389534,
+        0.4285714626312256,
+        0.1666666716337204
+      ],
+      "fxState": [true, false, false, false, false, false, false, false]
+    }
+  ]
+}

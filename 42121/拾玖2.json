@@ -1,0 +1,92 @@
+{
+  "version": 2,
+  "tempo": 85,
+  "tracks": [
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 1,
+      "pan": 0.5,
+      "effectors": [
+        {
+          "index": 1,
+          "mix": 0.4900793433189392,
+          "paramX": 0.731285572052002,
+          "paramY": 0.8751352429389954
+        },
+        { "index": 2, "mix": 0.1111111119389534, "paramX": 0, "paramY": 0 }
+      ],
+      "isExternal": false,
+      "soundPackName": "WesternClassic",
+      "fileName": "Flute",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 0,
+      "volEnvD": 0.4000000059604645,
+      "volEnvS": 1,
+      "volEnvR": 0.040008291602134705,
+      "modEnvA": 0,
+      "modEnvD": 0,
+      "modEnvS": 1,
+      "modEnvR": 0,
+      "filterFC": 1.993416666984558,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [
+        { "startSlot": 16, "lengthSlot": 8, "note": 81, "volume": 1 },
+        { "startSlot": 24, "lengthSlot": 8, "note": 84, "volume": 1 },
+        { "startSlot": 8, "lengthSlot": 8, "note": 79, "volume": 1 },
+        { "startSlot": 40, "lengthSlot": 8, "note": 81, "volume": 1 },
+        { "startSlot": 48, "lengthSlot": 8, "note": 77, "volume": 1 },
+        { "startSlot": 56, "lengthSlot": 8, "note": 79, "volume": 1 },
+        { "startSlot": 72, "lengthSlot": 8, "note": 79, "volume": 1 },
+        { "startSlot": 80, "lengthSlot": 8, "note": 81, "volume": 1 },
+        { "startSlot": 88, "lengthSlot": 8, "note": 84, "volume": 1 },
+        { "startSlot": 96, "lengthSlot": 8, "note": 84, "volume": 1 },
+        { "startSlot": 104, "lengthSlot": 8, "note": 84, "volume": 1 },
+        { "startSlot": 112, "lengthSlot": 8, "note": 77, "volume": 1 },
+        { "startSlot": 144, "lengthSlot": 8, "note": 74, "volume": 1 },
+        { "startSlot": 152, "lengthSlot": 8, "note": 77, "volume": 1 },
+        { "startSlot": 168, "lengthSlot": 8, "note": 72, "volume": 1 },
+        { "startSlot": 176, "lengthSlot": 8, "note": 74, "volume": 1 },
+        { "startSlot": 136, "lengthSlot": 8, "note": 72, "volume": 1 },
+        { "startSlot": 184, "lengthSlot": 8, "note": 79, "volume": 1 },
+        { "startSlot": 200, "lengthSlot": 8, "note": 72, "volume": 1 },
+        { "startSlot": 208, "lengthSlot": 8, "note": 74, "volume": 1 },
+        { "startSlot": 216, "lengthSlot": 8, "note": 77, "volume": 1 },
+        { "startSlot": 224, "lengthSlot": 8, "note": 77, "volume": 1 },
+        { "startSlot": 232, "lengthSlot": 8, "note": 74, "volume": 1 },
+        { "startSlot": 240, "lengthSlot": 8, "note": 79, "volume": 1 },
+        { "startSlot": 248, "lengthSlot": 8, "note": 81, "volume": 1 },
+        { "startSlot": 256, "lengthSlot": 16, "note": 79, "volume": 1 },
+        { "startSlot": 120, "lengthSlot": 16, "note": 79, "volume": 1 }
+      ]
+    },
+    {
+      "type": 1,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "slotScale": 1,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "BasicSoundPack",
+          "fileName": "Clap 5",
+          "category": 0,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 8, "volume": 1 },
+            { "positionSlot": 40, "volume": 1 },
+            { "positionSlot": 48, "volume": 1 }
+          ]
+        }
+      ]
+    }
+  ]
+}

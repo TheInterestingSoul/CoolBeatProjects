@@ -1,0 +1,288 @@
+{
+  "version": 4,
+  "tempo": 120,
+  "timeSigType": 0,
+  "masterVolume": 0.5,
+  "masterPan": 0.5,
+  "masterAutos": [
+    { "state": true, "sections": [] },
+    { "state": true, "sections": [] },
+    { "state": true, "sections": [] }
+  ],
+  "tracks": [
+    {
+      "type": 0,
+      "label": "China-Pipa",
+      "volume": 0.16900016367435455,
+      "pan": 0.21250002086162567,
+      "muteState": 0,
+      "solo": false,
+      "showingAuto": true,
+      "currentAutoIndex": 6,
+      "scTrackIndex": -1,
+      "fileName": "China-Pipa",
+      "soundPack": "BasicSoundPack",
+      "isSample": false,
+      "param": [
+        0.5, 0.5, 0.5, 0.7142857313156128, 1, 0, 0.5, 0.0010000000474974513, 0,
+        1, 0.8331823348999023, 0.0010000000474974513, 0, 1,
+        0.008333333767950535, 0.10200002044439316, 0.5, 1
+      ],
+      "sections": [
+        {
+          "startTick": 0,
+          "length": 1920,
+          "startOffsetTick": 0,
+          "endOffsetTick": 0,
+          "notes": [{ "startTick": 0, "length": 1920, "key": 35, "volume": 1 }]
+        },
+        {
+          "startTick": 1920,
+          "length": 1920,
+          "startOffsetTick": 0,
+          "endOffsetTick": 0,
+          "notes": [{ "startTick": 0, "length": 1920, "key": 33, "volume": 1 }]
+        }
+      ],
+      "autos": [
+        {
+          "state": false,
+          "sections": [
+            {
+              "startTick": 0,
+              "length": 1920,
+              "nodes": [
+                { "position": 0, "value": 0.4570135474205017 },
+                { "position": 120, "value": 0.36538463830947876 },
+                { "position": 240, "value": 0.26131224632263184 },
+                { "position": 480, "value": 0.18552035093307495 },
+                { "position": 840, "value": 0.11312216520309448 },
+                { "position": 1200, "value": 0.05656111240386963 },
+                { "position": 1560, "value": 0.01729559898376465 },
+                { "position": 1920, "value": 0 }
+              ]
+            }
+          ]
+        },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        {
+          "state": true,
+          "sections": [
+            {
+              "startTick": 1920,
+              "length": 1920,
+              "nodes": [
+                { "position": 0, "value": 1 },
+                { "position": 1920, "value": 0.011312246322631836 }
+              ]
+            }
+          ]
+        },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        {
+          "state": true,
+          "sections": [
+            {
+              "startTick": 1920,
+              "length": 1920,
+              "nodes": [
+                { "position": 0, "value": 0.9977375268936157 },
+                { "position": 1920, "value": 0.009049773216247559 }
+              ]
+            }
+          ]
+        },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] }
+      ],
+      "fx": [
+        0.36666664481163025,
+        0.9473683834075928,
+        0.6097561120986938,
+        0.8999999761581421,
+        1,
+        0.50150066614151,
+        0,
+        0,
+        0,
+        1,
+        0.5714285969734192,
+        0,
+        0.75,
+        [0, 0, 0, 0],
+        [0.5, 0.5, 0.5, 0.5],
+        [
+          0.0030030030757188797, 0.011511511169373989, 0.19919919967651367,
+          0.5995995998382568
+        ],
+        [
+          0.08994708955287933, 0.05128205567598343, 0.05128205567598343,
+          0.08994708955287933
+        ],
+        1,
+        0.07999998331069946,
+        0.8000000715255737,
+        0,
+        0.4000000059604645,
+        0,
+        7,
+        0.45600032806396484,
+        0.7029104828834534,
+        0.806000292301178,
+        0.4000000059604645,
+        0.30769234895706177,
+        0.40000003576278687,
+        0.5,
+        0.8333333134651184,
+        0.111111119389534,
+        0.4285714626312256,
+        0.1666666716337204
+      ],
+      "fxState": [false, false, false, false, false, true, false, false]
+    },
+    {
+      "type": 0,
+      "label": "China-GuQin",
+      "volume": 0.5,
+      "pan": 0.8109998106956482,
+      "muteState": 0,
+      "solo": false,
+      "showingAuto": false,
+      "currentAutoIndex": 0,
+      "scTrackIndex": -1,
+      "fileName": "China-GuQin",
+      "soundPack": "BasicSoundPack",
+      "isSample": false,
+      "param": [
+        0.5, 0.5, 0.5, 0.3142857253551483, 1, 0, 0.5, 0.0010000000474974513, 0,
+        1, 0.16657042503356934, 0.0010000000474974513, 0, 1,
+        0.008333333767950535, 0.03999999910593033, 1, 0
+      ],
+      "sections": [
+        {
+          "startTick": 3840,
+          "length": 16338,
+          "startOffsetTick": 0,
+          "endOffsetTick": 0,
+          "notes": [
+            {
+              "startTick": 0,
+              "length": 360,
+              "key": 60,
+              "volume": 0.9229559898376465
+            },
+            {
+              "startTick": 360,
+              "length": 120,
+              "key": 57,
+              "volume": 0.9229559898376465
+            },
+            {
+              "startTick": 480,
+              "length": 120,
+              "key": 60,
+              "volume": 0.9229559898376465
+            },
+            {
+              "startTick": 600,
+              "length": 360,
+              "key": 59,
+              "volume": 0.9229559898376465
+            },
+            {
+              "startTick": 960,
+              "length": 360,
+              "key": 57,
+              "volume": 0.9229559898376465
+            },
+            {
+              "startTick": 1320,
+              "length": 240,
+              "key": 67,
+              "volume": 0.9229559898376465
+            },
+            {
+              "startTick": 1560,
+              "length": 136,
+              "key": 64,
+              "volume": 0.9229559898376465
+            },
+            {
+              "startTick": 1698,
+              "length": 229,
+              "key": 67,
+              "volume": 0.9229559898376465
+            },
+            {
+              "startTick": 1925,
+              "length": 360,
+              "key": 60,
+              "volume": 0.9229559898376465
+            }
+          ]
+        }
+      ],
+      "autos": [
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] }
+      ],
+      "fx": [
+        0.36666664481163025,
+        0.9473683834075928,
+        0.6097561120986938,
+        0.8999999761581421,
+        1,
+        0.5059999823570251,
+        0.10695651918649673,
+        0,
+        0,
+        1,
+        0.5714285969734192,
+        0,
+        0.75,
+        [0, 0, 0, 0],
+        [0.5, 0.5, 0.5, 0.5],
+        [
+          0.0030030030757188797, 0.011511511169373989, 0.19919919967651367,
+          0.5995995998382568
+        ],
+        [
+          0.08994708955287933, 0.05128205567598343, 0.05128205567598343,
+          0.08994708955287933
+        ],
+        1,
+        0.07999998331069946,
+        0.8000000715255737,
+        0,
+        0.4000000059604645,
+        0,
+        0,
+        0.75,
+        0.4444444477558136,
+        0.625,
+        0.4000000059604645,
+        0.30769234895706177,
+        0.40000003576278687,
+        0.5,
+        0.8333333134651184,
+        0.111111119389534,
+        0.4285714626312256,
+        0.1666666716337204
+      ],
+      "fxState": [false, true, false, false, false, false, false, false]
+    }
+  ]
+}

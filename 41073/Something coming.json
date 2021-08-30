@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "tempo": 125,
+  "tracks": [
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.5235109329223633,
+      "pan": 0.5,
+      "effectors": [],
+      "isExternal": false,
+      "soundPackName": "BasicSoundPack",
+      "fileName": "Sweep Pad",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 0.003999864216893911,
+      "volEnvD": 1,
+      "volEnvS": 0.5623413324356079,
+      "volEnvR": 0.264060914516449,
+      "modEnvA": 5.000000237487257e-4,
+      "modEnvD": 2.0000000949949026e-4,
+      "modEnvS": 1,
+      "modEnvR": 6.666666740784422e-5,
+      "filterFC": 1.8566666841506958,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [
+        {
+          "startSlot": 0,
+          "lengthSlot": 16,
+          "note": 77,
+          "volume": 0.14505495131015778
+        },
+        {
+          "startSlot": 0,
+          "lengthSlot": 16,
+          "note": 72,
+          "volume": 0.1626373678445816
+        },
+        {
+          "startSlot": 32,
+          "lengthSlot": 16,
+          "note": 77,
+          "volume": 0.09890110045671463
+        },
+        {
+          "startSlot": 96,
+          "lengthSlot": 16,
+          "note": 77,
+          "volume": 0.07252747565507889
+        },
+        {
+          "startSlot": 64,
+          "lengthSlot": 16,
+          "note": 74,
+          "volume": 0.06813186407089233
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.4921630024909973,
+      "pan": 0.35647374391555786,
+      "effectors": [],
+      "isExternal": false,
+      "soundPackName": "BasicSoundPack",
+      "fileName": "Grand Piano",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 5.000000237487257e-4,
+      "volEnvD": 2.0000000949949026e-4,
+      "volEnvS": 1,
+      "volEnvR": 0.13325634598731995,
+      "modEnvA": 5.000000237487257e-4,
+      "modEnvD": 2.0000000949949026e-4,
+      "modEnvS": 1,
+      "modEnvR": 6.666666740784422e-5,
+      "filterFC": 2.125,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [
+        { "startSlot": 0, "lengthSlot": 16, "note": 86, "volume": 1 },
+        { "startSlot": 0, "lengthSlot": 16, "note": 83, "volume": 1 },
+        { "startSlot": 48, "lengthSlot": 8, "note": 85, "volume": 1 },
+        { "startSlot": 56, "lengthSlot": 8, "note": 83, "volume": 1 },
+        { "startSlot": 32, "lengthSlot": 16, "note": 83, "volume": 1 },
+        { "startSlot": 64, "lengthSlot": 32, "note": 82, "volume": 1 },
+        { "startSlot": 80, "lengthSlot": 4, "note": 83, "volume": 1 },
+        { "startSlot": 112, "lengthSlot": 4, "note": 81, "volume": 1 },
+        { "startSlot": 120, "lengthSlot": 8, "note": 82, "volume": 1 }
+      ]
+    },
+    {
+      "type": 1,
+      "loaded": false,
+      "isLoop": true,
+      "volume": 0.7993730306625366,
+      "pan": 0.5,
+      "effectors": [],
+      "slotScale": 1,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "BasicSoundPack",
+          "fileName": "Kick 5",
+          "category": 1,
+          "volume": 0.2822384536266327,
+          "beats": [
+            { "positionSlot": 0, "volume": 1 },
+            { "positionSlot": 64, "volume": 1 },
+            { "positionSlot": 128, "volume": 1 }
+          ]
+        }
+      ]
+    }
+  ]
+}

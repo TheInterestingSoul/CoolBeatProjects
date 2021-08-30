@@ -1,0 +1,58 @@
+{
+  "version": 2,
+  "tempo": 250,
+  "tracks": [
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "isExternal": false,
+      "soundPackName": "BasicSoundPack",
+      "fileName": "Fade Pluck",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 0,
+      "volEnvD": 0,
+      "volEnvS": 1,
+      "volEnvR": 0.6665458679199219,
+      "modEnvA": 0,
+      "modEnvD": 0,
+      "modEnvS": 1,
+      "modEnvR": 0,
+      "filterFC": 2.125,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [
+        { "startSlot": 0, "lengthSlot": 12, "note": 79, "volume": 1 },
+        { "startSlot": 24, "lengthSlot": 12, "note": 79, "volume": 1 },
+        { "startSlot": 36, "lengthSlot": 12, "note": 81, "volume": 1 },
+        { "startSlot": 48, "lengthSlot": 12, "note": 83, "volume": 1 },
+        { "startSlot": 72, "lengthSlot": 12, "note": 86, "volume": 1 }
+      ]
+    },
+    {
+      "type": 1,
+      "loaded": false,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "slotScale": 4,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "EssentialTropicalHouse",
+          "fileName": "Clap 1",
+          "category": 2,
+          "volume": 1,
+          "beats": []
+        }
+      ]
+    }
+  ]
+}

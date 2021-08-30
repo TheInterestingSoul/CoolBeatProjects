@@ -1,0 +1,216 @@
+{
+  "version": 2,
+  "tempo": 85,
+  "tracks": [
+    {
+      "type": 1,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.7178683280944824,
+      "pan": 0.5,
+      "effectors": [],
+      "slotScale": 2,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "BasicSoundPack",
+          "fileName": "Kick 1",
+          "category": 1,
+          "volume": 0.7591240406036377,
+          "beats": [
+            { "positionSlot": 0, "volume": 1 },
+            { "positionSlot": 8, "volume": 1 },
+            { "positionSlot": 24, "volume": 1 },
+            { "positionSlot": 38, "volume": 1 },
+            { "positionSlot": 32, "volume": 1 },
+            { "positionSlot": 44, "volume": 1 }
+          ]
+        },
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "ProgressiveHouseElements",
+          "fileName": "Clap 1",
+          "category": 2,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 16, "volume": 1 },
+            { "positionSlot": 48, "volume": 1 }
+          ]
+        },
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "BasicSoundPack",
+          "fileName": "Kick 2",
+          "category": 1,
+          "volume": 0.3381994962692261,
+          "beats": [
+            { "positionSlot": 48, "volume": 1 },
+            { "positionSlot": 8, "volume": 1 },
+            { "positionSlot": 24, "volume": 1 },
+            { "positionSlot": 56, "volume": 1 }
+          ]
+        },
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "BasicSoundPack",
+          "fileName": "Kick 3",
+          "category": 1,
+          "volume": 0.6326034069061279,
+          "beats": [
+            { "positionSlot": 60, "volume": 1 },
+            { "positionSlot": 0, "volume": 1 }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.7178683280944824,
+      "pan": 0.5,
+      "effectors": [
+        {
+          "index": 1,
+          "mix": 0.44999998807907104,
+          "paramX": 0.6999999284744263,
+          "paramY": 0.699999988079071
+        },
+        { "index": 3, "mix": 1, "paramX": 0.20000000298023224, "paramY": 0.5 }
+      ],
+      "isExternal": false,
+      "soundPackName": "ProgressiveHouseElements",
+      "fileName": "Melbourne Bass",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 0,
+      "volEnvD": 0,
+      "volEnvS": 1,
+      "volEnvR": 0.33327293395996094,
+      "modEnvA": 0,
+      "modEnvD": 0,
+      "modEnvS": 1,
+      "modEnvR": 0,
+      "filterFC": 2.125,
+      "modToFilter": 0.5,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [
+        { "startSlot": 0, "lengthSlot": 4, "note": 60, "volume": 1 },
+        { "startSlot": 24, "lengthSlot": 4, "note": 60, "volume": 1 },
+        { "startSlot": 64, "lengthSlot": 4, "note": 60, "volume": 1 },
+        { "startSlot": 88, "lengthSlot": 4, "note": 60, "volume": 1 },
+        { "startSlot": 112, "lengthSlot": 4, "note": 59, "volume": 1 }
+      ]
+    },
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.19435739517211914,
+      "pan": 0.5,
+      "effectors": [],
+      "isExternal": false,
+      "soundPackName": "RockBandSounds",
+      "fileName": "Distortion Guitar",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 0,
+      "volEnvD": 10.603034019470215,
+      "volEnvS": 0.008128306828439236,
+      "volEnvR": 0.31988149881362915,
+      "modEnvA": 0,
+      "modEnvD": 0,
+      "modEnvS": 1,
+      "modEnvR": 0.7065887451171875,
+      "filterFC": 2.125,
+      "modToFilter": 0.6028333306312561,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [
+        { "startSlot": 0, "lengthSlot": 24, "note": 48, "volume": 1 },
+        { "startSlot": 64, "lengthSlot": 24, "note": 48, "volume": 1 },
+        {
+          "startSlot": 88,
+          "lengthSlot": 24,
+          "note": 47,
+          "volume": 0.6629526615142822
+        },
+        {
+          "startSlot": 24,
+          "lengthSlot": 24,
+          "note": 48,
+          "volume": 0.696378767490387
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "label": "铃声",
+      "effectors": [],
+      "slotScale": 1,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "WesternClassic",
+          "fileName": "Triangle",
+          "category": 0,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 0, "volume": 1 },
+            { "positionSlot": 128, "volume": 1 }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.6489027738571167,
+      "pan": 0.5,
+      "effectors": [
+        {
+          "index": 1,
+          "mix": 0.44999998807907104,
+          "paramX": 0.6999999284744263,
+          "paramY": 0.699999988079071
+        },
+        { "index": 3, "mix": 1, "paramX": 0.20000000298023224, "paramY": 0.5 }
+      ],
+      "isExternal": false,
+      "soundPackName": "WesternClassic",
+      "fileName": "Violin",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 0,
+      "volEnvD": 0.6000155806541443,
+      "volEnvS": 0.7079457640647888,
+      "volEnvR": 0.026671499013900757,
+      "modEnvA": 0,
+      "modEnvD": 0,
+      "modEnvS": 1,
+      "modEnvR": 0.6665458679199219,
+      "filterFC": 2.125,
+      "modToFilter": 0.5083333253860474,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [
+        { "startSlot": 0, "lengthSlot": 16, "note": 60, "volume": 1 },
+        { "startSlot": 24, "lengthSlot": 16, "note": 60, "volume": 1 },
+        { "startSlot": 64, "lengthSlot": 16, "note": 60, "volume": 1 },
+        { "startSlot": 88, "lengthSlot": 16, "note": 60, "volume": 1 },
+        { "startSlot": 112, "lengthSlot": 16, "note": 59, "volume": 1 }
+      ]
+    }
+  ]
+}

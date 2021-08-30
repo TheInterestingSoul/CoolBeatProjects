@@ -1,0 +1,563 @@
+{
+  "version": 4,
+  "tempo": 135,
+  "timeSigType": 0,
+  "masterVolume": 0.5,
+  "masterPan": 0.5,
+  "masterAutos": [
+    {
+      "state": true,
+      "sections": [
+        {
+          "startTick": 53760,
+          "length": 30720,
+          "nodes": [
+            { "position": 0, "value": 0.1600000262260437 },
+            { "position": 30720, "value": 0.1600000262260437 }
+          ]
+        }
+      ]
+    },
+    { "state": true, "sections": [] },
+    { "state": true, "sections": [] }
+  ],
+  "tracks": [
+    {
+      "type": 0,
+      "label": "Ballad Piano",
+      "volume": 1,
+      "pan": 0.5936046838760376,
+      "muteState": 0,
+      "solo": true,
+      "showingAuto": true,
+      "currentAutoIndex": 4,
+      "scTrackIndex": -1,
+      "fileName": "Ballad Piano",
+      "soundPack": "TheChainsmokersSounds",
+      "isSample": false,
+      "param": [
+        0.5, 0.5, 0.5, 0.3142857253551483, 1, 1, 1, 0.0010000000474974513, 1, 1,
+        0.699817955493927, 0.0010000000474974513, 0, 1, 0.008333333767950535,
+        0.4095301926136017, 1, 0
+      ],
+      "sections": [
+        {
+          "startTick": 5,
+          "length": 40552,
+          "startOffsetTick": 0,
+          "endOffsetTick": 0,
+          "notes": [
+            { "startTick": 0, "length": 240, "key": 30, "volume": 1 },
+            { "startTick": 240, "length": 240, "key": 29, "volume": 1 },
+            { "startTick": 480, "length": 240, "key": 25, "volume": 1 },
+            { "startTick": 1200, "length": 240, "key": 25, "volume": 1 },
+            { "startTick": 960, "length": 240, "key": 25, "volume": 1 },
+            { "startTick": 1680, "length": 240, "key": 25, "volume": 1 },
+            { "startTick": 1920, "length": 240, "key": 25, "volume": 1 },
+            { "startTick": 2160, "length": 240, "key": 25, "volume": 1 },
+            { "startTick": 2400, "length": 240, "key": 25, "volume": 1 },
+            { "startTick": 2880, "length": 240, "key": 27, "volume": 1 },
+            { "startTick": 2640, "length": 240, "key": 27, "volume": 1 },
+            { "startTick": 3120, "length": 240, "key": 29, "volume": 1 },
+            { "startTick": 3360, "length": 240, "key": 29, "volume": 1 },
+            { "startTick": 3840, "length": 240, "key": 30, "volume": 1 },
+            { "startTick": 4080, "length": 240, "key": 29, "volume": 1 },
+            { "startTick": 4320, "length": 240, "key": 25, "volume": 1 },
+            { "startTick": 4800, "length": 240, "key": 27, "volume": 1 },
+            { "startTick": 5040, "length": 240, "key": 27, "volume": 1 },
+            { "startTick": 5520, "length": 240, "key": 27, "volume": 1 },
+            { "startTick": 5760, "length": 240, "key": 27, "volume": 1 },
+            { "startTick": 6000, "length": 240, "key": 27, "volume": 1 },
+            { "startTick": 6240, "length": 240, "key": 27, "volume": 1 },
+            { "startTick": 6720, "length": 240, "key": 29, "volume": 1 },
+            { "startTick": 7200, "length": 240, "key": 25, "volume": 1 },
+            { "startTick": 6480, "length": 240, "key": 29, "volume": 1 },
+            { "startTick": 6960, "length": 240, "key": 30, "volume": 1 },
+            { "startTick": 7680, "length": 240, "key": 30, "volume": 1 },
+            { "startTick": 7920, "length": 240, "key": 29, "volume": 1 },
+            { "startTick": 8160, "length": 240, "key": 25, "volume": 1 },
+            { "startTick": 8640, "length": 240, "key": 32, "volume": 1 },
+            { "startTick": 8880, "length": 240, "key": 32, "volume": 1 },
+            { "startTick": 9360, "length": 240, "key": 32, "volume": 1 },
+            { "startTick": 9600, "length": 240, "key": 32, "volume": 1 },
+            { "startTick": 9840, "length": 240, "key": 32, "volume": 1 },
+            { "startTick": 10080, "length": 240, "key": 32, "volume": 1 },
+            { "startTick": 10320, "length": 240, "key": 34, "volume": 1 },
+            { "startTick": 10560, "length": 240, "key": 34, "volume": 1 },
+            { "startTick": 10800, "length": 240, "key": 32, "volume": 1 },
+            { "startTick": 11040, "length": 240, "key": 29, "volume": 1 },
+            { "startTick": 0, "length": 960, "key": 18, "volume": 1 },
+            { "startTick": 8640, "length": 960, "key": 20, "volume": 1 },
+            { "startTick": 960, "length": 960, "key": 20, "volume": 1 },
+            { "startTick": 1920, "length": 960, "key": 22, "volume": 1 },
+            { "startTick": 3840, "length": 960, "key": 18, "volume": 1 },
+            { "startTick": 4800, "length": 960, "key": 23, "volume": 1 },
+            { "startTick": 5760, "length": 960, "key": 22, "volume": 1 },
+            { "startTick": 7680, "length": 960, "key": 18, "volume": 1 },
+            { "startTick": 9600, "length": 960, "key": 22, "volume": 1 },
+            { "startTick": 11520, "length": 240, "key": 30, "volume": 1 },
+            { "startTick": 11760, "length": 240, "key": 29, "volume": 1 },
+            { "startTick": 12000, "length": 240, "key": 25, "volume": 1 },
+            { "startTick": 12480, "length": 240, "key": 25, "volume": 1 },
+            { "startTick": 12720, "length": 240, "key": 25, "volume": 1 },
+            { "startTick": 13200, "length": 240, "key": 25, "volume": 1 },
+            { "startTick": 13440, "length": 240, "key": 25, "volume": 1 },
+            { "startTick": 13680, "length": 240, "key": 25, "volume": 1 },
+            { "startTick": 13920, "length": 240, "key": 25, "volume": 1 },
+            { "startTick": 14400, "length": 240, "key": 27, "volume": 1 },
+            { "startTick": 14160, "length": 240, "key": 27, "volume": 1 },
+            { "startTick": 14640, "length": 240, "key": 25, "volume": 1 },
+            { "startTick": 14880, "length": 240, "key": 25, "volume": 1 }
+          ]
+        }
+      ],
+      "autos": [
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] }
+      ],
+      "fx": [
+        0.36666664481163025,
+        1,
+        0.6008548140525818,
+        0.5958284735679626,
+        1,
+        0.6000000238418579,
+        0.20000000298023224,
+        0.49152544140815735,
+        0,
+        1,
+        0.5714285969734192,
+        0.11083710193634033,
+        0.75,
+        [0, 0, 0, 0],
+        [0.5, 0.5, 0.5, 0.5],
+        [
+          0.0030030030757188797, 0.011511511169373989, 0.19919919967651367,
+          0.5995995998382568
+        ],
+        [
+          0.08994708955287933, 0.05128205567598343, 0.05128205567598343,
+          0.08994708955287933
+        ],
+        1,
+        0.07999998331069946,
+        0.8000000715255737,
+        0,
+        0.4000000059604645,
+        0,
+        0,
+        0.75,
+        0.4444444477558136,
+        0.625,
+        0.4000000059604645,
+        0.30769234895706177,
+        0.40000003576278687,
+        0.5,
+        0.8333333134651184,
+        0.111111119389534,
+        0.4285714626312256,
+        0.1666666716337204
+      ],
+      "fxState": [true, true, true, false, false, false, false, false]
+    },
+    {
+      "type": 1,
+      "label": "鼓组",
+      "volume": 0.9936567544937134,
+      "pan": 0.3528748154640198,
+      "muteState": 0,
+      "solo": true,
+      "showingAuto": false,
+      "currentAutoIndex": 0,
+      "scTrackIndex": -1,
+      "channels": [
+        {
+          "fileName": "Bass Kick",
+          "soundPack": "TheChainsmokersSounds",
+          "volume": 0.5870130062103271,
+          "pan": 0.5
+        },
+        {
+          "fileName": "Big Snare",
+          "soundPack": "TheChainsmokersSounds",
+          "volume": 0.6064935326576233,
+          "pan": 0.5
+        },
+        {
+          "fileName": "Reverb Snap",
+          "soundPack": "TheChainsmokersSounds",
+          "volume": 0.515584409236908,
+          "pan": 0.5
+        },
+        {
+          "fileName": "Shaker",
+          "soundPack": "TheChainsmokersSounds",
+          "volume": 0.5064935088157654,
+          "pan": 0.5
+        },
+        {
+          "fileName": "Dry Snare",
+          "soundPack": "TheChainsmokersSounds",
+          "volume": 1,
+          "pan": 0.5
+        }
+      ],
+      "sections": [
+        {
+          "startTick": 10,
+          "length": 85948,
+          "startOffsetTick": 0,
+          "endOffsetTick": 0,
+          "notes": [
+            { "startTick": 0, "length": 480, "key": 0, "volume": 1 },
+            { "startTick": 480, "length": 480, "key": 3, "volume": 1 },
+            { "startTick": 1440, "length": 480, "key": 3, "volume": 1 },
+            { "startTick": 960, "length": 480, "key": 3, "volume": 1 },
+            { "startTick": 1920, "length": 480, "key": 2, "volume": 1 },
+            { "startTick": 2400, "length": 480, "key": 3, "volume": 1 },
+            { "startTick": 2880, "length": 480, "key": 3, "volume": 1 },
+            { "startTick": 3360, "length": 480, "key": 3, "volume": 1 }
+          ]
+        }
+      ],
+      "autos": [
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] }
+      ],
+      "fx": [
+        0.36666664481163025,
+        0.9473683834075928,
+        0.6097561120986938,
+        0.8999999761581421,
+        1,
+        0.6000000238418579,
+        0.20000000298023224,
+        0.49152544140815735,
+        0,
+        1,
+        0.5714285969734192,
+        0,
+        0.75,
+        [0, 0, 0, 0],
+        [0.5, 0.5, 0.5, 0.5],
+        [
+          0.0030030030757188797, 0.011511511169373989, 0.19919919967651367,
+          0.5995995998382568
+        ],
+        [
+          0.08994708955287933, 0.05128205567598343, 0.05128205567598343,
+          0.08994708955287933
+        ],
+        1,
+        0.07999998331069946,
+        0.8000000715255737,
+        0,
+        0.4000000059604645,
+        0,
+        0,
+        0.75,
+        0.4444444477558136,
+        0.625,
+        0.4000000059604645,
+        0.30769234895706177,
+        0.40000003576278687,
+        0.5,
+        0.8333333134651184,
+        0.111111119389534,
+        0.4285714626312256,
+        0.1666666716337204
+      ],
+      "fxState": [false, false, false, true, false, false, false, false]
+    },
+    {
+      "type": 2,
+      "label": "Rev Crash FX",
+      "volume": 0.09498044103384018,
+      "pan": 0.5,
+      "muteState": 0,
+      "solo": true,
+      "showingAuto": false,
+      "currentAutoIndex": 0,
+      "scTrackIndex": -1,
+      "fileName": "Rev Crash FX",
+      "soundPack": "TheChainsmokersSounds",
+      "tempo": 0,
+      "sections": [
+        {
+          "startTick": 0,
+          "length": 15367,
+          "startOffsetTick": 0,
+          "endOffsetTick": 0,
+          "notes": []
+        },
+        {
+          "startTick": 15448,
+          "length": 12751,
+          "startOffsetTick": 0,
+          "endOffsetTick": 0,
+          "notes": []
+        },
+        {
+          "startTick": 32952,
+          "length": 11880,
+          "startOffsetTick": 0,
+          "endOffsetTick": 0,
+          "notes": []
+        },
+        {
+          "startTick": 69120,
+          "length": 15802,
+          "startOffsetTick": 0,
+          "endOffsetTick": 0,
+          "notes": []
+        },
+        {
+          "startTick": 84955,
+          "length": 15297,
+          "startOffsetTick": 0,
+          "endOffsetTick": 0,
+          "notes": []
+        }
+      ],
+      "autos": [
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] }
+      ],
+      "fx": [
+        0.36666664481163025,
+        0.9473683834075928,
+        0.6097561120986938,
+        0.8999999761581421,
+        1,
+        0.6000000238418579,
+        0.20000000298023224,
+        0.49152544140815735,
+        0,
+        1,
+        0.5714285969734192,
+        0,
+        0.75,
+        [0, 0, 0, 0],
+        [0.5, 0.5, 0.5, 0.5],
+        [
+          0.0030030030757188797, 0.011511511169373989, 0.19919919967651367,
+          0.5995995998382568
+        ],
+        [
+          0.08994708955287933, 0.05128205567598343, 0.05128205567598343,
+          0.08994708955287933
+        ],
+        1,
+        0.07999998331069946,
+        0.8000000715255737,
+        0,
+        0.4000000059604645,
+        0,
+        0,
+        0.75,
+        0.4444444477558136,
+        0.625,
+        0.4000000059604645,
+        0.30769234895706177,
+        0.40000003576278687,
+        0.5,
+        0.8333333134651184,
+        0.111111119389534,
+        0.4285714626312256,
+        0.1666666716337204
+      ],
+      "fxState": [false, false, false, false, false, false, false, false]
+    },
+    {
+      "type": 2,
+      "label": "Open Hihat 2",
+      "volume": 0.14664973318576813,
+      "pan": 0.5,
+      "muteState": 2,
+      "solo": false,
+      "showingAuto": false,
+      "currentAutoIndex": 0,
+      "scTrackIndex": -1,
+      "fileName": "Open Hihat 2",
+      "soundPack": "TheChainsmokersSounds",
+      "tempo": 0,
+      "sections": [
+        {
+          "startTick": 137,
+          "length": 16054,
+          "startOffsetTick": 13,
+          "endOffsetTick": 0,
+          "notes": []
+        },
+        {
+          "startTick": 16658,
+          "length": 16630,
+          "startOffsetTick": 0,
+          "endOffsetTick": 0,
+          "notes": []
+        }
+      ],
+      "autos": [
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] }
+      ],
+      "fx": [
+        0.36666664481163025,
+        0.9473683834075928,
+        0.6097561120986938,
+        0.8999999761581421,
+        1,
+        0.6000000238418579,
+        0.20000000298023224,
+        0.49152544140815735,
+        0,
+        1,
+        0.5714285969734192,
+        0,
+        0.75,
+        [0, 0, 0, 0],
+        [0.5, 0.5, 0.5, 0.5],
+        [
+          0.0030030030757188797, 0.011511511169373989, 0.19919919967651367,
+          0.5995995998382568
+        ],
+        [
+          0.08994708955287933, 0.05128205567598343, 0.05128205567598343,
+          0.08994708955287933
+        ],
+        1,
+        0.07999998331069946,
+        0.8000000715255737,
+        0,
+        0.4000000059604645,
+        0,
+        0,
+        0.75,
+        0.4444444477558136,
+        0.625,
+        0.4000000059604645,
+        0.30769234895706177,
+        0.40000003576278687,
+        0.5,
+        0.8333333134651184,
+        0.111111119389534,
+        0.4285714626312256,
+        0.1666666716337204
+      ],
+      "fxState": [false, false, false, false, false, false, false, false]
+    },
+    {
+      "type": 0,
+      "label": "Gibson Guitar",
+      "volume": 0.3889370858669281,
+      "pan": 0.6233564019203186,
+      "muteState": 2,
+      "solo": false,
+      "showingAuto": false,
+      "currentAutoIndex": 0,
+      "scTrackIndex": -1,
+      "fileName": "Gibson Guitar",
+      "soundPack": "TheChainsmokersSounds",
+      "isSample": false,
+      "param": [
+        0.5, 0.5, 0.5, 0.3142857253551483, 1, 0, 0.5, 0.0010000000474974513, 0,
+        1, 0.5055099725723267, 0.0010000000474974513, 0, 1,
+        0.008333333767950535, 0.03999999910593033, 1, 0
+      ],
+      "sections": [],
+      "autos": [
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] }
+      ],
+      "fx": [
+        0.36666664481163025,
+        0.9473683834075928,
+        0.6097561120986938,
+        0.8999999761581421,
+        1,
+        0.6000000238418579,
+        0.20000000298023224,
+        0.49152544140815735,
+        0,
+        1,
+        0.5714285969734192,
+        0,
+        0.75,
+        [0, 0, 0, 0],
+        [0.5, 0.5, 0.5, 0.5],
+        [
+          0.0030030030757188797, 0.011511511169373989, 0.19919919967651367,
+          0.5995995998382568
+        ],
+        [
+          0.08994708955287933, 0.05128205567598343, 0.05128205567598343,
+          0.08994708955287933
+        ],
+        1,
+        0.07999998331069946,
+        0.8000000715255737,
+        0,
+        0.4000000059604645,
+        0,
+        0,
+        0.75,
+        0.4444444477558136,
+        0.625,
+        0.4000000059604645,
+        0.30769234895706177,
+        0.40000003576278687,
+        0.5,
+        0.8333333134651184,
+        0.111111119389534,
+        0.4285714626312256,
+        0.1666666716337204
+      ],
+      "fxState": [false, false, false, false, false, false, false, false]
+    }
+  ]
+}

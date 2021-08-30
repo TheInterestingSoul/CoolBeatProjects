@@ -1,0 +1,126 @@
+{
+  "version": 2,
+  "tempo": 90,
+  "tracks": [
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": false,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "isExternal": false,
+      "soundPackName": "BasicSoundPack",
+      "fileName": "Orjan Pluck",
+      "octave": 0.5,
+      "tune": 0.2857142984867096,
+      "volEnvA": 0.119011290371418,
+      "volEnvD": 0.2349826544523239,
+      "volEnvS": 0.7608441710472107,
+      "volEnvR": 0.4967031478881836,
+      "modEnvA": 0,
+      "modEnvD": 0,
+      "modEnvS": 1,
+      "modEnvR": 0,
+      "filterFC": 0.37716665863990784,
+      "modToFilter": 0.4597916603088379,
+      "portaMode": 0,
+      "portaTime": 0.4650000035762787,
+      "notes": [
+        { "startSlot": 0, "lengthSlot": 16, "note": 60, "volume": 1 },
+        { "startSlot": 32, "lengthSlot": 8, "note": 57, "volume": 1 },
+        { "startSlot": 48, "lengthSlot": 8, "note": 64, "volume": 1 },
+        { "startSlot": 76, "lengthSlot": 8, "note": 57, "volume": 1 },
+        { "startSlot": 84, "lengthSlot": 4, "note": 59, "volume": 1 },
+        { "startSlot": 92, "lengthSlot": 8, "note": 60, "volume": 1 },
+        { "startSlot": 108, "lengthSlot": 8, "note": 62, "volume": 1 },
+        { "startSlot": 116, "lengthSlot": 8, "note": 57, "volume": 1 }
+      ]
+    },
+    {
+      "type": 1,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "slotScale": 1,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "RockBandSounds",
+          "fileName": "Snare 3",
+          "category": 2,
+          "volume": 0.09489050507545471,
+          "beats": [
+            { "positionSlot": 0, "volume": 0.7721238732337952 },
+            { "positionSlot": 16, "volume": 1 },
+            { "positionSlot": 24, "volume": 1 },
+            { "positionSlot": 32, "volume": 1 },
+            { "positionSlot": 40, "volume": 1 },
+            { "positionSlot": 48, "volume": 1 },
+            { "positionSlot": 56, "volume": 1 },
+            { "positionSlot": 64, "volume": 1 },
+            { "positionSlot": 72, "volume": 1 },
+            { "positionSlot": 80, "volume": 1 },
+            { "positionSlot": 88, "volume": 1 },
+            { "positionSlot": 96, "volume": 1 },
+            { "positionSlot": 104, "volume": 1 },
+            { "positionSlot": 112, "volume": 1 },
+            { "positionSlot": 120, "volume": 1 },
+            { "positionSlot": 8, "volume": 1 },
+            { "positionSlot": 76, "volume": 1 },
+            { "positionSlot": 100, "volume": 1 },
+            { "positionSlot": 124, "volume": 1 }
+          ]
+        },
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "RockBandSounds",
+          "fileName": "Snare 2",
+          "category": 2,
+          "volume": 0.44525545835494995,
+          "beats": [
+            { "positionSlot": 0, "volume": 0.12389380484819412 },
+            { "positionSlot": 64, "volume": 0.1548672616481781 },
+            { "positionSlot": 80, "volume": 0.36283189058303833 },
+            { "positionSlot": 96, "volume": 0.7433627843856812 },
+            { "positionSlot": 112, "volume": 0.8738937973976135 },
+            { "positionSlot": 116, "volume": 1 }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [],
+      "slotScale": 1,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "RockBandSounds",
+          "fileName": "Snare 1",
+          "category": 2,
+          "volume": 0.09732359647750854,
+          "beats": [
+            { "positionSlot": 4, "volume": 0.8141593337059021 },
+            { "positionSlot": 12, "volume": 1 },
+            { "positionSlot": 20, "volume": 1 },
+            { "positionSlot": 28, "volume": 1 },
+            { "positionSlot": 36, "volume": 1 },
+            { "positionSlot": 44, "volume": 1 },
+            { "positionSlot": 52, "volume": 1 },
+            { "positionSlot": 60, "volume": 1 }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "version": 2,
+  "tempo": 65,
+  "tracks": [
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.27272725105285645,
+      "pan": 0.5,
+      "effectors": [
+        {
+          "index": 1,
+          "mix": 0.44999998807907104,
+          "paramX": 0.6999999284744263,
+          "paramY": 0.699999988079071
+        },
+        {
+          "index": 4,
+          "mix": 0.46275752782821655,
+          "paramX": 0.46264132857322693,
+          "paramY": 0.6824197173118591
+        }
+      ],
+      "isExternal": false,
+      "soundPackName": "RockBandSounds",
+      "fileName": "Overdrive Guitar",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 0.1673451066017151,
+      "volEnvD": 1,
+      "volEnvS": 0,
+      "volEnvR": 0.1495649516582489,
+      "modEnvA": 5.000000237487257e-4,
+      "modEnvD": 2.0000000949949026e-4,
+      "modEnvS": 1,
+      "modEnvR": 6.666666740784422e-5,
+      "filterFC": 0.7476666569709778,
+      "modToFilter": 1,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [
+        { "startSlot": 0, "lengthSlot": 8, "note": 72, "volume": 1 },
+        { "startSlot": 8, "lengthSlot": 8, "note": 79, "volume": 1 },
+        { "startSlot": 16, "lengthSlot": 8, "note": 79, "volume": 1 },
+        { "startSlot": 24, "lengthSlot": 8, "note": 74, "volume": 1 },
+        { "startSlot": 32, "lengthSlot": 8, "note": 74, "volume": 1 },
+        { "startSlot": 40, "lengthSlot": 8, "note": 76, "volume": 1 },
+        { "startSlot": 64, "lengthSlot": 4, "note": 76, "volume": 1 },
+        { "startSlot": 68, "lengthSlot": 4, "note": 74, "volume": 1 },
+        { "startSlot": 72, "lengthSlot": 4, "note": 76, "volume": 1 },
+        { "startSlot": 92, "lengthSlot": 8, "note": 74, "volume": 1 },
+        { "startSlot": 100, "lengthSlot": 4, "note": 71, "volume": 1 },
+        { "startSlot": 104, "lengthSlot": 8, "note": 74, "volume": 1 },
+        { "startSlot": 76, "lengthSlot": 12, "note": 74, "volume": 1 }
+      ]
+    }
+  ]
+}

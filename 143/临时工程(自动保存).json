@@ -1,0 +1,115 @@
+{
+  "version": 4,
+  "tempo": 120,
+  "timeSigType": 0,
+  "masterVolume": 0.5,
+  "masterPan": 0.5,
+  "masterAutos": [
+    { "state": true, "sections": [] },
+    { "state": true, "sections": [] },
+    { "state": true, "sections": [] }
+  ],
+  "tracks": [
+    {
+      "type": 0,
+      "label": "Electric Piano",
+      "volume": 0.5,
+      "pan": 0.5,
+      "muteState": 0,
+      "solo": false,
+      "showingAuto": false,
+      "currentAutoIndex": 0,
+      "scTrackIndex": -1,
+      "fileName": "Electric Piano",
+      "soundPack": "RockBandSounds",
+      "isSample": false,
+      "param": [
+        0.375, 0, 1, 0.3142857253551483, 1, 1, 1, 0.36482539772987366, 1, 1, 1,
+        0.0010000000474974513, 0.8220000267028809, 1, 1, 0, 1, 0
+      ],
+      "sections": [
+        {
+          "startTick": 0,
+          "length": 7680,
+          "startOffsetTick": 0,
+          "endOffsetTick": 0,
+          "notes": [
+            { "startTick": 0, "length": 120, "key": 65, "volume": 1 },
+            { "startTick": 120, "length": 120, "key": 58, "volume": 1 },
+            { "startTick": 240, "length": 120, "key": 65, "volume": 1 },
+            { "startTick": 360, "length": 120, "key": 58, "volume": 1 },
+            { "startTick": 480, "length": 120, "key": 65, "volume": 1 },
+            { "startTick": 600, "length": 120, "key": 58, "volume": 1 },
+            { "startTick": 720, "length": 120, "key": 65, "volume": 1 },
+            { "startTick": 840, "length": 120, "key": 58, "volume": 1 },
+            { "startTick": 960, "length": 120, "key": 65, "volume": 1 },
+            { "startTick": 1080, "length": 120, "key": 58, "volume": 1 },
+            { "startTick": 1200, "length": 120, "key": 65, "volume": 1 },
+            { "startTick": 1320, "length": 120, "key": 58, "volume": 1 },
+            { "startTick": 1440, "length": 120, "key": 65, "volume": 1 },
+            { "startTick": 1560, "length": 120, "key": 58, "volume": 1 },
+            { "startTick": 1680, "length": 120, "key": 65, "volume": 1 },
+            { "startTick": 1800, "length": 120, "key": 58, "volume": 1 }
+          ]
+        }
+      ],
+      "autos": [
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] }
+      ],
+      "fx": [
+        1,
+        1,
+        1,
+        0.8999999761581421,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        1,
+        1,
+        0.75,
+        [0, 0, 0, 0],
+        [0.5, 0.5, 0.5, 0.5],
+        [
+          0.0030030030757188797, 0.011511511169373989, 0.19919919967651367,
+          0.5995995998382568
+        ],
+        [
+          0.08994708955287933, 0.05128205567598343, 0.05128205567598343,
+          0.08994708955287933
+        ],
+        1,
+        1,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0.75,
+        0.4444444477558136,
+        0.625,
+        1,
+        1,
+        1,
+        1,
+        0.8333333134651184,
+        0.111111119389534,
+        0.4285714626312256,
+        0.1666666716337204
+      ],
+      "fxState": [true, true, true, false, false, true, true, false]
+    }
+  ]
+}

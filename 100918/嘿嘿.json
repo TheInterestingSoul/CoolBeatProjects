@@ -1,0 +1,225 @@
+{
+  "version": 4,
+  "tempo": 120,
+  "timeSigType": 0,
+  "masterVolume": 0.5,
+  "masterPan": 0.5,
+  "masterAutos": [
+    { "state": true, "sections": [] },
+    { "state": true, "sections": [] },
+    { "state": true, "sections": [] }
+  ],
+  "tracks": [
+    {
+      "type": 0,
+      "label": "Kalimba",
+      "volume": 0.5,
+      "pan": 0.5,
+      "muteState": 0,
+      "solo": false,
+      "showingAuto": true,
+      "currentAutoIndex": 2,
+      "scTrackIndex": -1,
+      "fileName": "Kalimba",
+      "soundPack": "WesternClassic",
+      "isSample": false,
+      "param": [
+        0.5, 0.5, 0.5, 0.3142857253551483, 1, 0, 0.5, 0.0010000000474974513, 0,
+        1, 0.41659116744995117, 0.0010000000474974513, 0, 1,
+        0.008333333767950535, 0.03999999910593033, 1, 0
+      ],
+      "sections": [
+        {
+          "startTick": 0,
+          "length": 53760,
+          "startOffsetTick": 0,
+          "endOffsetTick": 0,
+          "notes": [
+            { "startTick": 0, "length": 720, "key": 48, "volume": 1 },
+            { "startTick": 720, "length": 720, "key": 60, "volume": 1 },
+            { "startTick": 1560, "length": 600, "key": 58, "volume": 1 },
+            { "startTick": 2280, "length": 720, "key": 57, "volume": 1 },
+            { "startTick": 3240, "length": 480, "key": 58, "volume": 1 },
+            { "startTick": 3960, "length": 720, "key": 52, "volume": 1 },
+            { "startTick": 5040, "length": 840, "key": 46, "volume": 1 },
+            { "startTick": 0, "length": 960, "key": 0, "volume": 1 },
+            { "startTick": 1080, "length": 840, "key": 0, "volume": 1 },
+            { "startTick": 2040, "length": 960, "key": 0, "volume": 1 },
+            { "startTick": 3120, "length": 960, "key": 0, "volume": 1 },
+            { "startTick": 4200, "length": 960, "key": 0, "volume": 1 },
+            { "startTick": 4920, "length": 1080, "key": 50, "volume": 1 },
+            { "startTick": 6000, "length": 480, "key": 48, "volume": 1 },
+            { "startTick": 6480, "length": 360, "key": 49, "volume": 1 },
+            { "startTick": 7200, "length": 960, "key": 58, "volume": 1 },
+            { "startTick": 7080, "length": 120, "key": 53, "volume": 1 },
+            { "startTick": 6960, "length": 120, "key": 52, "volume": 1 }
+          ]
+        }
+      ],
+      "autos": [
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        {
+          "state": false,
+          "sections": [
+            {
+              "startTick": 0,
+              "length": 53760,
+              "nodes": [
+                { "position": 0, "value": 0.0626535415649414 },
+                { "position": 720, "value": 0.7788697481155396 },
+                { "position": 960, "value": 0.5024570226669312 },
+                { "position": 1440, "value": 0.45454543828964233 },
+                { "position": 1800, "value": 0.5159705281257629 },
+                { "position": 1920, "value": 0.31081080436706543 },
+                { "position": 2280, "value": 0.1990172266960144 },
+                { "position": 2760, "value": 0.8697788715362549 },
+                { "position": 2880, "value": 0.9127764105796814 },
+                { "position": 3480, "value": 1 },
+                { "position": 3840, "value": 1 },
+                { "position": 4320, "value": 1 },
+                { "position": 4440, "value": 1 },
+                { "position": 4680, "value": 1 }
+              ]
+            }
+          ]
+        },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] }
+      ],
+      "fx": [
+        0.36666664481163025,
+        0.9473683834075928,
+        0.6097561120986938,
+        0.8999999761581421,
+        1,
+        0.6000000238418579,
+        0.20000000298023224,
+        0.49152544140815735,
+        0,
+        1,
+        0.5714285969734192,
+        0,
+        0.75,
+        [0, 0, 0, 0],
+        [0.5, 0.5, 0.5, 0.5],
+        [
+          0.0030030030757188797, 0.011511511169373989, 0.19919919967651367,
+          0.5995995998382568
+        ],
+        [
+          0.08994708955287933, 0.05128205567598343, 0.05128205567598343,
+          0.08994708955287933
+        ],
+        1,
+        0.07999998331069946,
+        0.8000000715255737,
+        0,
+        0.4000000059604645,
+        0,
+        0,
+        0.75,
+        0.4444444477558136,
+        0.625,
+        0.4000000059604645,
+        0.30769234895706177,
+        0.40000003576278687,
+        0.5,
+        0.8333333134651184,
+        0.111111119389534,
+        0.4285714626312256,
+        0.1666666716337204
+      ],
+      "fxState": [false, false, false, false, false, false, false, false]
+    },
+    {
+      "type": 1,
+      "label": "鼓组",
+      "volume": 0.10600785166025162,
+      "pan": 0.5,
+      "muteState": 0,
+      "solo": false,
+      "showingAuto": false,
+      "currentAutoIndex": 0,
+      "scTrackIndex": -1,
+      "channels": [
+        {
+          "fileName": "Timpani 2",
+          "soundPack": "WesternClassic",
+          "volume": 1,
+          "pan": 0.5
+        },
+        {
+          "fileName": "Low Woodblock",
+          "soundPack": "WesternClassic",
+          "volume": 1,
+          "pan": 0.5
+        }
+      ],
+      "sections": [],
+      "autos": [
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] }
+      ],
+      "fx": [
+        0.36666664481163025,
+        0.9473683834075928,
+        0.6097561120986938,
+        0.8999999761581421,
+        1,
+        0.6000000238418579,
+        0.20000000298023224,
+        0.49152544140815735,
+        0,
+        1,
+        0.5714285969734192,
+        0,
+        0.75,
+        [0, 0, 0, 0],
+        [0.5, 0.5, 0.5, 0.5],
+        [
+          0.0030030030757188797, 0.011511511169373989, 0.19919919967651367,
+          0.5995995998382568
+        ],
+        [
+          0.08994708955287933, 0.05128205567598343, 0.05128205567598343,
+          0.08994708955287933
+        ],
+        1,
+        0.07999998331069946,
+        0.8000000715255737,
+        0,
+        0.4000000059604645,
+        0,
+        0,
+        0.75,
+        0.4444444477558136,
+        0.625,
+        0.4000000059604645,
+        0.30769234895706177,
+        0.40000003576278687,
+        0.5,
+        0.8333333134651184,
+        0.111111119389534,
+        0.4285714626312256,
+        0.1666666716337204
+      ],
+      "fxState": [false, false, false, false, false, false, false, false]
+    }
+  ]
+}

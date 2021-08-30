@@ -1,0 +1,189 @@
+{
+  "version": 2,
+  "tempo": 120,
+  "tracks": [
+    {
+      "type": 0,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.7523511052131653,
+      "pan": 0.5,
+      "effectors": [
+        {
+          "index": 1,
+          "mix": 0.5356577038764954,
+          "paramX": 0.6547031402587891,
+          "paramY": 0.429121732711792
+        },
+        { "index": 2, "mix": 0.3122028112411499, "paramX": 0, "paramY": 0 },
+        {
+          "index": 3,
+          "mix": 0.7939777970314026,
+          "paramX": 0.7492732405662537,
+          "paramY": 0.5
+        }
+      ],
+      "isExternal": false,
+      "soundPackName": "WesternClassic",
+      "fileName": "Grand Piano",
+      "octave": 0.5,
+      "tune": 0.5,
+      "volEnvA": 0.003999864216893911,
+      "volEnvD": 1,
+      "volEnvS": 0,
+      "volEnvR": 0.08001658320426941,
+      "modEnvA": 5.000000237487257e-4,
+      "modEnvD": 2.0000000949949026e-4,
+      "modEnvS": 1,
+      "modEnvR": 1,
+      "filterFC": 2.125,
+      "modToFilter": 0.4791666567325592,
+      "portaMode": 0,
+      "portaTime": 0.1875,
+      "notes": [
+        { "startSlot": 0, "lengthSlot": 4, "note": 72, "volume": 1 },
+        { "startSlot": 16, "lengthSlot": 4, "note": 72, "volume": 1 },
+        { "startSlot": 32, "lengthSlot": 4, "note": 72, "volume": 1 },
+        { "startSlot": 48, "lengthSlot": 4, "note": 72, "volume": 1 },
+        { "startSlot": 64, "lengthSlot": 4, "note": 71, "volume": 1 },
+        { "startSlot": 80, "lengthSlot": 4, "note": 71, "volume": 1 },
+        { "startSlot": 104, "lengthSlot": 4, "note": 74, "volume": 1 },
+        { "startSlot": 112, "lengthSlot": 4, "note": 72, "volume": 1 },
+        {
+          "startSlot": 24,
+          "lengthSlot": 4,
+          "note": 69,
+          "volume": 0.5796661376953125
+        },
+        { "startSlot": 56, "lengthSlot": 4, "note": 71, "volume": 1 },
+        { "startSlot": 72, "lengthSlot": 4, "note": 71, "volume": 1 },
+        { "startSlot": 88, "lengthSlot": 4, "note": 71, "volume": 1 },
+        { "startSlot": 96, "lengthSlot": 4, "note": 76, "volume": 1 },
+        {
+          "startSlot": 120,
+          "lengthSlot": 4,
+          "note": 69,
+          "volume": 0.8042488694190979
+        },
+        { "startSlot": 40, "lengthSlot": 4, "note": 72, "volume": 1 },
+        { "startSlot": 144, "lengthSlot": 4, "note": 72, "volume": 1 },
+        { "startSlot": 160, "lengthSlot": 4, "note": 72, "volume": 1 },
+        { "startSlot": 176, "lengthSlot": 4, "note": 72, "volume": 1 },
+        { "startSlot": 192, "lengthSlot": 4, "note": 71, "volume": 1 },
+        { "startSlot": 208, "lengthSlot": 4, "note": 71, "volume": 1 },
+        { "startSlot": 232, "lengthSlot": 4, "note": 74, "volume": 1 },
+        { "startSlot": 240, "lengthSlot": 4, "note": 72, "volume": 1 },
+        {
+          "startSlot": 136,
+          "lengthSlot": 4,
+          "note": 69,
+          "volume": 0.613050103187561
+        },
+        {
+          "startSlot": 152,
+          "lengthSlot": 4,
+          "note": 69,
+          "volume": 0.5811836123466492
+        },
+        { "startSlot": 184, "lengthSlot": 4, "note": 71, "volume": 1 },
+        { "startSlot": 224, "lengthSlot": 4, "note": 76, "volume": 1 },
+        { "startSlot": 248, "lengthSlot": 4, "note": 69, "volume": 1 },
+        { "startSlot": 128, "lengthSlot": 4, "note": 72, "volume": 1 },
+        { "startSlot": 168, "lengthSlot": 4, "note": 74, "volume": 1 },
+        { "startSlot": 216, "lengthSlot": 4, "note": 69, "volume": 1 },
+        { "startSlot": 200, "lengthSlot": 4, "note": 67, "volume": 1 },
+        { "startSlot": 8, "lengthSlot": 4, "note": 69, "volume": 1 }
+      ]
+    },
+    {
+      "type": 1,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.800000011920929,
+      "pan": 0.5,
+      "effectors": [
+        { "index": 2, "mix": 0.1111111119389534, "paramX": 0, "paramY": 0 }
+      ],
+      "slotScale": 1,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "EssentialTropicalHouse",
+          "fileName": "Piano Am",
+          "category": 0,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 0, "volume": 1 },
+            { "positionSlot": 64, "volume": 1 },
+            { "positionSlot": 80, "volume": 1 }
+          ]
+        },
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "EssentialTropicalHouse",
+          "fileName": "Piano Bm",
+          "category": 0,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 32, "volume": 1 },
+            { "positionSlot": 96, "volume": 1 }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "loaded": true,
+      "isLoop": true,
+      "volume": 0.4200626611709595,
+      "pan": 0.5,
+      "effectors": [],
+      "slotScale": 1,
+      "channels": [
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "MelodicTrance",
+          "fileName": "Kick 3",
+          "category": 1,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 0, "volume": 1 },
+            { "positionSlot": 8, "volume": 1 },
+            { "positionSlot": 24, "volume": 1 },
+            { "positionSlot": 40, "volume": 1 },
+            { "positionSlot": 64, "volume": 1 },
+            { "positionSlot": 88, "volume": 1 },
+            { "positionSlot": 104, "volume": 1 }
+          ]
+        },
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "ProgressiveHouseElements",
+          "fileName": "Clap 1",
+          "category": 2,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 16, "volume": 1 },
+            { "positionSlot": 80, "volume": 1 }
+          ]
+        },
+        {
+          "loaded": true,
+          "isExternal": false,
+          "soundPackName": "ProgressiveHouseElements",
+          "fileName": "Clap 2",
+          "category": 2,
+          "volume": 1,
+          "beats": [
+            { "positionSlot": 48, "volume": 1 },
+            { "positionSlot": 112, "volume": 1 }
+          ]
+        }
+      ]
+    }
+  ]
+}

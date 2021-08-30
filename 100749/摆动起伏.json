@@ -1,0 +1,185 @@
+{
+  "version": 4,
+  "tempo": 120,
+  "timeSigType": 0,
+  "masterVolume": 0.5,
+  "masterPan": 0.5,
+  "masterAutos": [
+    { "state": true, "sections": [] },
+    { "state": true, "sections": [] },
+    { "state": true, "sections": [] }
+  ],
+  "tracks": [
+    {
+      "type": 0,
+      "label": "Trip Lead",
+      "volume": 0.5,
+      "pan": 0.5,
+      "muteState": 0,
+      "solo": false,
+      "showingAuto": false,
+      "currentAutoIndex": 0,
+      "scTrackIndex": -1,
+      "fileName": "Trip Lead",
+      "soundPack": "BasicSoundPack",
+      "isSample": false,
+      "param": [
+        0.5, 0.5, 0.5, 0.3142857253551483, 1, 0, 0.5, 0.0010000000474974513, 0,
+        1, 0.24986213445663452, 0.0010000000474974513, 0, 1,
+        0.008333333767950535, 0.03999999910593033, 1, 0
+      ],
+      "sections": [
+        {
+          "startTick": 0,
+          "length": 1920,
+          "startOffsetTick": 0,
+          "endOffsetTick": 0,
+          "notes": [
+            { "startTick": 0, "length": 120, "key": 60, "volume": 1 },
+            {
+              "startTick": 120,
+              "length": 600,
+              "key": 60,
+              "volume": 0.3600628972053528
+            },
+            {
+              "startTick": 120,
+              "length": 600,
+              "key": 55,
+              "volume": 0.6918238997459412
+            },
+            { "startTick": 480, "length": 360, "key": 52, "volume": 1 },
+            {
+              "startTick": 240,
+              "length": 360,
+              "key": 53,
+              "volume": 0.31132078170776367
+            },
+            {
+              "startTick": 720,
+              "length": 360,
+              "key": 67,
+              "volume": 0.4842767119407654
+            },
+            {
+              "startTick": 840,
+              "length": 240,
+              "key": 69,
+              "volume": 0.19968551397323608
+            },
+            { "startTick": 960, "length": 120, "key": 71, "volume": 1 },
+            {
+              "startTick": 1200,
+              "length": 360,
+              "key": 67,
+              "volume": 0.4842767119407654
+            },
+            {
+              "startTick": 1200,
+              "length": 240,
+              "key": 69,
+              "volume": 0.19968551397323608
+            },
+            { "startTick": 1200, "length": 120, "key": 71, "volume": 1 },
+            {
+              "startTick": 600,
+              "length": 240,
+              "key": 64,
+              "volume": 0.1886792778968811
+            },
+            {
+              "startTick": 1440,
+              "length": 600,
+              "key": 48,
+              "volume": 0.6918238997459412
+            },
+            { "startTick": 1800, "length": 240, "key": 45, "volume": 1 },
+            {
+              "startTick": 1560,
+              "length": 360,
+              "key": 46,
+              "volume": 0.31132078170776367
+            },
+            { "startTick": 2040, "length": 120, "key": 45, "volume": 1 },
+            {
+              "startTick": 2160,
+              "length": 360,
+              "key": 71,
+              "volume": 0.4842767119407654
+            },
+            {
+              "startTick": 2280,
+              "length": 240,
+              "key": 76,
+              "volume": 0.19968551397323608
+            },
+            { "startTick": 2400, "length": 120, "key": 79, "volume": 1 },
+            {
+              "startTick": 2040,
+              "length": 240,
+              "key": 65,
+              "volume": 0.1886792778968811
+            }
+          ]
+        }
+      ],
+      "autos": [
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] },
+        { "state": false, "sections": [] }
+      ],
+      "fx": [
+        0.36666664481163025,
+        0.9473683834075928,
+        0.6097561120986938,
+        0.8999999761581421,
+        1,
+        0.6000000238418579,
+        0.20000000298023224,
+        0.49152544140815735,
+        0,
+        1,
+        0.5714285969734192,
+        0,
+        0.75,
+        [0, 0, 0, 0],
+        [0.5, 0.5, 0.5, 0.5],
+        [
+          0.0030030030757188797, 0.011511511169373989, 0.19919919967651367,
+          0.5995995998382568
+        ],
+        [
+          0.08994708955287933, 0.05128205567598343, 0.05128205567598343,
+          0.08994708955287933
+        ],
+        1,
+        0.07999998331069946,
+        0.8000000715255737,
+        0,
+        0.4000000059604645,
+        0,
+        0,
+        0.75,
+        0.4444444477558136,
+        0.625,
+        0.4000000059604645,
+        0.30769234895706177,
+        0.40000003576278687,
+        0.5,
+        0.8333333134651184,
+        0.111111119389534,
+        0.4285714626312256,
+        0.1666666716337204
+      ],
+      "fxState": [false, false, false, false, false, false, false, false]
+    }
+  ]
+}
