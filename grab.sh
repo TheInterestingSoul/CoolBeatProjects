@@ -8,6 +8,7 @@ grab_projects(){
       exit 1
     fi
     echo -e "\033[34m [INFO]\033[0m Ranged from $1 to $2"
+    cd projects
     for num in `seq $1 $2`
     do 
       curl -f -s \
